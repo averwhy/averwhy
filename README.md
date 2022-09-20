@@ -4,3 +4,5 @@
 
 ## averwhy
 Hey, im an 18 year old coder and computer enthusiast from New Hampshire.
+
+I'm studying Computer Science at Southern New Hampshire University!
