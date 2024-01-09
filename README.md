@@ -5,6 +5,6 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJvLjZ1F0VoNLC3t_bu5klw?style=social)
 
 ## averwhy
-Hey, im an 19 year old coder and computer scientist from New Hampshire.
+Hey, im an 20 year old coder and computer scientist from New Hampshire.
 
 I'm studying Computer Science at Southern New Hampshire University!
