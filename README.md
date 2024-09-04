@@ -7,10 +7,11 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/averwhy2?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJvLjZ1F0VoNLC3t_bu5klw?style=social)
 
+
+
 # averwhy
 Hey, im an 20 year old coder and computer scientist from New Hampshire.
 
 I'm studying Computer Science at Southern New Hampshire University!
 
-## Recent starred projects
-![Last Stars Display](https://badges.pufler.dev/last-stars/averwhy?count=9&padding=15&perRow=3)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&redirect=true) ![Last Stars Display](https://badges.pufler.dev/last-stars/averwhy?count=6&padding=15&perRow=2)
