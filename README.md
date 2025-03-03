@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/averwhy2?style=social)](https://twitter.com/averwhy2)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJvLjZ1F0VoNLC3t_bu5klw?style=social)](https://www.youtube.com/@averwhy_)
 
-
+# hey. my name is avery...
 
 I'm an 21 year old programmer and aspiring software engineer from New Hampshire who loves everything computers, music, and science.
 
