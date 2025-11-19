@@ -13,15 +13,4 @@ I'm studying Computer Science at Southern New Hampshire University!
 
 Learn more about me on my [website](https://averwhy.net/), and reach out to me on [LinkedIn](https://www.linkedin.com/in/avery-bertrand/)!
 
-
-<dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-My recently starred projects ⬇️
-</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-‎
-‎
-
-‎
-‎
-‎
-‎
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&redirect=true) ![Last Stars Display](https://badges.pufler.dev/last-stars/averwhy?count=4&padding=15&perRow=1)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=averwhy&redirect=true)
