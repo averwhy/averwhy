@@ -7,7 +7,7 @@
 
 # hey. my name is avery...
 
-I'm an 21 year old programmer and aspiring software engineer from New Hampshire who loves everything computers, music, and science.
+I'm an 22 year old programmer and aspiring software engineer from New Hampshire who loves everything computers, music, and science.
 
 I'm studying Computer Science at Southern New Hampshire University!
 
