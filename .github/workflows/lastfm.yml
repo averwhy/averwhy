@@ -21,3 +21,6 @@ jobs:
 
           # Optional: Customize the commit message
           COMMIT_MESSAGE: 'Update music stats 🎵'
+
+# created with the help of:
+# https://github.com/marketplace/actions/last-fm-readme
