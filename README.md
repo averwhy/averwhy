@@ -72,9 +72,9 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `186 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `179 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `177 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `173 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `129 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `122 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `80 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
