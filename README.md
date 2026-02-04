@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Silver Springs](https://www.last.fm/music/Fleetwood+Mac/_/Silver+Springs)** - Fleetwood Mac<br/>
 > ∙ **[Take It Easy](https://www.last.fm/music/Eagles/_/Take+It+Easy)** - Eagles<br/>
 > ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
 > ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
@@ -53,7 +54,6 @@
 > ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
 > ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
 > ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
-> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -72,7 +72,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `196 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `186 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `179 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `177 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `129 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
