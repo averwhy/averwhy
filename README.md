@@ -79,5 +79,5 @@
 > `122 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `80 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `80 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `76 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `58 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 <!--END_LASTFM_ARTISTS-->
