@@ -3,7 +3,7 @@ name: 🎵 Update Last.fm Stats
 on:
   # Run automatically every 6 hours
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */6 * * *'
   # Allow manual runs
   workflow_dispatch:
 
