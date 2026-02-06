@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[You Can't Always Get What You Want (Remastered 2019)](https://www.last.fm/music/The+Rolling+Stones/_/You+Can%27t+Always+Get+What+You+Want+(Remastered+2019))** - The Rolling Stones<br/>
+> ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
+> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
+> ∙ **[How Can You Be Sure?](https://www.last.fm/music/Radiohead/_/How+Can+You+Be+Sure%3F)** - Radiohead<br/>
+> ∙ **[Short Morgan](https://www.last.fm/music/Ovlov/_/Short+Morgan)** - Ovlov<br/>
+> ∙ **[Numb, But I Still Feel It](https://www.last.fm/music/Title+Fight/_/Numb,+But+I+Still+Feel+It)** - Title Fight<br/>
 > ∙ **[The Smoke](https://www.last.fm/music/The+Smile/_/The+Smoke)** - The Smile<br/>
 > ∙ **[Silver Springs](https://www.last.fm/music/Fleetwood+Mac/_/Silver+Springs)** - Fleetwood Mac<br/>
-> ∙ **[Take It Easy](https://www.last.fm/music/Eagles/_/Take+It+Easy)** - Eagles<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[Hoya Paranoia](https://www.last.fm/music/Duster/_/Hoya+Paranoia)** - Duster<br/>
-> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
-> ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -66,18 +66,18 @@
 > `63 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `59 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `59 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `55 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `56 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `177 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `163 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `164 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `160 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `128 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `122 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `80 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `123 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `81 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `80 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `37 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 <!--END_LASTFM_ARTISTS-->
