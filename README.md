@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Nude](https://www.last.fm/music/Radiohead/_/Nude)** - Radiohead<br/>
-> ∙ **[Clean](https://www.last.fm/music/Should/_/Clean)** - Should<br/>
-> ∙ **[Feels Like Morning](https://www.last.fm/music/Should/_/Feels+Like+Morning)** - Should<br/>
-> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
-> ∙ **[in nine](https://www.last.fm/music/Should/_/in+nine)** - Should<br/>
-> ∙ **[inst2](https://www.last.fm/music/Should/_/inst2)** - Should<br/>
-> ∙ **[it's pull is slight](https://www.last.fm/music/Should/_/it%27s+pull+is+slight)** - Should<br/>
-> ∙ **[lullen](https://www.last.fm/music/Should/_/lullen)** - Should<br/>
+> ∙ **[In Nine Inst](https://www.last.fm/music/Should/_/In+Nine+Inst)** - Should<br/>
+> ∙ **[In Nine Inst](https://www.last.fm/music/Should/_/In+Nine+Inst)** - Should<br/>
+> ∙ **[Things Are The Same (in Nine)](https://www.last.fm/music/Should/_/Things+Are+The+Same+(in+Nine))** - Should<br/>
+> ∙ **[Things Are The Same (in Nine)](https://www.last.fm/music/Should/_/Things+Are+The+Same+(in+Nine))** - Should<br/>
+> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
+> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
+> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
+> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -61,10 +61,10 @@
 
 > `100 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `87 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `70 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `69 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `65 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `63 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `62 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `61 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `60 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `56 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -73,7 +73,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `173 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `124 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `142 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `123 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `101 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `93 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
