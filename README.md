@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
+> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
+> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
+> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
+> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
 > ∙ **[Blapt](https://www.last.fm/music/ROMsets/_/Blapt)** - ROMsets<br/>
 > ∙ **[Always Returning](https://www.last.fm/music/Should/_/Always+Returning)** - Should<br/>
 > ∙ **[Brass Burn](https://www.last.fm/music/Should/_/Brass+Burn)** - Should<br/>
-> ∙ **[Myself](https://www.last.fm/music/Should/_/Myself)** - Should<br/>
-> ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/_/Feed+Like+Fishes)** - Should<br/>
-> ∙ **[Slide Slip](https://www.last.fm/music/Should/_/Slide+Slip)** - Should<br/>
-> ∙ **[Turned Tables](https://www.last.fm/music/Should/_/Turned+Tables)** - Should<br/>
-> ∙ **[both eyes open](https://www.last.fm/music/Should/_/both+eyes+open)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `100 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `102 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `65 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `59 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `49 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `34 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `26 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `26 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `24 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `20 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
+> `15 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `234 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `226 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `66 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `42 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `34 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `32 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `29 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `30 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `20 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `10 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `9 ▶️` ∙ **[drezzdon](https://www.last.fm/music/drezzdon)**<br/>
 <!--END_LASTFM_ARTISTS-->
