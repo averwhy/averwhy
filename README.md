@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[One of These Nights - 2013 Remaster](https://www.last.fm/music/Eagles/_/One+of+These+Nights+-+2013+Remaster)** - Eagles<br/>
+> ∙ **[What a Fool Believes](https://www.last.fm/music/The+Doobie+Brothers/_/What+a+Fool+Believes)** - The Doobie Brothers<br/>
+> ∙ **[Promises, Promises - US Single Version](https://www.last.fm/music/Naked+Eyes/_/Promises,+Promises+-+US+Single+Version)** - Naked Eyes<br/>
+> ∙ **[Eminence Front](https://www.last.fm/music/The+Who/_/Eminence+Front)** - The Who<br/>
+> ∙ **[How Long](https://www.last.fm/music/Ace/_/How+Long)** - Ace<br/>
+> ∙ **[I Saw The Light](https://www.last.fm/music/Todd+Rundgren/_/I+Saw+The+Light)** - Todd Rundgren<br/>
+> ∙ **[One of These Nights - 2013 Remaster](https://www.last.fm/music/Eagles/_/One+of+These+Nights+-+2013+Remaster)** - Eagles<br/>
 > ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
 > ∙ **[Do It Again](https://www.last.fm/music/Steely+Dan/_/Do+It+Again)** - Steely Dan<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
-> ∙ **[Myself](https://www.last.fm/music/Should/_/Myself)** - Should<br/>
-> ∙ **[Awake at Night](https://www.last.fm/music/Should/_/Awake+at+Night)** - Should<br/>
-> ∙ **[Myself](https://www.last.fm/music/Should/_/Myself)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `101 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `88 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `88 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `83 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `65 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `64 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `60 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `56 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `35 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `34 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `27 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `26 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `212 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `174 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `124 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `102 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `93 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `88 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `82 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `35 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `85 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `65 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `50 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `42 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `36 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `34 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `20 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 <!--END_LASTFM_ARTISTS-->
