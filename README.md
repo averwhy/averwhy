@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[The Smoke](https://www.last.fm/music/The+Smile/_/The+Smoke)** - The Smile<br/>
+> ∙ **[Hoya Paranoia](https://www.last.fm/music/Duster/_/Hoya+Paranoia)** - Duster<br/>
 > ∙ **[The Frozen Citadel](https://www.last.fm/music/Buzz+Bomb/_/The+Frozen+Citadel)** - Buzz Bomb<br/>
 > ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
 > ∙ **[One of These Nights](https://www.last.fm/music/Eagles/_/One+of+These+Nights)** - Eagles<br/>
 > ∙ **[Numb, But I Still Feel It](https://www.last.fm/music/Title+Fight/_/Numb,+But+I+Still+Feel+It)** - Title Fight<br/>
 > ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
 > ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
-> ∙ **[Tru Punk](https://www.last.fm/music/Ovlov/_/Tru+Punk)** - Ovlov<br/>
-> ∙ **[Hoya Paranoia](https://www.last.fm/music/Duster/_/Hoya+Paranoia)** - Duster<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -75,9 +75,9 @@
 > `228 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `67 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `43 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `21 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `22 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `8 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `7 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 <!--END_LASTFM_ARTISTS-->
