@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
-> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
-> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
-> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
-> ∙ **[fish fourteen](https://www.last.fm/music/Should/_/fish+fourteen)** - Should<br/>
-> ∙ **[Blapt](https://www.last.fm/music/ROMsets/_/Blapt)** - ROMsets<br/>
-> ∙ **[Always Returning](https://www.last.fm/music/Should/_/Always+Returning)** - Should<br/>
-> ∙ **[Brass Burn](https://www.last.fm/music/Should/_/Brass+Burn)** - Should<br/>
+> ∙ **[The Frozen Citadel](https://www.last.fm/music/Buzz+Bomb/_/The+Frozen+Citadel)** - Buzz Bomb<br/>
+> ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
+> ∙ **[One of These Nights](https://www.last.fm/music/Eagles/_/One+of+These+Nights)** - Eagles<br/>
+> ∙ **[Numb, But I Still Feel It](https://www.last.fm/music/Title+Fight/_/Numb,+But+I+Still+Feel+It)** - Title Fight<br/>
+> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
+> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
+> ∙ **[Tru Punk](https://www.last.fm/music/Ovlov/_/Tru+Punk)** - Ovlov<br/>
+> ∙ **[Hoya Paranoia](https://www.last.fm/music/Duster/_/Hoya+Paranoia)** - Duster<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `102 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `104 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `65 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `49 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `34 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `26 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `24 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `15 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `8 ▶️` ∙ **[Contemporary Movement](https://www.last.fm/music/Duster/Contemporary+Movement)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `10 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `226 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `66 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `42 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `30 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `228 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `67 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `43 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `21 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `9 ▶️` ∙ **[drezzdon](https://www.last.fm/music/drezzdon)**<br/>
 > `8 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 <!--END_LASTFM_ARTISTS-->
