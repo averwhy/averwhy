@@ -59,25 +59,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `104 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `65 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `50 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `49 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `34 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `26 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `24 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `8 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
+> `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `6 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `5 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `228 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `67 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `43 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `12 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `11 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `8 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `7 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `174 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `5 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `5 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `4 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 <!--END_LASTFM_ARTISTS-->
