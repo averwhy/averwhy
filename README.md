@@ -65,8 +65,8 @@
 > `34 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `26 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `24 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `10 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `8 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -75,9 +75,9 @@
 > `228 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `67 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `43 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `22 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `12 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `11 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `8 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `7 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 <!--END_LASTFM_ARTISTS-->
