@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Smoke](https://www.last.fm/music/The+Smile/_/The+Smoke)** - The Smile<br/>
-> ∙ **[Hoya Paranoia](https://www.last.fm/music/Duster/_/Hoya+Paranoia)** - Duster<br/>
-> ∙ **[The Frozen Citadel](https://www.last.fm/music/Buzz+Bomb/_/The+Frozen+Citadel)** - Buzz Bomb<br/>
-> ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
-> ∙ **[One of These Nights](https://www.last.fm/music/Eagles/_/One+of+These+Nights)** - Eagles<br/>
-> ∙ **[Numb, But I Still Feel It](https://www.last.fm/music/Title+Fight/_/Numb,+But+I+Still+Feel+It)** - Title Fight<br/>
-> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
-> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
+> ∙ **[Slide Slip](https://www.last.fm/music/Should/_/Slide+Slip)** - Should<br/>
+> ∙ **[these days](https://www.last.fm/music/Should/_/these+days)** - Should<br/>
+> ∙ **[sarah missing](https://www.last.fm/music/Should/_/sarah+missing)** - Should<br/>
+> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
+> ∙ **[Things Are The Same (in Nine)](https://www.last.fm/music/Should/_/Things+Are+The+Same+(in+Nine))** - Should<br/>
+> ∙ **[Strength](https://www.last.fm/music/Should/_/Strength)** - Should<br/>
+> ∙ **[Turned Tables](https://www.last.fm/music/Should/_/Turned+Tables)** - Should<br/>
+> ∙ **[Ocean Warm](https://www.last.fm/music/Should/_/Ocean+Warm)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `50 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `49 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `26 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `24 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
+> `53 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `50 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `31 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `25 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `8 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
+> `8 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `6 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
-> `5 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `174 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `188 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `5 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `5 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `4 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `3 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 <!--END_LASTFM_ARTISTS-->
