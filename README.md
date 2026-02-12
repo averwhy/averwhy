@@ -46,33 +46,33 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ocean Warm](https://www.last.fm/music/Should/_/Ocean+Warm)** - Should<br/>
+> ∙ **[Own Two Feet](https://www.last.fm/music/Should/_/Own+Two+Feet)** - Should<br/>
+> ∙ **[Myself](https://www.last.fm/music/Should/_/Myself)** - Should<br/>
+> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
 > ∙ **[Turned Tables](https://www.last.fm/music/Should/_/Turned+Tables)** - Should<br/>
-> ∙ **[spangle](https://www.last.fm/music/Should/_/spangle)** - Should<br/>
-> ∙ **[The Great Pretend](https://www.last.fm/music/Should/_/The+Great+Pretend)** - Should<br/>
-> ∙ **[Things Are The Same (in Nine)](https://www.last.fm/music/Should/_/Things+Are+The+Same+(in+Nine))** - Should<br/>
-> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
-> ∙ **[these days](https://www.last.fm/music/Should/_/these+days)** - Should<br/>
-> ∙ **[Feels Like Morning](https://www.last.fm/music/Should/_/Feels+Like+Morning)** - Should<br/>
+> ∙ **[This House I'm Living In](https://www.last.fm/music/Should/_/This+House+I%27m+Living+In)** - Should<br/>
+> ∙ **[Glasshouse](https://www.last.fm/music/Should/_/Glasshouse)** - Should<br/>
+> ∙ **[Always Returning](https://www.last.fm/music/Should/_/Always+Returning)** - Should<br/>
+> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `57 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `52 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `35 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `28 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `9 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
+> `58 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `56 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `38 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `33 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
+> `10 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
 > `9 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `6 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `7 ▶️` ∙ **[These Days](https://www.last.fm/music/Should/These+Days)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `205 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `220 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
