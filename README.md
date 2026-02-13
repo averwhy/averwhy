@@ -59,8 +59,8 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `61 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `58 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `60 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `57 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `41 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `35 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `10 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
@@ -72,12 +72,12 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `232 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `10 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `8 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `229 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `4 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `3 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
+> `2 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `2 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
+> `2 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `2 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 <!--END_LASTFM_ARTISTS-->
