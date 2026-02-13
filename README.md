@@ -77,7 +77,7 @@
 > `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `5 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `4 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `4 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `3 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 <!--END_LASTFM_ARTISTS-->
