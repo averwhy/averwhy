@@ -46,21 +46,21 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
+> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
+> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
+> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
+> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
 > ∙ **[Feels Like Morning](https://www.last.fm/music/Should/_/Feels+Like+Morning)** - Should<br/>
 > ∙ **[aside](https://www.last.fm/music/Should/_/aside)** - Should<br/>
 > ∙ **[Collide](https://www.last.fm/music/Should/_/Collide)** - Should<br/>
-> ∙ **[it still would](https://www.last.fm/music/Should/_/it+still+would)** - Should<br/>
-> ∙ **[Slide Slip](https://www.last.fm/music/Should/_/Slide+Slip)** - Should<br/>
-> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
-> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
-> ∙ **[Ocean Warm](https://www.last.fm/music/Should/_/Ocean+Warm)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `60 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `57 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `56 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `41 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `35 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `10 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `229 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `4 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `6 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `4 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
-> `2 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `2 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
-> `2 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `2 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `3 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `2 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
 <!--END_LASTFM_ARTISTS-->
