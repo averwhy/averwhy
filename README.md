@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
-> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
-> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
-> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
-> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
-> ∙ **[Feels Like Morning](https://www.last.fm/music/Should/_/Feels+Like+Morning)** - Should<br/>
-> ∙ **[aside](https://www.last.fm/music/Should/_/aside)** - Should<br/>
-> ∙ **[Collide](https://www.last.fm/music/Should/_/Collide)** - Should<br/>
+> 🎶 **[Promises, Promises - US Single Version](https://www.last.fm/music/Naked+Eyes/_/Promises,+Promises+-+US+Single+Version)** - Naked Eyes<br/>
+> ∙ **[Go Your Own Way - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Go+Your+Own+Way+-+2004+Remaster)** - Fleetwood Mac<br/>
+> ∙ **[Stuck in the Middle With You](https://www.last.fm/music/Stealers+Wheel/_/Stuck+in+the+Middle+With+You)** - Stealers Wheel<br/>
+> ∙ **[Could You Be Loved](https://www.last.fm/music/Bob+Marley+&+The+Wailers/_/Could+You+Be+Loved)** - Bob Marley & The Wailers<br/>
+> ∙ **[Summer Breeze](https://www.last.fm/music/Seals+&+Crofts/_/Summer+Breeze)** - Seals & Crofts<br/>
+> ∙ **[Give It Up](https://www.last.fm/music/KC+and+The+Sunshine+Band/_/Give+It+Up)** - KC and The Sunshine Band<br/>
+> ∙ **[Dirty Work](https://www.last.fm/music/Steely+Dan/_/Dirty+Work)** - Steely Dan<br/>
+> ∙ **[Private Eyes](https://www.last.fm/music/Hall+&+Oates/_/Private+Eyes)** - Hall & Oates<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `206 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `6 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `8 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `5 ▶️` ∙ **[Steely Dan](https://www.last.fm/music/Steely+Dan)**<br/>
 > `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
-> `3 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `2 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
+> `3 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
+> `3 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
 <!--END_LASTFM_ARTISTS-->
