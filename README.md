@@ -59,24 +59,24 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `52 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `43 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `41 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `35 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `10 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
-> `10 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
-> `7 ▶️` ∙ **[Ocean Warm](https://www.last.fm/music/Should/Ocean+Warm)** - [Should](https://www.last.fm/music/Should)<br/>
-> `7 ▶️` ∙ **[These Days](https://www.last.fm/music/Should/These+Days)** - [Should](https://www.last.fm/music/Should)<br/>
+> `33 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `30 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `27 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `26 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
+> `6 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
+> `5 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
+> `5 ▶️` ∙ **[Can't Buy A Thrill](https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill)** - [Steely Dan](https://www.last.fm/music/Steely+Dan)<br/>
+> `4 ▶️` ∙ **[One of These Nights](https://www.last.fm/music/Eagles/One+of+These+Nights)** - [Eagles](https://www.last.fm/music/Eagles)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `206 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `9 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `7 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `6 ▶️` ∙ **[Steely Dan](https://www.last.fm/music/Steely+Dan)**<br/>
+> `136 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `8 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `5 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `5 ▶️` ∙ **[Steely Dan](https://www.last.fm/music/Steely+Dan)**<br/>
 > `4 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
 > `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `3 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
