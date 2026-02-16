@@ -59,20 +59,20 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `40 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `34 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `31 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `28 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `35 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `26 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `23 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
+> `22 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `7 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[Myself](https://www.last.fm/music/Should/Myself)** - [Should](https://www.last.fm/music/Should)<br/>
-> `5 ▶️` ∙ **[Ocean Warm](https://www.last.fm/music/Should/Ocean+Warm)** - [Should](https://www.last.fm/music/Should)<br/>
+> `5 ▶️` ∙ **[Can't Buy A Thrill](https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill)** - [Steely Dan](https://www.last.fm/music/Steely+Dan)<br/>
+> `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `155 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `126 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `7 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
