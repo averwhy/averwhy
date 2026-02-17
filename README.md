@@ -65,19 +65,19 @@
 > `16 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `7 ▶️` ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/Today+I+Laid+Down)** - [bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)<br/>
 > `6 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
-> `6 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `5 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `5 ▶️` ∙ **[Can't Buy A Thrill](https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill)** - [Steely Dan](https://www.last.fm/music/Steely+Dan)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `92 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `7 ▶️` ∙ **[bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)**<br/>
 > `7 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `6 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `6 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
