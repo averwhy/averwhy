@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
+> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
+> ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
+> ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
+> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
+> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
+> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
 > ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Today+I+Laid+Down)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Short Sleeves](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Short+Sleeves)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Alive, Always](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Alive,+Always)** - bl4ck m4rket c4rt<br/>
-> ∙ **[No Food](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/No+Food)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Trapdoors That Open](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Trapdoors+That+Open)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Good Morning Texts](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Good+Morning+Texts)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Slide Slip](https://www.last.fm/music/Should/_/Slide+Slip)** - Should<br/>
-> ∙ **[Just Not Today](https://www.last.fm/music/Should/_/Just+Not+Today)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -65,19 +65,19 @@
 > `15 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `6 ▶️` ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/Today+I+Laid+Down)** - [bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)<br/>
 > `6 ▶️` ∙ **[Things Are The Same (In Nine)](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine))** - [Should](https://www.last.fm/music/Should)<br/>
+> `6 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `5 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[Can't Buy A Thrill](https://www.last.fm/music/Steely+Dan/Can%27t+Buy+A+Thrill)** - [Steely Dan](https://www.last.fm/music/Steely+Dan)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `89 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `6 ▶️` ∙ **[bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)**<br/>
 > `6 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `5 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `5 ▶️` ∙ **[Steely Dan](https://www.last.fm/music/Steely+Dan)**<br/>
-> `4 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
 <!--END_LASTFM_ARTISTS-->
