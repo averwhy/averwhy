@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
-> ∙ **[Iowa Swarm](https://www.last.fm/music/Knifeplay/_/Iowa+Swarm)** - Knifeplay<br/>
-> ∙ **[Motion Picture Soundtrack](https://www.last.fm/music/Radiohead/_/Motion+Picture+Soundtrack)** - Radiohead<br/>
-> ∙ **[Thin Thing](https://www.last.fm/music/The+Smile/_/Thin+Thing)** - The Smile<br/>
-> ∙ **[lullen](https://www.last.fm/music/Should/_/lullen)** - Should<br/>
-> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
-> ∙ **[Ful Stop](https://www.last.fm/music/Radiohead/_/Ful+Stop)** - Radiohead<br/>
-> ∙ **[Ful Stop](https://www.last.fm/music/Radiohead/_/Ful+Stop)** - Radiohead<br/>
+> ∙ **[I Want To Go There With You](https://www.last.fm/music/Flooding/_/I+Want+To+Go+There+With+You)** - Flooding<br/>
+> ∙ **[Barely Real](https://www.last.fm/music/Codeine/_/Barely+Real)** - Codeine<br/>
+> ∙ **[Blissless](https://www.last.fm/music/Deadharrie/_/Blissless)** - Deadharrie<br/>
+> ∙ **[green hills](https://www.last.fm/music/Punxsutawney/_/green+hills)** - Punxsutawney<br/>
+> ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
+> ∙ **[Her Life Of Artistic Freedom](https://www.last.fm/music/Swirlies/_/Her+Life+Of+Artistic+Freedom)** - Swirlies<br/>
+> ∙ **[Uma](https://www.last.fm/music/Majesty+Crush/_/Uma)** - Majesty Crush<br/>
+> ∙ **[Untitled (July)](https://www.last.fm/music/Infinity+Girl/_/Untitled+(July))** - Infinity Girl<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `21 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `20 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `15 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
-> `13 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `20 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `12 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `11 ▶️` ∙ **[Like a Fire Without Sound](https://www.last.fm/music/Should/Like+a+Fire+Without+Sound)** - [Should](https://www.last.fm/music/Should)<br/>
 > `9 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `8 ▶️` ∙ **[Pearlty](https://www.last.fm/music/Knifeplay/Pearlty)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `7 ▶️` ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/Today+I+Laid+Down)** - [bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)<br/>
-> `6 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `80 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `70 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `15 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `9 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `8 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `7 ▶️` ∙ **[bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)**<br/>
-> `6 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `7 ▶️` ∙ **[Tacoma Radar](https://www.last.fm/music/Tacoma+Radar)**<br/>
 <!--END_LASTFM_ARTISTS-->
