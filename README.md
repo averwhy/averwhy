@@ -59,20 +59,20 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `19 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `15 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `14 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `13 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `9 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `9 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `9 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `9 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `8 ▶️` ∙ **[Pearlty](https://www.last.fm/music/Knifeplay/Pearlty)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `7 ▶️` ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/Today+I+Laid+Down)** - [bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `55 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `41 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `21 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `15 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `13 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
