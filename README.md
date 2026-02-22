@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[One of These Nights](https://www.last.fm/music/Eagles/_/One+of+These+Nights)** - Eagles<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Upside Down](https://www.last.fm/music/Jack+Johnson/_/Upside+Down)** - Jack Johnson<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Already Gone](https://www.last.fm/music/Eagles/_/Already+Gone)** - Eagles<br/>
-> ∙ **[Linger](https://www.last.fm/music/The+Cranberries/_/Linger)** - The Cranberries<br/>
-> ∙ **[Midnight Rider](https://www.last.fm/music/The+Allman+Brothers+Band/_/Midnight+Rider)** - The Allman Brothers Band<br/>
-> ∙ **[Just You n' Me](https://www.last.fm/music/Chicago/_/Just+You+n%27+Me)** - Chicago<br/>
+> ∙ **[Minecraft](https://www.last.fm/music/C418/_/Minecraft)** - C418<br/>
+> ∙ **[Équinoxe](https://www.last.fm/music/C418/_/%C3%89quinoxe)** - C418<br/>
+> ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - C418<br/>
+> ∙ **[Dry Hands](https://www.last.fm/music/C418/_/Dry+Hands)** - C418<br/>
+> ∙ **[Sweden](https://www.last.fm/music/C418/_/Sweden)** - C418<br/>
+> ∙ **[Kyoto](https://www.last.fm/music/C418/_/Kyoto)** - C418<br/>
+> ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - C418<br/>
+> ∙ **[Dog](https://www.last.fm/music/C418/_/Dog)** - C418<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
+> `16 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `14 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `12 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `9 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `9 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `7 ▶️` ∙ **[Today I Laid Down](https://www.last.fm/music/bl4ck+m4rket+c4rt/Today+I+Laid+Down)** - [bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)<br/>
-> `7 ▶️` ∙ **[Pearlty](https://www.last.fm/music/Knifeplay/Pearlty)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
-> `7 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `7 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `13 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `10 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `10 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `10 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `10 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `8 ▶️` ∙ **[Pearlty](https://www.last.fm/music/Knifeplay/Pearlty)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `40 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `21 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `13 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `12 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `7 ▶️` ∙ **[bl4ck m4rket c4rt](https://www.last.fm/music/bl4ck+m4rket+c4rt)**<br/>
-> `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `33 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `31 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `19 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `19 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `16 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `15 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `11 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `10 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 <!--END_LASTFM_ARTISTS-->
