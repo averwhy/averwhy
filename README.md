@@ -62,22 +62,22 @@
 > `81 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `31 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `26 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `15 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `14 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `14 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `12 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `12 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `11 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `11 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `10 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `10 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `86 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `85 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `57 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `26 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `24 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `21 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `16 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `12 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `12 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `21 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `16 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `16 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `12 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `11 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `10 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
