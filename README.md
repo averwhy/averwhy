@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
+> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
 > ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
 > ∙ **[Tall Ships](https://www.last.fm/music/Swirlies/_/Tall+Ships)** - Swirlies<br/>
 > ∙ **[Sunn](https://www.last.fm/music/Swirlies/_/Sunn)** - Swirlies<br/>
 > ∙ **[Sounds of Sebring](https://www.last.fm/music/Swirlies/_/Sounds+of+Sebring)** - Swirlies<br/>
 > ∙ **[Jeremy Parker](https://www.last.fm/music/Swirlies/_/Jeremy+Parker)** - Swirlies<br/>
 > ∙ **[Two Girls Kissing](https://www.last.fm/music/Swirlies/_/Two+Girls+Kissing)** - Swirlies<br/>
-> ∙ **[Pancake](https://www.last.fm/music/Swirlies/_/Pancake)** - Swirlies<br/>
-> ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -62,10 +62,10 @@
 > `110 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `108 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `20 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `16 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `15 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
-> `15 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `12 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `7 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `8 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `224 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `27 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `28 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `23 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `16 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `15 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
-> `15 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
