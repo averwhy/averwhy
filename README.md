@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Two Girls Kissing](https://www.last.fm/music/Swirlies/_/Two+Girls+Kissing)** - Swirlies<br/>
+> ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
+> ∙ **[Tall Ships](https://www.last.fm/music/Swirlies/_/Tall+Ships)** - Swirlies<br/>
+> ∙ **[Sunn](https://www.last.fm/music/Swirlies/_/Sunn)** - Swirlies<br/>
+> ∙ **[Sounds of Sebring](https://www.last.fm/music/Swirlies/_/Sounds+of+Sebring)** - Swirlies<br/>
+> ∙ **[Jeremy Parker](https://www.last.fm/music/Swirlies/_/Jeremy+Parker)** - Swirlies<br/>
+> ∙ **[Two Girls Kissing](https://www.last.fm/music/Swirlies/_/Two+Girls+Kissing)** - Swirlies<br/>
 > ∙ **[Pancake](https://www.last.fm/music/Swirlies/_/Pancake)** - Swirlies<br/>
 > ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
-> ∙ **[Tone Bender](https://www.last.fm/music/Lilys/_/Tone+Bender)** - Lilys<br/>
-> ∙ **[lemons](https://www.last.fm/music/piri+&+tommy+&+scruz/_/lemons)** - piri & tommy & scruz<br/>
-> ∙ **[NERVOUS](https://www.last.fm/music/Sam+Gellaitry/_/NERVOUS)** - Sam Gellaitry<br/>
-> ∙ **[Everything You Say](https://www.last.fm/music/ANOTR/_/Everything+You+Say)** - ANOTR<br/>
-> ∙ **[Midnight Rider](https://www.last.fm/music/The+Allman+Brothers+Band/_/Midnight+Rider)** - The Allman Brothers Band<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
