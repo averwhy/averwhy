@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Your Screen Door](https://www.last.fm/music/Title+Fight/_/Your+Screen+Door)** - Title Fight<br/>
-> ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
-> ∙ **[Safe In Your Skin](https://www.last.fm/music/Title+Fight/_/Safe+In+Your+Skin)** - Title Fight<br/>
-> ∙ **[Crescent-Shaped Depression](https://www.last.fm/music/Title+Fight/_/Crescent-Shaped+Depression)** - Title Fight<br/>
-> ∙ **[You Can't Say Kingston Doesn't Love You](https://www.last.fm/music/Title+Fight/_/You+Can%27t+Say+Kingston+Doesn%27t+Love+You)** - Title Fight<br/>
-> ∙ **[Society](https://www.last.fm/music/Title+Fight/_/Society)** - Title Fight<br/>
-> ∙ **[Flood Of '72](https://www.last.fm/music/Title+Fight/_/Flood+Of+%2772)** - Title Fight<br/>
-> ∙ **[Shed](https://www.last.fm/music/Title+Fight/_/Shed)** - Title Fight<br/>
+> ∙ **[Nu Punk](https://www.last.fm/music/Ovlov/_/Nu+Punk)** - Ovlov<br/>
+> ∙ **[Tone Bender](https://www.last.fm/music/Lilys/_/Tone+Bender)** - Lilys<br/>
+> ∙ **[lemons](https://www.last.fm/music/piri+&+tommy+&+scruz/_/lemons)** - piri & tommy & scruz<br/>
+> ∙ **[NERVOUS](https://www.last.fm/music/Sam+Gellaitry/_/NERVOUS)** - Sam Gellaitry<br/>
+> ∙ **[Everything You Say](https://www.last.fm/music/ANOTR/_/Everything+You+Say)** - ANOTR<br/>
+> ∙ **[Midnight Rider](https://www.last.fm/music/The+Allman+Brothers+Band/_/Midnight+Rider)** - The Allman Brothers Band<br/>
+> ∙ **[Coxton Yard](https://www.last.fm/music/Title+Fight/_/Coxton+Yard)** - Title Fight<br/>
+> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -61,10 +61,10 @@
 
 > `109 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `108 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `20 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `15 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
+> `15 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `14 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `14 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `14 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `7 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
 > `7 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `223 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `28 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `29 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `23 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `15 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
-> `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `15 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
