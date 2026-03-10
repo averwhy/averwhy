@@ -65,8 +65,8 @@
 > `15 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `6 ▶️` ∙ **[Shuniji - Single](https://www.last.fm/music/C418/Shuniji+-+Single)** - [C418](https://www.last.fm/music/C418)<br/>
 > `5 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Kumi Tanioka & Minecraft](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft)<br/>
-> `4 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `4 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `3 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
+> `3 ▶️` ∙ **[They Spent Their Wild Youthful Days in the Glittering World of the Salons](https://www.last.fm/music/Swirlies/They+Spent+Their+Wild+Youthful+Days+in+the+Glittering+World+of+the+Salons)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,8 +76,8 @@
 > `15 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
 > `15 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `7 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
-> `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `5 ▶️` ∙ **[Kumi Tanioka & Minecraft](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft)**<br/>
-> `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `3 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `3 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `1 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
 <!--END_LASTFM_ARTISTS-->
