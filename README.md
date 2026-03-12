@@ -77,7 +77,7 @@
 > `8 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
 > `7 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 > `3 ▶️` ∙ **[Kumi Tanioka & Minecraft](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft)**<br/>
-> `3 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `3 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `2 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `1 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
 <!--END_LASTFM_ARTISTS-->
