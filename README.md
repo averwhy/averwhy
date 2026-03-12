@@ -7,7 +7,7 @@
 
 - 🎓 studying Computer Science at Southern New Hampshire University *(on campus)*
 
-- 🔭 currently working on [Penpoint](https://github.com/averwhy/penpoint) & [Courseflow](https://github.com/c-a-r-technologies/courseflow)
+- 🔭 currently working on [Penpoint](https://github.com/averwhy/penpoint), [Courseflow](https://github.com/c-a-r-technologies/courseflow) and [Fluxus](https://github.com/averwhy/Fluxus)
 
 - 🌱 learning **Rust** and **Swift**
 
