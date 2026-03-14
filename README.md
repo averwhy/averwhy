@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Lovers Rock](https://www.last.fm/music/TV+Girl/_/Lovers+Rock)** - TV Girl<br/>
 > ∙ **[Sarah Sitting](https://www.last.fm/music/Swirlies/_/Sarah+Sitting)** - Swirlies<br/>
-> ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
-> ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
-> ∙ **[Sarah Sitting](https://www.last.fm/music/Swirlies/_/Sarah+Sitting)** - Swirlies<br/>
-> ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
-> ∙ **[Tall Ships](https://www.last.fm/music/Swirlies/_/Tall+Ships)** - Swirlies<br/>
-> ∙ **[Sunn](https://www.last.fm/music/Swirlies/_/Sunn)** - Swirlies<br/>
-> ∙ **[Sounds of Sebring](https://www.last.fm/music/Swirlies/_/Sounds+of+Sebring)** - Swirlies<br/>
+> ∙ **[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)** - Radiohead<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[Swings](https://www.last.fm/music/Animal+Ghosts/_/Swings)** - Animal Ghosts<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `3 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
-> `3 ▶️` ∙ **[They Spent Their Wild Youthful Days in the Glittering World of the Salons](https://www.last.fm/music/Swirlies/They+Spent+Their+Wild+Youthful+Days+in+the+Glittering+World+of+the+Salons)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
-> `3 ▶️` ∙ **[What To Do About Them](https://www.last.fm/music/Swirlies/What+To+Do+About+Them)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
-> `2 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `1 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `1 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `1 ▶️` ∙ **[Here With Me - EP](https://www.last.fm/music/LSB/Here+With+Me+-+EP)** - [LSB](https://www.last.fm/music/LSB)<br/>
-> `1 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `18 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `12 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `7 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
+> `7 ▶️` ∙ **[They Spent Their Wild Youthful Days in the Glittering World of the Salons](https://www.last.fm/music/Swirlies/They+Spent+Their+Wild+Youthful+Days+in+the+Glittering+World+of+the+Salons)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
+> `6 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
+> `6 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `6 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `6 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `9 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
-> `2 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `1 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
-> `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `1 ▶️` ∙ **[LSB](https://www.last.fm/music/LSB)**<br/>
-> `1 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `1 ▶️` ∙ **[The 1975](https://www.last.fm/music/The+1975)**<br/>
+> `30 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `17 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `10 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `8 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `8 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `6 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
 <!--END_LASTFM_ARTISTS-->
