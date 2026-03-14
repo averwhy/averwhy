@@ -59,25 +59,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `14 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `3 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 > `3 ▶️` ∙ **[They Spent Their Wild Youthful Days in the Glittering World of the Salons](https://www.last.fm/music/Swirlies/They+Spent+Their+Wild+Youthful+Days+in+the+Glittering+World+of+the+Salons)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 > `2 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `1 ▶️` ∙ **[Retpoid Meetings](https://www.last.fm/music/ANOTR/Retpoid+Meetings)** - [ANOTR](https://www.last.fm/music/ANOTR)<br/>
-> `1 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `1 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `1 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
+> `1 ▶️` ∙ **[Here With Me - EP](https://www.last.fm/music/LSB/Here+With+Me+-+EP)** - [LSB](https://www.last.fm/music/LSB)<br/>
+> `1 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `1 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `14 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `7 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 > `2 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `1 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
-> `1 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `1 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
 > `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `1 ▶️` ∙ **[LSB](https://www.last.fm/music/LSB)**<br/>
+> `1 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `1 ▶️` ∙ **[The 1975](https://www.last.fm/music/The+1975)**<br/>
 <!--END_LASTFM_ARTISTS-->
