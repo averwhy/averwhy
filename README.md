@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Sarah Sitting](https://www.last.fm/music/Swirlies/_/Sarah+Sitting)** - Swirlies<br/>
 > ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+(2017+remaster))** - David Bowie<br/>
 > ∙ **[About You](https://www.last.fm/music/The+1975/_/About+You)** - The 1975<br/>
+> ∙ **[Sarah Sitting](https://www.last.fm/music/Swirlies/_/Sarah+Sitting)** - Swirlies<br/>
 > ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
 > ∙ **[Tall Ships](https://www.last.fm/music/Swirlies/_/Tall+Ships)** - Swirlies<br/>
 > ∙ **[Sunn](https://www.last.fm/music/Swirlies/_/Sunn)** - Swirlies<br/>
 > ∙ **[Sounds of Sebring](https://www.last.fm/music/Swirlies/_/Sounds+of+Sebring)** - Swirlies<br/>
-> ∙ **[Jeremy Parker](https://www.last.fm/music/Swirlies/_/Jeremy+Parker)** - Swirlies<br/>
-> ∙ **[Two Girls Kissing](https://www.last.fm/music/Swirlies/_/Two+Girls+Kissing)** - Swirlies<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -61,18 +61,18 @@
 
 > `3 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 > `3 ▶️` ∙ **[They Spent Their Wild Youthful Days in the Glittering World of the Salons](https://www.last.fm/music/Swirlies/They+Spent+Their+Wild+Youthful+Days+in+the+Glittering+World+of+the+Salons)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
+> `3 ▶️` ∙ **[What To Do About Them](https://www.last.fm/music/Swirlies/What+To+Do+About+Them)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 > `2 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `1 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `1 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `1 ▶️` ∙ **[Here With Me - EP](https://www.last.fm/music/LSB/Here+With+Me+-+EP)** - [LSB](https://www.last.fm/music/LSB)<br/>
 > `1 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `1 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `7 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
+> `9 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 > `2 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `1 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
