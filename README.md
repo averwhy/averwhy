@@ -73,9 +73,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `27 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `12 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 > `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `9 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 > `8 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `8 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
