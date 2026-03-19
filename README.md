@@ -59,10 +59,10 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `26 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `20 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `14 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `13 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
+> `18 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `17 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `12 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
+> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `12 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `11 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `10 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
@@ -72,12 +72,12 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `46 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `28 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `20 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `19 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `13 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
+> `35 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `24 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `18 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `13 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `12 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
 > `12 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `11 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `11 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
 <!--END_LASTFM_ARTISTS-->
