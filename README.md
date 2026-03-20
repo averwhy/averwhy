@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[Half Right](https://www.last.fm/music/Heatmiser/_/Half+Right)** - Heatmiser<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[Cold Rain](https://www.last.fm/music/Knifeplay/_/Cold+Rain)** - Knifeplay<br/>
-> ∙ **[Half Right](https://www.last.fm/music/Heatmiser/_/Half+Right)** - Heatmiser<br/>
-> ∙ **[Half Right](https://www.last.fm/music/Heatmiser/_/Half+Right)** - Heatmiser<br/>
-> ∙ **[Thirteen](https://www.last.fm/music/Elliott+Smith/_/Thirteen)** - Elliott Smith<br/>
+> ∙ **[NERVOUS](https://www.last.fm/music/Sam+Gellaitry/_/NERVOUS)** - Sam Gellaitry<br/>
+> ∙ **[Snap My Finger (feat. PinkPantheress)](https://www.last.fm/music/KAYTRANADA/_/Snap+My+Finger+(feat.+PinkPantheress))** - KAYTRANADA<br/>
+> ∙ **[lemons](https://www.last.fm/music/piri+&+tommy+&+scruz/_/lemons)** - piri & tommy & scruz<br/>
+> ∙ **[I Need You](https://www.last.fm/music/TWOFACED+&+Nikita+W/_/I+Need+You)** - TWOFACED & Nikita W<br/>
+> ∙ **[UNDER THE ILLUSION](https://www.last.fm/music/Sam+Gellaitry/_/UNDER+THE+ILLUSION)** - Sam Gellaitry<br/>
+> ∙ **[START UP A RUMOUR](https://www.last.fm/music/Sam+Gellaitry/_/START+UP+A+RUMOUR)** - Sam Gellaitry<br/>
+> ∙ **[Trace Me Onto You](https://www.last.fm/music/Title+Fight/_/Trace+Me+Onto+You)** - Title Fight<br/>
+> ∙ **[Father's Gun](https://www.last.fm/music/Animal+Ghosts/_/Father%27s+Gun)** - Animal Ghosts<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `14 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `12 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
-> `12 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `11 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `11 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `9 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
-> `9 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `8 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
+> `17 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `13 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
+> `13 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `13 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `12 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `11 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `10 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
+> `10 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `23 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `20 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `15 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `13 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
-> `13 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `12 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
-> `12 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `11 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
+> `27 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `23 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `18 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `16 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `13 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
+> `13 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `12 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 <!--END_LASTFM_ARTISTS-->
