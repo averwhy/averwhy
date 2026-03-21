@@ -65,19 +65,19 @@
 > `10 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 > `10 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
 > `10 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `8 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
 > `8 ▶️` ∙ **[Wish You Were Here](https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here)** - [Pink Floyd](https://www.last.fm/music/Pink+Floyd)<br/>
+> `7 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `25 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `22 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `21 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `16 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
 > `16 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `12 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `10 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
 > `10 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `8 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
+> `8 ▶️` ∙ **[Pink Floyd](https://www.last.fm/music/Pink+Floyd)**<br/>
 <!--END_LASTFM_ARTISTS-->
