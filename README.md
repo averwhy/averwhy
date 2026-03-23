@@ -62,9 +62,9 @@
 > `22 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `18 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `17 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
-> `17 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `17 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `16 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
+> `16 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `15 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `13 ▶️` ∙ **[Wish You Were Here](https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here)** - [Pink Floyd](https://www.last.fm/music/Pink+Floyd)<br/>
 > `12 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `36 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `35 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `24 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `34 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `22 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
+> `20 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `18 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `18 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `17 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
+> `16 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `15 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 <!--END_LASTFM_ARTISTS-->
