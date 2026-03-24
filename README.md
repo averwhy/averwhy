@@ -72,12 +72,12 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `36 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `34 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `33 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `22 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
-> `20 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `18 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `17 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
+> `16 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `16 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `15 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 <!--END_LASTFM_ARTISTS-->
