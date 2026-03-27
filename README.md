@@ -77,7 +77,7 @@
 > `25 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `19 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `18 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `18 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `14 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `12 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
 <!--END_LASTFM_ARTISTS-->
