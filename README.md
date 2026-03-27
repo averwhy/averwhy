@@ -46,35 +46,35 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Hurt Someone](https://www.last.fm/music/Knifeplay/_/Hurt+Someone)** - Knifeplay<br/>
-> ∙ **[it still would](https://www.last.fm/music/Should/_/it+still+would)** - Should<br/>
-> ∙ **[it still would](https://www.last.fm/music/Should/_/it+still+would)** - Should<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[Things Are The Same (in Nine)](https://www.last.fm/music/Should/_/Things+Are+The+Same+(in+Nine))** - Should<br/>
+> ∙ **[Coby (2020 Mix)](https://www.last.fm/music/Lilys/_/Coby+(2020+Mix))** - Lilys<br/>
+> ∙ **[Angeles](https://www.last.fm/music/Elliott+Smith/_/Angeles)** - Elliott Smith<br/>
+> ∙ **[I Said](https://www.last.fm/music/deadmau5/_/I+Said)** - deadmau5<br/>
+> ∙ **[Acedia](https://www.last.fm/music/deadmau5/_/Acedia)** - deadmau5<br/>
+> ∙ **[Deus Ex Machina](https://www.last.fm/music/deadmau5/_/Deus+Ex+Machina)** - deadmau5<br/>
+> ∙ **[Polaris](https://www.last.fm/music/deadmau5/_/Polaris)** - deadmau5<br/>
+> ∙ **[Snowcone](https://www.last.fm/music/deadmau5/_/Snowcone)** - deadmau5<br/>
+> ∙ **[Whelk then](https://www.last.fm/music/deadmau5/_/Whelk+then)** - deadmau5<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `16 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `17 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `15 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `14 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `14 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `14 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `12 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
+> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `10 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `9 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `9 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `27 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `25 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `23 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `26 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `21 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `19 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `17 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
