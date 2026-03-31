@@ -63,8 +63,8 @@
 > `11 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `11 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `11 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `10 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `8 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
+> `8 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `7 ▶️` ∙ **[Blonder Tongue Audio Baton](https://www.last.fm/music/Swirlies/Blonder+Tongue+Audio+Baton)** - [Swirlies](https://www.last.fm/music/Swirlies)<br/>
 > `6 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -77,7 +77,7 @@
 > `19 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `17 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `10 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `9 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `8 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
