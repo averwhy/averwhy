@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `32 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `21 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `19 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `20 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `17 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `17 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `11 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `9 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `8 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `8 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
 <!--END_LASTFM_ARTISTS-->
