@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ycjcyaqftj](https://www.last.fm/music/Lilys/_/Ycjcyaqftj)** - Lilys<br/>
-> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
-> ∙ **[Nude](https://www.last.fm/music/Radiohead/_/Nude)** - Radiohead<br/>
-> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
-> ∙ **[The Opposite](https://www.last.fm/music/The+Smile/_/The+Opposite)** - The Smile<br/>
-> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
-> ∙ **[who sees you](https://www.last.fm/music/my+bloody+valentine/_/who+sees+you)** - my bloody valentine<br/>
-> ∙ **[12 Strings](https://www.last.fm/music/Knifeplay/_/12+Strings)** - Knifeplay<br/>
+> ∙ **[20180701](https://www.last.fm/music/Mac+DeMarco/_/20180701)** - Mac DeMarco<br/>
+> ∙ **[20210701](https://www.last.fm/music/Mac+DeMarco/_/20210701)** - Mac DeMarco<br/>
+> ∙ **[20190206](https://www.last.fm/music/Mac+DeMarco/_/20190206)** - Mac DeMarco<br/>
+> ∙ **[20200817 Proud True Toyota](https://www.last.fm/music/Mac+DeMarco/_/20200817+Proud+True+Toyota)** - Mac DeMarco<br/>
+> ∙ **[20210307](https://www.last.fm/music/Mac+DeMarco/_/20210307)** - Mac DeMarco<br/>
+> ∙ **[20190730](https://www.last.fm/music/Mac+DeMarco/_/20190730)** - Mac DeMarco<br/>
+> ∙ **[20190826](https://www.last.fm/music/Mac+DeMarco/_/20190826)** - Mac DeMarco<br/>
+> ∙ **[20210216 Goodnight Baby](https://www.last.fm/music/Mac+DeMarco/_/20210216+Goodnight+Baby)** - Mac DeMarco<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `30 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `92 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `23 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `14 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `13 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `12 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `11 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `8 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
-> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `7 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `7 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `5 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `5 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `10 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
+> `8 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `32 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `16 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `95 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `28 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `23 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `19 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `16 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `16 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `14 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `8 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
-> `8 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
+> `12 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `10 ▶️` ∙ **[Heatmiser](https://www.last.fm/music/Heatmiser)**<br/>
 <!--END_LASTFM_ARTISTS-->
