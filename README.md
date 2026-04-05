@@ -59,25 +59,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `77 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `40 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `39 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `37 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `36 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `35 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `14 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `13 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `10 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `9 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `9 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `6 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `81 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `74 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `40 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `21 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `39 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `39 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `14 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `14 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `13 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `10 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `9 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `9 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `6 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
 <!--END_LASTFM_ARTISTS-->
