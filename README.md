@@ -60,24 +60,24 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `39 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `37 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `35 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `26 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `22 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `18 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `14 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `6 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `5 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
+> `4 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `74 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `49 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `39 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `19 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `14 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `5 ▶️` ∙ **[Home](https://www.last.fm/music/Home)**<br/>
-> `5 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
+> `5 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `4 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 <!--END_LASTFM_ARTISTS-->
