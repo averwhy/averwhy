@@ -63,10 +63,10 @@
 > `23 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `22 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `17 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `17 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `15 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `3 ▶️` ∙ **[101soundboards.com](https://www.last.fm/music/101soundboards.com/101soundboards.com)** - [101soundboards.com](https://www.last.fm/music/101soundboards.com)<br/>
+> `3 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -74,10 +74,10 @@
 
 > `61 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `46 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `19 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `17 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `8 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `6 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `5 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `3 ▶️` ∙ **[101soundboards.com](https://www.last.fm/music/101soundboards.com)**<br/>
+> `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
