@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[fake twenty](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/fake+twenty)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Giant Man](https://www.last.fm/music/Teethe/_/Giant+Man)** - Teethe<br/>
-> ∙ **[storm](https://www.last.fm/music/Spellbinder/_/storm)** - Spellbinder<br/>
-> ∙ **[Untitled (July)](https://www.last.fm/music/Infinity+Girl/_/Untitled+(July))** - Infinity Girl<br/>
-> ∙ **[daytime europa stuff](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/daytime+europa+stuff)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Feel U](https://www.last.fm/music/Knifeplay/_/Feel+U)** - Knifeplay<br/>
-> ∙ **[Feigned Sleep](https://www.last.fm/music/Majesty+Crush/_/Feigned+Sleep)** - Majesty Crush<br/>
-> ∙ **[lullen](https://www.last.fm/music/Should/_/lullen)** - Should<br/>
+> ∙ **[Louie v](https://www.last.fm/music/Jouska/_/Louie+v)** - Jouska<br/>
+> ∙ **[Coxton Yard](https://www.last.fm/music/Title+Fight/_/Coxton+Yard)** - Title Fight<br/>
+> ∙ **[Grab It From The Garden](https://www.last.fm/music/Ovlov/_/Grab+It+From+The+Garden)** - Ovlov<br/>
+> ∙ **[The Well](https://www.last.fm/music/Ovlov/_/The+Well)** - Ovlov<br/>
+> ∙ **[The Well](https://www.last.fm/music/Ovlov/_/The+Well)** - Ovlov<br/>
+> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
+> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
+> ∙ **[Gone On](https://www.last.fm/music/First+Day+Back/_/Gone+On)** - First Day Back<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `38 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `15 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `13 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `4 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `3 ▶️` ∙ **[101soundboards.com](https://www.last.fm/music/101soundboards.com/101soundboards.com)** - [101soundboards.com](https://www.last.fm/music/101soundboards.com)<br/>
-> `3 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `36 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `20 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `18 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `8 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `7 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `7 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `6 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `38 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `15 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `15 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `8 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `5 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `3 ▶️` ∙ **[101soundboards.com](https://www.last.fm/music/101soundboards.com)**<br/>
-> `3 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `36 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `20 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `20 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `20 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `12 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `8 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `7 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
