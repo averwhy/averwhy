@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)** - Kanye West<br/>
+> ∙ **[Pursuit of Happiness (Nightmare)](https://www.last.fm/music/Kid+Cudi/_/Pursuit+of+Happiness+(Nightmare))** - Kid Cudi<br/>
+> ∙ **[20221127](https://www.last.fm/music/Mac+DeMarco/_/20221127)** - Mac DeMarco<br/>
 > ∙ **[20221217 2](https://www.last.fm/music/Mac+DeMarco/_/20221217+2)** - Mac DeMarco<br/>
 > ∙ **[20201023](https://www.last.fm/music/Mac+DeMarco/_/20201023)** - Mac DeMarco<br/>
 > ∙ **[20201111](https://www.last.fm/music/Mac+DeMarco/_/20201111)** - Mac DeMarco<br/>
 > ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
 > ∙ **[20200812](https://www.last.fm/music/Mac+DeMarco/_/20200812)** - Mac DeMarco<br/>
-> ∙ **[20220329 3](https://www.last.fm/music/Mac+DeMarco/_/20220329+3)** - Mac DeMarco<br/>
-> ∙ **[20210215 Ball For The Coach](https://www.last.fm/music/Mac+DeMarco/_/20210215+Ball+For+The+Coach)** - Mac DeMarco<br/>
-> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `102 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `14 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `10 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `103 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `10 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `8 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `7 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `7 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `7 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `6 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `102 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `17 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `14 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `12 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `103 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `13 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `11 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `7 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `6 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
