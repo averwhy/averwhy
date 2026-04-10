@@ -47,9 +47,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
-> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
-> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
-> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
+> ∙ **[20200812](https://www.last.fm/music/Mac+DeMarco/_/20200812)** - Mac DeMarco<br/>
+> ∙ **[20220329 3](https://www.last.fm/music/Mac+DeMarco/_/20220329+3)** - Mac DeMarco<br/>
+> ∙ **[20210215 Ball For The Coach](https://www.last.fm/music/Mac+DeMarco/_/20210215+Ball+For+The+Coach)** - Mac DeMarco<br/>
 > ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
 > ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
 > ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
@@ -59,7 +59,7 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `95 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `99 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `20 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `17 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `10 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
@@ -72,7 +72,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `95 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `99 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `20 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `19 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `17 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
