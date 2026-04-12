@@ -59,24 +59,24 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `103 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `81 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `11 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `10 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `9 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `7 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `7 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe/Teethe)** - [Teethe](https://www.last.fm/music/Teethe)<br/>
-> `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `5 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `5 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `103 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `17 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `81 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `12 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `7 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
