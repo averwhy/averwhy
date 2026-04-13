@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[It's My Life](https://www.last.fm/music/No+Doubt/_/It%27s+My+Life)** - No Doubt<br/>
-> ∙ **[Congratulations](https://www.last.fm/music/Post+Malone/_/Congratulations)** - Post Malone<br/>
-> ∙ **[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)** - Kanye West<br/>
-> ∙ **[All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)](https://www.last.fm/music/DJ+Khaled/_/All+I+Do+Is+Win+(feat.+T-Pain,+Ludacris,+Snoop+Dogg+&+Rick+Ross))** - DJ Khaled<br/>
-> ∙ **[Sky Walker (feat. Travis Scott)](https://www.last.fm/music/Miguel/_/Sky+Walker+(feat.+Travis+Scott))** - Miguel<br/>
-> ∙ **[Ni**as In Paris](https://www.last.fm/music/Ja%C3%BF-Z/_/Ni**as+In+Paris)** - Jaÿ-Z<br/>
-> ∙ **[Timeless (feat Playboi Carti)](https://www.last.fm/music/The+Weeknd/_/Timeless+(feat+Playboi+Carti))** - The Weeknd<br/>
+> ∙ **[27](https://www.last.fm/music/Title+Fight/_/27)** - Title Fight<br/>
+> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
+> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
+> ∙ **[Face First](https://www.last.fm/music/Teethe/_/Face+First)** - Teethe<br/>
+> ∙ **[Insure Me, Procure Me](https://www.last.fm/music/Flooding/_/Insure+Me,+Procure+Me)** - Flooding<br/>
+> ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
+> ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
+> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `81 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `10 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `9 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `7 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `7 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe/Teethe)** - [Teethe](https://www.last.fm/music/Teethe)<br/>
-> `5 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `5 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `82 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `13 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `11 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `11 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe/Teethe)** - [Teethe](https://www.last.fm/music/Teethe)<br/>
+> `10 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `7 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `7 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `81 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `12 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `7 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
+> `82 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `17 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `16 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `14 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `12 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `11 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `11 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
 <!--END_LASTFM_ARTISTS-->
