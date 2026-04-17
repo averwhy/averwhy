@@ -65,8 +65,8 @@
 > `3 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `3 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `2 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
-> `2 ▶️` ∙ **[Graduation](https://www.last.fm/music/Kanye+West/Graduation)** - [Kanye West](https://www.last.fm/music/Kanye+West)<br/>
+> `2 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `2 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -75,9 +75,9 @@
 > `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `5 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `4 ▶️` ∙ **[Balu Brigada](https://www.last.fm/music/Balu+Brigada)**<br/>
-> `4 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
 > `4 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
 > `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
+> `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `2 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
