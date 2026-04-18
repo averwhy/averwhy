@@ -47,13 +47,13 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
 > ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
+> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[27](https://www.last.fm/music/Title+Fight/_/27)** - Title Fight<br/>
 > ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
-> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -65,8 +65,8 @@
 > `3 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `3 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `2 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `2 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,6 +78,6 @@
 > `4 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
 > `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `3 ▶️` ∙ **[Kanye West](https://www.last.fm/music/Kanye+West)**<br/>
+> `2 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
 > `2 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
