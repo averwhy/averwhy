@@ -48,12 +48,12 @@
 
 > ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
 > ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
+> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
 > ∙ **[27](https://www.last.fm/music/Title+Fight/_/27)** - Title Fight<br/>
-> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -61,10 +61,10 @@
 
 > `4 ▶️` ∙ **[Portal](https://www.last.fm/music/Balu+Brigada/Portal)** - [Balu Brigada](https://www.last.fm/music/Balu+Brigada)<br/>
 > `4 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe/Teethe)** - [Teethe](https://www.last.fm/music/Teethe)<br/>
+> `3 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `3 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `2 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
 > `2 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `2 ▶️` ∙ **[Wish You Were Here](https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here)** - [Pink Floyd](https://www.last.fm/music/Pink+Floyd)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -76,8 +76,8 @@
 > `4 ▶️` ∙ **[Balu Brigada](https://www.last.fm/music/Balu+Brigada)**<br/>
 > `4 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `4 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
+> `3 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
 > `2 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
