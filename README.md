@@ -46,32 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Stuck in the Middle With You](https://www.last.fm/music/Stealers+Wheel/_/Stuck+in+the+Middle+With+You)** - Stealers Wheel<br/>
-> ∙ **[Hypnotized](https://www.last.fm/music/Fleetwood+Mac/_/Hypnotized)** - Fleetwood Mac<br/>
-> ∙ **[Hello It's Me](https://www.last.fm/music/Todd+Rundgren/_/Hello+It%27s+Me)** - Todd Rundgren<br/>
-> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
-> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
-> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
-> ∙ **["Heroes" - 2017 Remaster](https://www.last.fm/music/David+Bowie/_/%22Heroes%22+-+2017+Remaster)** - David Bowie<br/>
-> ∙ **[So Cold](https://www.last.fm/music/Balu+Brigada/_/So+Cold)** - Balu Brigada<br/>
+> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
+> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
+> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
+> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
+> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
+> ∙ **[Flood Of '72](https://www.last.fm/music/Title+Fight/_/Flood+Of+%2772)** - Title Fight<br/>
+> ∙ **[Flood Of '72](https://www.last.fm/music/Title+Fight/_/Flood+Of+%2772)** - Title Fight<br/>
+> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `4 ▶️` ∙ **[Portal](https://www.last.fm/music/Balu+Brigada/Portal)** - [Balu Brigada](https://www.last.fm/music/Balu+Brigada)<br/>
-> `4 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `1 ▶️` ∙ **[Mystery to Me](https://www.last.fm/music/Fleetwood+Mac/Mystery+to+Me)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
-> `1 ▶️` ∙ **[Stealers Wheel](https://www.last.fm/music/Stealers+Wheel/Stealers+Wheel)** - [Stealers Wheel](https://www.last.fm/music/Stealers+Wheel)<br/>
-> `1 ▶️` ∙ **[Something / Anything?](https://www.last.fm/music/Todd+Rundgren/Something+%2F+Anything%3F)** - [Todd Rundgren](https://www.last.fm/music/Todd+Rundgren)<br/>
+> `297 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `292 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `229 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `144 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `130 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `108 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `104 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `73 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `4 ▶️` ∙ **[Balu Brigada](https://www.last.fm/music/Balu+Brigada)**<br/>
-> `4 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
-> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
-> `1 ▶️` ∙ **[Stealers Wheel](https://www.last.fm/music/Stealers+Wheel)**<br/>
-> `1 ▶️` ∙ **[Todd Rundgren](https://www.last.fm/music/Todd+Rundgren)**<br/>
+> `430 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `308 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `289 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `193 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `185 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `144 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `109 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `104 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 <!--END_LASTFM_ARTISTS-->
