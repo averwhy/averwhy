@@ -61,12 +61,9 @@
 
 > `4 ▶️` ∙ **[Portal](https://www.last.fm/music/Balu+Brigada/Portal)** - [Balu Brigada](https://www.last.fm/music/Balu+Brigada)<br/>
 > `4 ▶️` ∙ **["Heroes" (2017 remaster)](https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster))** - [David Bowie](https://www.last.fm/music/David+Bowie)<br/>
-> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `2 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `2 ▶️` ∙ **[Wish You Were Here](https://www.last.fm/music/Pink+Floyd/Wish+You+Were+Here)** - [Pink Floyd](https://www.last.fm/music/Pink+Floyd)<br/>
-> `2 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `2 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe/Teethe)** - [Teethe](https://www.last.fm/music/Teethe)<br/>
-> `2 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `1 ▶️` ∙ **[Mystery to Me](https://www.last.fm/music/Fleetwood+Mac/Mystery+to+Me)** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `1 ▶️` ∙ **[Stealers Wheel](https://www.last.fm/music/Stealers+Wheel/Stealers+Wheel)** - [Stealers Wheel](https://www.last.fm/music/Stealers+Wheel)<br/>
+> `1 ▶️` ∙ **[Something / Anything?](https://www.last.fm/music/Todd+Rundgren/Something+%2F+Anything%3F)** - [Todd Rundgren](https://www.last.fm/music/Todd+Rundgren)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -74,10 +71,7 @@
 
 > `4 ▶️` ∙ **[Balu Brigada](https://www.last.fm/music/Balu+Brigada)**<br/>
 > `4 ▶️` ∙ **[David Bowie](https://www.last.fm/music/David+Bowie)**<br/>
-> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `2 ▶️` ∙ **[Pink Floyd](https://www.last.fm/music/Pink+Floyd)**<br/>
-> `2 ▶️` ∙ **[Teethe](https://www.last.fm/music/Teethe)**<br/>
+> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
+> `1 ▶️` ∙ **[Stealers Wheel](https://www.last.fm/music/Stealers+Wheel)**<br/>
+> `1 ▶️` ∙ **[Todd Rundgren](https://www.last.fm/music/Todd+Rundgren)**<br/>
 <!--END_LASTFM_ARTISTS-->
