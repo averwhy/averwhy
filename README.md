@@ -46,21 +46,21 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
-> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
-> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
-> ∙ **[Sympathy](https://www.last.fm/music/Title+Fight/_/Sympathy)** - Title Fight<br/>
-> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
-> ∙ **[Flood Of '72](https://www.last.fm/music/Title+Fight/_/Flood+Of+%2772)** - Title Fight<br/>
-> ∙ **[Flood Of '72](https://www.last.fm/music/Title+Fight/_/Flood+Of+%2772)** - Title Fight<br/>
-> ∙ **[Make You Cry](https://www.last.fm/music/Title+Fight/_/Make+You+Cry)** - Title Fight<br/>
+> 🎶 **[Boom Boom Pow](https://www.last.fm/music/Black+Eyed+Peas/_/Boom+Boom+Pow)** - Black Eyed Peas<br/>
+> ∙ **[Memories (feat. Kid Cudi)](https://www.last.fm/music/David+Guetta/_/Memories+(feat.+Kid+Cudi))** - David Guetta<br/>
+> ∙ **[Surround Sound (feat. 21 Savage & Baby Tate)](https://www.last.fm/music/JID/_/Surround+Sound+(feat.+21+Savage+&+Baby+Tate))** - JID<br/>
+> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
+> ∙ **[Play No Games](https://www.last.fm/music/Big+Sean/_/Play+No+Games)** - Big Sean<br/>
+> ∙ **[Timber](https://www.last.fm/music/Pitbull/_/Timber)** - Pitbull<br/>
+> ∙ **[Cash In Cash Out](https://www.last.fm/music/Pharrell+Williams/_/Cash+In+Cash+Out)** - Pharrell Williams<br/>
+> ∙ **[Timeless (feat Playboi Carti)](https://www.last.fm/music/The+Weeknd/_/Timeless+(feat+Playboi+Carti))** - The Weeknd<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `297 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `292 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `233 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `229 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `144 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `130 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
@@ -72,9 +72,9 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `430 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `366 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `308 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `289 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `287 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `193 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `185 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `144 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
