@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Boom Boom Pow](https://www.last.fm/music/Black+Eyed+Peas/_/Boom+Boom+Pow)** - Black Eyed Peas<br/>
-> ∙ **[Memories (feat. Kid Cudi)](https://www.last.fm/music/David+Guetta/_/Memories+(feat.+Kid+Cudi))** - David Guetta<br/>
-> ∙ **[Surround Sound (feat. 21 Savage & Baby Tate)](https://www.last.fm/music/JID/_/Surround+Sound+(feat.+21+Savage+&+Baby+Tate))** - JID<br/>
-> ∙ **[360 featuring robyn & yung lean](https://www.last.fm/music/Charli+xcx/_/360+featuring+robyn+&+yung+lean)** - Charli xcx<br/>
-> ∙ **[Play No Games](https://www.last.fm/music/Big+Sean/_/Play+No+Games)** - Big Sean<br/>
-> ∙ **[Timber](https://www.last.fm/music/Pitbull/_/Timber)** - Pitbull<br/>
-> ∙ **[Cash In Cash Out](https://www.last.fm/music/Pharrell+Williams/_/Cash+In+Cash+Out)** - Pharrell Williams<br/>
-> ∙ **[Timeless (feat Playboi Carti)](https://www.last.fm/music/The+Weeknd/_/Timeless+(feat+Playboi+Carti))** - The Weeknd<br/>
+> ∙ **[SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)** - Justin Timberlake<br/>
+> ∙ **[You Broke My Heart](https://www.last.fm/music/Drake/_/You+Broke+My+Heart)** - Drake<br/>
+> ∙ **[Closer](https://www.last.fm/music/Ne-Yo/_/Closer)** - Ne-Yo<br/>
+> ∙ **[FRANCHISE (feat. Young Thug & M.I.A.)](https://www.last.fm/music/Travis+Scott/_/FRANCHISE+(feat.+Young+Thug+&+M.I.A.))** - Travis Scott<br/>
+> ∙ **[The Time (Dirty Bit)](https://www.last.fm/music/Black+Eyed+Peas/_/The+Time+(Dirty+Bit))** - Black Eyed Peas<br/>
+> ∙ **[yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)** - Ariana Grande<br/>
+> ∙ **[Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)** - Far East Movement<br/>
+> ∙ **[The Way I Are](https://www.last.fm/music/Timbaland/_/The+Way+I+Are)** - Timbaland<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `292 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `233 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `229 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `200 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `144 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `130 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `108 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `104 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `73 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `55 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `366 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `333 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `308 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `287 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `193 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `185 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `144 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `139 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `109 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `104 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 <!--END_LASTFM_ARTISTS-->
