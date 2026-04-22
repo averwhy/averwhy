@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Ballad of the Cats](https://www.last.fm/music/C418/_/Ballad+of+the+Cats)** - C418<br/>
 > ∙ **[SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)** - Justin Timberlake<br/>
 > ∙ **[You Broke My Heart](https://www.last.fm/music/Drake/_/You+Broke+My+Heart)** - Drake<br/>
 > ∙ **[Closer](https://www.last.fm/music/Ne-Yo/_/Closer)** - Ne-Yo<br/>
@@ -53,7 +54,6 @@
 > ∙ **[The Time (Dirty Bit)](https://www.last.fm/music/Black+Eyed+Peas/_/The+Time+(Dirty+Bit))** - Black Eyed Peas<br/>
 > ∙ **[yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)** - Ariana Grande<br/>
 > ∙ **[Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)** - Far East Movement<br/>
-> ∙ **[The Way I Are](https://www.last.fm/music/Timbaland/_/The+Way+I+Are)** - Timbaland<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
