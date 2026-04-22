@@ -61,10 +61,10 @@
 
 > `292 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `200 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `185 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `167 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `144 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `104 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `102 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `83 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `73 ▶️` ∙ **[Fake Plastic Trees - Single](https://www.last.fm/music/Radiohead/Fake+Plastic+Trees+-+Single)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `55 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -74,10 +74,10 @@
 
 > `333 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `308 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `243 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `157 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `225 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `144 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `139 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `138 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `109 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `104 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 <!--END_LASTFM_ARTISTS-->
