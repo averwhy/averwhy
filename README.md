@@ -46,21 +46,21 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ballad of the Cats](https://www.last.fm/music/C418/_/Ballad+of+the+Cats)** - C418<br/>
-> ∙ **[SexyBack](https://www.last.fm/music/Justin+Timberlake/_/SexyBack)** - Justin Timberlake<br/>
-> ∙ **[You Broke My Heart](https://www.last.fm/music/Drake/_/You+Broke+My+Heart)** - Drake<br/>
-> ∙ **[Closer](https://www.last.fm/music/Ne-Yo/_/Closer)** - Ne-Yo<br/>
-> ∙ **[FRANCHISE (feat. Young Thug & M.I.A.)](https://www.last.fm/music/Travis+Scott/_/FRANCHISE+(feat.+Young+Thug+&+M.I.A.))** - Travis Scott<br/>
-> ∙ **[The Time (Dirty Bit)](https://www.last.fm/music/Black+Eyed+Peas/_/The+Time+(Dirty+Bit))** - Black Eyed Peas<br/>
-> ∙ **[yes, and?](https://www.last.fm/music/Ariana+Grande/_/yes,+and%3F)** - Ariana Grande<br/>
-> ∙ **[Like a G6](https://www.last.fm/music/Far+East+Movement/_/Like+a+G6)** - Far East Movement<br/>
+> 🎶 **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
+> ∙ **[Recordé](https://www.last.fm/music/Milo+j/_/Record%C3%A9)** - Milo j<br/>
+> ∙ **[MAMICHULA - Red Bull Symphonic](https://www.last.fm/music/Trueno/_/MAMICHULA+-+Red+Bull+Symphonic)** - Trueno<br/>
+> ∙ **[Lush Life](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)** - Zara Larsson<br/>
+> ∙ **[Habits (Stay High)](https://www.last.fm/music/Tove+Lo/_/Habits+(Stay+High))** - Tove Lo<br/>
+> ∙ **[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)** - Drake<br/>
+> ∙ **[Babydoll](https://www.last.fm/music/Dominic+Fike/_/Babydoll)** - Dominic Fike<br/>
+> ∙ **[Close to Me](https://www.last.fm/music/Ellie+Goulding/_/Close+to+Me)** - Ellie Goulding<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `167 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `157 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `146 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `144 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `144 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `104 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
@@ -74,10 +74,10 @@
 
 > `237 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `225 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `173 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `162 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `144 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `109 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `107 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `104 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `94 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `83 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
