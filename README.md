@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Miss You - Remastered](https://www.last.fm/music/The+Rolling+Stones/_/Miss+You+-+Remastered)** - The Rolling Stones<br/>
-> ∙ **[Assumptions](https://www.last.fm/music/Sam+Gellaitry/_/Assumptions)** - Sam Gellaitry<br/>
-> ∙ **[Tin Man](https://www.last.fm/music/America/_/Tin+Man)** - America<br/>
-> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
-> ∙ **[Recordé](https://www.last.fm/music/Milo+j/_/Record%C3%A9)** - Milo j<br/>
-> ∙ **[MAMICHULA - Red Bull Symphonic](https://www.last.fm/music/Trueno/_/MAMICHULA+-+Red+Bull+Symphonic)** - Trueno<br/>
-> ∙ **[Lush Life](https://www.last.fm/music/Zara+Larsson/_/Lush+Life)** - Zara Larsson<br/>
-> ∙ **[Habits (Stay High)](https://www.last.fm/music/Tove+Lo/_/Habits+(Stay+High))** - Tove Lo<br/>
+> ∙ **[when sunday comes around](https://www.last.fm/music/Marlon+Funaki/_/when+sunday+comes+around)** - Marlon Funaki<br/>
+> ∙ **[Se fue la luz](https://www.last.fm/music/Latin+mafia/_/Se+fue+la+luz)** - Latin mafia<br/>
+> ∙ **[Yerushalayim - Live Version](https://www.last.fm/music/Yerachmiel+Begun+&+The+Miami+Boys+Choir/_/Yerushalayim+-+Live+Version)** - Yerachmiel Begun & The Miami Boys Choir<br/>
+> ∙ **[Fake Plastic Trees](https://www.last.fm/music/Radiohead/_/Fake+Plastic+Trees)** - Radiohead<br/>
+> ∙ **[Pack A Dip](https://www.last.fm/music/lil+Cumtism/_/Pack+A+Dip)** - lil Cumtism<br/>
+> ∙ **[Gives You Hell](https://www.last.fm/music/The+All-American+Rejects/_/Gives+You+Hell)** - The All-American Rejects<br/>
+> ∙ **[we're not alike](https://www.last.fm/music/Tate+McRae/_/we%27re+not+alike)** - Tate McRae<br/>
+> ∙ **[Just a Boy](https://www.last.fm/music/The+Backseat+Lovers/_/Just+a+Boy)** - The Backseat Lovers<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -73,7 +73,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `245 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `240 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `241 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `168 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `158 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `112 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
