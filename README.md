@@ -59,25 +59,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `43 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `25 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `14 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `9 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `14 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `6 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `4 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `4 ▶️` ∙ **[A Moon Shaped Pool](https://www.last.fm/music/Radiohead/A+Moon+Shaped+Pool)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `4 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `3 ▶️` ∙ **[Brat and it’s completely different but also still brat](https://www.last.fm/music/Charli+xcx/Brat+and+it%E2%80%99s+completely+different+but+also+still+brat)** - [Charli xcx](https://www.last.fm/music/Charli+xcx)<br/>
 > `2 ▶️` ∙ **[The Beginning](https://www.last.fm/music/Black+Eyed+Peas/The+Beginning)** - [Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)<br/>
+> `2 ▶️` ∙ **[The E.N.D. (The Energy Never Dies) [Deluxe Version]](https://www.last.fm/music/Black+Eyed+Peas/The+E.N.D.+(The+Energy+Never+Dies)+%5BDeluxe+Version%5D)** - [Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `68 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `20 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `14 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `9 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `8 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `4 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 > `4 ▶️` ∙ **[Charli xcx](https://www.last.fm/music/Charli+xcx)**<br/>
 > `4 ▶️` ∙ **[Drake](https://www.last.fm/music/Drake)**<br/>
+> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 <!--END_LASTFM_ARTISTS-->
