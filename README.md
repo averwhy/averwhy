@@ -65,8 +65,8 @@
 > `53 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `30 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `30 ▶️` ∙ **[Things Are The Same (In Nine) - EP](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine)+-+EP)** - [Should](https://www.last.fm/music/Should)<br/>
-> `25 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `20 ▶️` ∙ **[A Moon Shaped Pool](https://www.last.fm/music/Radiohead/A+Moon+Shaped+Pool)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `14 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -77,7 +77,7 @@
 > `55 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `34 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `32 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `25 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `24 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `14 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `4 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
