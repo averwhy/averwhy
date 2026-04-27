@@ -61,11 +61,11 @@
 
 > `90 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `73 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `57 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `57 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `53 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `30 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `30 ▶️` ∙ **[Things Are The Same (In Nine) - EP](https://www.last.fm/music/Should/Things+Are+The+Same+(In+Nine)+-+EP)** - [Should](https://www.last.fm/music/Should)<br/>
+> `25 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `20 ▶️` ∙ **[A Moon Shaped Pool](https://www.last.fm/music/Radiohead/A+Moon+Shaped+Pool)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -74,10 +74,10 @@
 
 > `147 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `73 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `57 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `55 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `34 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `32 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `25 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `24 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `14 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 <!--END_LASTFM_ARTISTS-->
