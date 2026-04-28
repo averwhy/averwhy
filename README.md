@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[when sunday comes around](https://www.last.fm/music/Marlon+Funaki/_/when+sunday+comes+around)** - Marlon Funaki<br/>
-> ∙ **[Se fue la luz](https://www.last.fm/music/Latin+mafia/_/Se+fue+la+luz)** - Latin mafia<br/>
-> ∙ **[Yerushalayim - Live Version](https://www.last.fm/music/Yerachmiel+Begun+&+The+Miami+Boys+Choir/_/Yerushalayim+-+Live+Version)** - Yerachmiel Begun & The Miami Boys Choir<br/>
-> ∙ **[Fake Plastic Trees](https://www.last.fm/music/Radiohead/_/Fake+Plastic+Trees)** - Radiohead<br/>
-> ∙ **[Pack A Dip](https://www.last.fm/music/lil+Cumtism/_/Pack+A+Dip)** - lil Cumtism<br/>
-> ∙ **[Gives You Hell](https://www.last.fm/music/The+All-American+Rejects/_/Gives+You+Hell)** - The All-American Rejects<br/>
-> ∙ **[we're not alike](https://www.last.fm/music/Tate+McRae/_/we%27re+not+alike)** - Tate McRae<br/>
-> ∙ **[Just a Boy](https://www.last.fm/music/The+Backseat+Lovers/_/Just+a+Boy)** - The Backseat Lovers<br/>
+> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
+> ∙ **[20200229](https://www.last.fm/music/Mac+DeMarco/_/20200229)** - Mac DeMarco<br/>
+> ∙ **[20200228](https://www.last.fm/music/Mac+DeMarco/_/20200228)** - Mac DeMarco<br/>
+> ∙ **[20200225](https://www.last.fm/music/Mac+DeMarco/_/20200225)** - Mac DeMarco<br/>
+> ∙ **[20200223](https://www.last.fm/music/Mac+DeMarco/_/20200223)** - Mac DeMarco<br/>
+> ∙ **[20200115](https://www.last.fm/music/Mac+DeMarco/_/20200115)** - Mac DeMarco<br/>
+> ∙ **[20200109](https://www.last.fm/music/Mac+DeMarco/_/20200109)** - Mac DeMarco<br/>
+> ∙ **[20200108](https://www.last.fm/music/Mac+DeMarco/_/20200108)** - Mac DeMarco<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `14 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `14 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `6 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `4 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `3 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `2 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `2 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
+> `35 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `26 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `17 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `9 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `8 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `4 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `4 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `20 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `14 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `3 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `2 ▶️` ∙ **[Dominic Fike](https://www.last.fm/music/Dominic+Fike)**<br/>
+> `40 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `27 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `26 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `8 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `6 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `5 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `4 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `4 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 <!--END_LASTFM_ARTISTS-->
