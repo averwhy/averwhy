@@ -64,9 +64,9 @@
 > `6 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `4 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `3 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `2 ▶️` ∙ **[The Beginning](https://www.last.fm/music/Black+Eyed+Peas/The+Beginning)** - [Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)<br/>
 > `2 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `2 ▶️` ∙ **[Mic City Sons](https://www.last.fm/music/Heatmiser/Mic+City+Sons)** - [Heatmiser](https://www.last.fm/music/Heatmiser)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -77,7 +77,7 @@
 > `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `3 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
-> `3 ▶️` ∙ **[Drake](https://www.last.fm/music/Drake)**<br/>
 > `3 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `2 ▶️` ∙ **[Dominic Fike](https://www.last.fm/music/Dominic+Fike)**<br/>
 <!--END_LASTFM_ARTISTS-->
