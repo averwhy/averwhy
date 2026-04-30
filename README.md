@@ -59,7 +59,7 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `34 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `33 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `12 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `6 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `5 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
@@ -72,7 +72,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `39 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `38 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `12 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `4 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
