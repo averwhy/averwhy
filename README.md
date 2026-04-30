@@ -61,11 +61,11 @@
 
 > `33 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `12 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `6 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `5 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `4 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `4 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `3 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -74,10 +74,10 @@
 
 > `38 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `12 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `4 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
 > `2 ▶️` ∙ **[D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)**<br/>
+> `2 ▶️` ∙ **[King Krule](https://www.last.fm/music/King+Krule)**<br/>
 <!--END_LASTFM_ARTISTS-->
