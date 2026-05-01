@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[20200229 2](https://www.last.fm/music/Mac+DeMarco/_/20200229+2)** - Mac DeMarco<br/>
-> ∙ **[20200229](https://www.last.fm/music/Mac+DeMarco/_/20200229)** - Mac DeMarco<br/>
-> ∙ **[20200228](https://www.last.fm/music/Mac+DeMarco/_/20200228)** - Mac DeMarco<br/>
-> ∙ **[20200225](https://www.last.fm/music/Mac+DeMarco/_/20200225)** - Mac DeMarco<br/>
-> ∙ **[20200223](https://www.last.fm/music/Mac+DeMarco/_/20200223)** - Mac DeMarco<br/>
-> ∙ **[20200115](https://www.last.fm/music/Mac+DeMarco/_/20200115)** - Mac DeMarco<br/>
-> ∙ **[20200109](https://www.last.fm/music/Mac+DeMarco/_/20200109)** - Mac DeMarco<br/>
-> ∙ **[20200108](https://www.last.fm/music/Mac+DeMarco/_/20200108)** - Mac DeMarco<br/>
+> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
+> ∙ **[We Never Change](https://www.last.fm/music/Coldplay/_/We+Never+Change)** - Coldplay<br/>
+> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
+> ∙ **[We Never Change](https://www.last.fm/music/Coldplay/_/We+Never+Change)** - Coldplay<br/>
+> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
+> ∙ **[High Speed](https://www.last.fm/music/Coldplay/_/High+Speed)** - Coldplay<br/>
+> ∙ **[Trouble](https://www.last.fm/music/Coldplay/_/Trouble)** - Coldplay<br/>
+> ∙ **[High Speed](https://www.last.fm/music/Coldplay/_/High+Speed)** - Coldplay<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `33 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `39 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `17 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 > `12 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `4 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `6 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `5 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `4 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `3 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
+> `4 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `37 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `44 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `17 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `12 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `4 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
-> `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)**<br/>
-> `2 ▶️` ∙ **[King Krule](https://www.last.fm/music/King+Krule)**<br/>
+> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `5 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `4 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `4 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
