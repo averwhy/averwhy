@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
-> ∙ **[We Never Change](https://www.last.fm/music/Coldplay/_/We+Never+Change)** - Coldplay<br/>
-> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
-> ∙ **[We Never Change](https://www.last.fm/music/Coldplay/_/We+Never+Change)** - Coldplay<br/>
-> ∙ **[Everything's Not Lost](https://www.last.fm/music/Coldplay/_/Everything%27s+Not+Lost)** - Coldplay<br/>
-> ∙ **[High Speed](https://www.last.fm/music/Coldplay/_/High+Speed)** - Coldplay<br/>
-> ∙ **[Trouble](https://www.last.fm/music/Coldplay/_/Trouble)** - Coldplay<br/>
-> ∙ **[High Speed](https://www.last.fm/music/Coldplay/_/High+Speed)** - Coldplay<br/>
+> ∙ **[Congratulations](https://www.last.fm/music/Post+Malone/_/Congratulations)** - Post Malone<br/>
+> ∙ **[I Gotta Feeling](https://www.last.fm/music/Black+Eyed+Peas/_/I+Gotta+Feeling)** - Black Eyed Peas<br/>
+> ∙ **[Gotta Go My Own Way](https://www.last.fm/music/Zac+Efron/_/Gotta+Go+My+Own+Way)** - Zac Efron<br/>
+> ∙ **[Glorious (feat. Skylar Grey)](https://www.last.fm/music/Macklemore/_/Glorious+(feat.+Skylar+Grey))** - Macklemore<br/>
+> ∙ **[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)** - Kanye West<br/>
+> ∙ **[Lighters](https://www.last.fm/music/Bad+Meets+Evil/_/Lighters)** - Bad Meets Evil<br/>
+> ∙ **[Wasted Youth](https://www.last.fm/music/Feng/_/Wasted+Youth)** - Feng<br/>
+> ∙ **[You're on Your Own, Kid](https://www.last.fm/music/Taylor+Swift/_/You%27re+on+Your+Own,+Kid)** - Taylor Swift<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `17 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `19 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 > `12 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `5 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `4 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `3 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
