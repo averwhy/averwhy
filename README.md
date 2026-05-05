@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[You Are the Right One](https://www.last.fm/music/Sports/_/You+Are+the+Right+One)** - Sports<br/>
+> ∙ **[Closer](https://www.last.fm/music/Ne-Yo/_/Closer)** - Ne-Yo<br/>
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
 > ∙ **[Spies](https://www.last.fm/music/Coldplay/_/Spies)** - Coldplay<br/>
 > ∙ **[Spies](https://www.last.fm/music/Coldplay/_/Spies)** - Coldplay<br/>
-> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
-> ∙ **[Let Down](https://www.last.fm/music/Radiohead/_/Let+Down)** - Radiohead<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
