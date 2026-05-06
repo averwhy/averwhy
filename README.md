@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[New Sensation](https://www.last.fm/music/INXS/_/New+Sensation)** - INXS<br/>
-> ∙ **[You Are the Right One](https://www.last.fm/music/Sports/_/You+Are+the+Right+One)** - Sports<br/>
-> ∙ **[Closer](https://www.last.fm/music/Ne-Yo/_/Closer)** - Ne-Yo<br/>
-> ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
-> ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
-> ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
-> ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
-> ∙ **[Spies](https://www.last.fm/music/Coldplay/_/Spies)** - Coldplay<br/>
+> ∙ **[Snap My Finger (feat. PinkPantheress)](https://www.last.fm/music/KAYTRANADA/_/Snap+My+Finger+(feat.+PinkPantheress))** - KAYTRANADA<br/>
+> ∙ **[Jadoo](https://www.last.fm/music/Zainab/_/Jadoo)** - Zainab<br/>
+> ∙ **[lemons](https://www.last.fm/music/piri+&+tommy+&+scruz/_/lemons)** - piri & tommy & scruz<br/>
+> ∙ **[I Need You](https://www.last.fm/music/TWOFACED+&+Nikita+W/_/I+Need+You)** - TWOFACED & Nikita W<br/>
+> ∙ **[Still Sleepless](https://www.last.fm/music/D.O.D+&+Carla+Monroe/_/Still+Sleepless)** - D.O.D & Carla Monroe<br/>
+> ∙ **[Feel You](https://www.last.fm/music/Brick/_/Feel+You)** - Brick<br/>
+> ∙ **[START UP A RUMOUR](https://www.last.fm/music/Sam+Gellaitry/_/START+UP+A+RUMOUR)** - Sam Gellaitry<br/>
+> ∙ **[Lost In a Good Way (feat. Artemis Orion)](https://www.last.fm/music/Sasha+Rome+&+kasp/_/Lost+In+a+Good+Way+(feat.+Artemis+Orion))** - Sasha Rome & kasp<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `26 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
+> `31 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 > `26 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `17 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `6 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `5 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `4 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `4 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `24 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `12 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `10 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `9 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `7 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `7 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `28 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `33 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `32 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `26 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `20 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `8 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `6 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `6 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `5 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `15 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `12 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `10 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 <!--END_LASTFM_ARTISTS-->
