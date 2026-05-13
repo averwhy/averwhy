@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[I Ran (So Far Away) - Single Edit](https://www.last.fm/music/A+Flock+of+Seagulls/_/I+Ran+(So+Far+Away)+-+Single+Edit)** - A Flock of Seagulls<br/>
 > ∙ **[Motion Picture Soundtrack](https://www.last.fm/music/Radiohead/_/Motion+Picture+Soundtrack)** - Radiohead<br/>
 > ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
 > ∙ **[Motion Picture Soundtrack](https://www.last.fm/music/Radiohead/_/Motion+Picture+Soundtrack)** - Radiohead<br/>
@@ -53,7 +54,6 @@
 > ∙ **[Baby Shea](https://www.last.fm/music/Ovlov/_/Baby+Shea)** - Ovlov<br/>
 > ∙ **[Baby Shea](https://www.last.fm/music/Ovlov/_/Baby+Shea)** - Ovlov<br/>
 > ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Songs Of Farewell And Departure](https://www.last.fm/music/Hum/_/Songs+Of+Farewell+And+Departure)** - Hum<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
