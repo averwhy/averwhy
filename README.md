@@ -66,7 +66,7 @@
 > `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `4 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `4 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `4 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `4 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -74,10 +74,10 @@
 
 > `15 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `10 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
-> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `9 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `9 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `7 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `5 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
