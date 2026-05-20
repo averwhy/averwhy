@@ -64,9 +64,9 @@
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
 > `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
-> `2 ▶️` ∙ **[A Flock of Seagulls (Deluxe)](https://www.last.fm/music/A+Flock+of+Seagulls/A+Flock+of+Seagulls+(Deluxe))** - [A Flock of Seagulls](https://www.last.fm/music/A+Flock+of+Seagulls)<br/>
 > `2 ▶️` ∙ **[Christopher Cross (2019 Remaster)](https://www.last.fm/music/Christopher+Cross/Christopher+Cross+(2019+Remaster))** - [Christopher Cross](https://www.last.fm/music/Christopher+Cross)<br/>
 > `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
+> `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
