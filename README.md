@@ -61,12 +61,12 @@
 
 > `4 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
-> `3 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `2 ▶️` ∙ **[Christopher Cross (2019 Remaster)](https://www.last.fm/music/Christopher+Cross/Christopher+Cross+(2019+Remaster))** - [Christopher Cross](https://www.last.fm/music/Christopher+Cross)<br/>
 > `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
-> `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `2 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
+> `2 ▶️` ∙ **[ANYWHERE HERE IS PERFECT](https://www.last.fm/music/Sam+Gellaitry/ANYWHERE+HERE+IS+PERFECT)** - [Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)<br/>
+> `2 ▶️` ∙ **[Jadoo - Single](https://www.last.fm/music/Zainab/Jadoo+-+Single)** - [Zainab](https://www.last.fm/music/Zainab)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -75,9 +75,9 @@
 > `4 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `3 ▶️` ∙ **[Hall & Oates](https://www.last.fm/music/Hall+&+Oates)**<br/>
-> `3 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
 > `3 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `2 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
 > `2 ▶️` ∙ **[Christopher Cross](https://www.last.fm/music/Christopher+Cross)**<br/>
+> `2 ▶️` ∙ **[D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)**<br/>
 <!--END_LASTFM_ARTISTS-->
