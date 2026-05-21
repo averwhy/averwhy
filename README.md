@@ -74,10 +74,10 @@
 
 > `4 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `4 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
-> `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `3 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `3 ▶️` ∙ **[Hall & Oates](https://www.last.fm/music/Hall+&+Oates)**<br/>
 > `3 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
+> `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
+> `3 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
