@@ -60,13 +60,13 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
-> `2 ▶️` ∙ **[Christopher Cross (2019 Remaster)](https://www.last.fm/music/Christopher+Cross/Christopher+Cross+(2019+Remaster))** - [Christopher Cross](https://www.last.fm/music/Christopher+Cross)<br/>
 > `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
 > `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
 > `2 ▶️` ∙ **[ANYWHERE HERE IS PERFECT](https://www.last.fm/music/Sam+Gellaitry/ANYWHERE+HERE+IS+PERFECT)** - [Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)<br/>
 > `2 ▶️` ∙ **[Jadoo - Single](https://www.last.fm/music/Zainab/Jadoo+-+Single)** - [Zainab](https://www.last.fm/music/Zainab)<br/>
 > `1 ▶️` ∙ **[Five-A-Side](https://www.last.fm/music/Ace/Five-A-Side)** - [Ace](https://www.last.fm/music/Ace)<br/>
 > `1 ▶️` ∙ **[Alf (Deluxe Version)](https://www.last.fm/music/Alison+Moyet/Alf+(Deluxe+Version))** - [Alison Moyet](https://www.last.fm/music/Alison+Moyet)<br/>
+> `1 ▶️` ∙ **[One Eighty](https://www.last.fm/music/Ambrosia/One+Eighty)** - [Ambrosia](https://www.last.fm/music/Ambrosia)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,8 +76,8 @@
 > `3 ▶️` ∙ **[Hall & Oates](https://www.last.fm/music/Hall+&+Oates)**<br/>
 > `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
 > `2 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
-> `2 ▶️` ∙ **[Christopher Cross](https://www.last.fm/music/Christopher+Cross)**<br/>
 > `2 ▶️` ∙ **[D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)**<br/>
 > `2 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
 > `2 ▶️` ∙ **[PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)**<br/>
+> `2 ▶️` ∙ **[Zainab](https://www.last.fm/music/Zainab)**<br/>
 <!--END_LASTFM_ARTISTS-->
