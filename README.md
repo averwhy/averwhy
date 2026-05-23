@@ -61,7 +61,6 @@
 
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
 > `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
-> `1 ▶️` ∙ **[Mirage (Deluxe Edition)](https://www.last.fm/music/Fleetwood+Mac/Mirage+(Deluxe+Edition))** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
 > `1 ▶️` ∙ **[Timeless](https://www.last.fm/music/KAYTRANADA/Timeless)** - [KAYTRANADA](https://www.last.fm/music/KAYTRANADA)<br/>
 > `1 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -71,7 +70,6 @@
 
 > `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
 > `2 ▶️` ∙ **[PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)**<br/>
-> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
 > `1 ▶️` ∙ **[KAYTRANADA](https://www.last.fm/music/KAYTRANADA)**<br/>
 > `1 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 <!--END_LASTFM_ARTISTS-->
