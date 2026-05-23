@@ -60,24 +60,18 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
-> `2 ▶️` ∙ **[Still Sleepless - Single](https://www.last.fm/music/D.O.D+&+Carla+Monroe/Still+Sleepless+-+Single)** - [D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)<br/>
 > `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
-> `2 ▶️` ∙ **[ANYWHERE HERE IS PERFECT](https://www.last.fm/music/Sam+Gellaitry/ANYWHERE+HERE+IS+PERFECT)** - [Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)<br/>
-> `2 ▶️` ∙ **[Jadoo - Single](https://www.last.fm/music/Zainab/Jadoo+-+Single)** - [Zainab](https://www.last.fm/music/Zainab)<br/>
-> `1 ▶️` ∙ **[Hold On, Let Go (feat. Wayne Snow & 3DDY) - Single](https://www.last.fm/music/ANOTR/Hold+On,+Let+Go+(feat.+Wayne+Snow+&+3DDY)+-+Single)** - [ANOTR](https://www.last.fm/music/ANOTR)<br/>
-> `1 ▶️` ∙ **[Retpoid Meetings](https://www.last.fm/music/ANOTR/Retpoid+Meetings)** - [ANOTR](https://www.last.fm/music/ANOTR)<br/>
-> `1 ▶️` ∙ **[Feel You - Single](https://www.last.fm/music/Brick/Feel+You+-+Single)** - [Brick](https://www.last.fm/music/Brick)<br/>
+> `1 ▶️` ∙ **[Mirage (Deluxe Edition)](https://www.last.fm/music/Fleetwood+Mac/Mirage+(Deluxe+Edition))** - [Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)<br/>
+> `1 ▶️` ∙ **[Timeless](https://www.last.fm/music/KAYTRANADA/Timeless)** - [KAYTRANADA](https://www.last.fm/music/KAYTRANADA)<br/>
+> `1 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `3 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
-> `2 ▶️` ∙ **[ANOTR](https://www.last.fm/music/ANOTR)**<br/>
-> `2 ▶️` ∙ **[D.O.D & Carla Monroe](https://www.last.fm/music/D.O.D+&+Carla+Monroe)**<br/>
 > `2 ▶️` ∙ **[PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)**<br/>
-> `2 ▶️` ∙ **[Zainab](https://www.last.fm/music/Zainab)**<br/>
-> `1 ▶️` ∙ **[Brick](https://www.last.fm/music/Brick)**<br/>
-> `1 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
+> `1 ▶️` ∙ **[Fleetwood Mac](https://www.last.fm/music/Fleetwood+Mac)**<br/>
+> `1 ▶️` ∙ **[KAYTRANADA](https://www.last.fm/music/KAYTRANADA)**<br/>
+> `1 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 <!--END_LASTFM_ARTISTS-->
