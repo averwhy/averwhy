@@ -60,8 +60,6 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Homecoming](https://www.last.fm/music/America/Homecoming)** - [America](https://www.last.fm/music/America)<br/>
-> `2 ▶️` ∙ **[Picture In My Mind - Single](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/Picture+In+My+Mind+-+Single)** - [PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)<br/>
-> `1 ▶️` ∙ **[Timeless](https://www.last.fm/music/KAYTRANADA/Timeless)** - [KAYTRANADA](https://www.last.fm/music/KAYTRANADA)<br/>
 > `1 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -69,7 +67,5 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `3 ▶️` ∙ **[America](https://www.last.fm/music/America)**<br/>
-> `2 ▶️` ∙ **[PinkPantheress & Sam Gellaitry](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry)**<br/>
-> `1 ▶️` ∙ **[KAYTRANADA](https://www.last.fm/music/KAYTRANADA)**<br/>
 > `1 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 <!--END_LASTFM_ARTISTS-->
