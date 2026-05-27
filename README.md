@@ -46,24 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Ventura Highway](https://www.last.fm/music/America/_/Ventura+Highway)** - America<br/>
-> ∙ **[Broadview](https://www.last.fm/music/Slow+Pulp/_/Broadview)** - Slow Pulp<br/>
-> ∙ **[Snap My Finger (feat. PinkPantheress)](https://www.last.fm/music/KAYTRANADA/_/Snap+My+Finger+(feat.+PinkPantheress))** - KAYTRANADA<br/>
-> ∙ **[Picture In My Mind](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/_/Picture+In+My+Mind)** - PinkPantheress & Sam Gellaitry<br/>
-> ∙ **[Picture In My Mind](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/_/Picture+In+My+Mind)** - PinkPantheress & Sam Gellaitry<br/>
-> ∙ **[Gypsy - 2016 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Gypsy+-+2016+Remaster)** - Fleetwood Mac<br/>
+> ∙ **[Iowa Swarm](https://www.last.fm/music/Knifeplay/_/Iowa+Swarm)** - Knifeplay<br/>
+> ∙ **[Iowa Swarm](https://www.last.fm/music/Knifeplay/_/Iowa+Swarm)** - Knifeplay<br/>
+> ∙ **[Iowa Swarm](https://www.last.fm/music/Knifeplay/_/Iowa+Swarm)** - Knifeplay<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
+> ∙ **[Cramps](https://www.last.fm/music/Slow+Pulp/_/Cramps)** - Slow Pulp<br/>
+> ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
+> ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-No listening data found for the selected time period.
+> `12 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `9 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
+> `8 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
+> `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `7 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `6 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
+> `4 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-No listening data found for the selected time period.
+> `13 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `12 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `12 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `8 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
+> `7 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `6 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
