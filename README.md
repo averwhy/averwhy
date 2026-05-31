@@ -46,25 +46,25 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Concrete Halls](https://www.last.fm/music/C418/_/Concrete+Halls)** - C418<br/>
-> ∙ **[Concrete Halls](https://www.last.fm/music/C418/_/Concrete+Halls)** - C418<br/>
-> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[Équinoxe](https://www.last.fm/music/C418/_/%C3%89quinoxe)** - C418<br/>
+> ∙ **[Flake](https://www.last.fm/music/C418/_/Flake)** - C418<br/>
+> ∙ **[Dead Voxel](https://www.last.fm/music/C418/_/Dead+Voxel)** - C418<br/>
+> ∙ **[Excuse](https://www.last.fm/music/C418/_/Excuse)** - C418<br/>
+> ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - C418<br/>
+> ∙ **[Moog City](https://www.last.fm/music/C418/_/Moog+City)** - C418<br/>
+> ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
 > ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
-> ∙ **[Haunt Muskie](https://www.last.fm/music/C418/_/Haunt+Muskie)** - C418<br/>
-> ∙ **[Clark](https://www.last.fm/music/C418/_/Clark)** - C418<br/>
-> ∙ **[rubedo](https://www.last.fm/music/Lena+Raine/_/rubedo)** - Lena Raine<br/>
-> ∙ **[Chris](https://www.last.fm/music/C418/_/Chris)** - C418<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `10 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `8 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `10 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `9 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `9 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `7 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `5 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `5 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -72,9 +72,9 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `10 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `18 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `10 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `10 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `7 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
 > `7 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
