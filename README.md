@@ -46,7 +46,6 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Shuniji](https://www.last.fm/music/C418/_/Shuniji)** - C418<br/>
 > ∙ **[Équinoxe](https://www.last.fm/music/C418/_/%C3%89quinoxe)** - C418<br/>
 > ∙ **[Flake](https://www.last.fm/music/C418/_/Flake)** - C418<br/>
 > ∙ **[Dead Voxel](https://www.last.fm/music/C418/_/Dead+Voxel)** - C418<br/>
@@ -54,6 +53,7 @@
 > ∙ **[Haggstrom](https://www.last.fm/music/C418/_/Haggstrom)** - C418<br/>
 > ∙ **[Moog City](https://www.last.fm/music/C418/_/Moog+City)** - C418<br/>
 > ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
+> ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -65,8 +65,8 @@
 > `9 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `7 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `5 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
 > `5 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `4 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
