@@ -77,7 +77,7 @@
 > `10 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `7 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
-> `7 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `7 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `6 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
