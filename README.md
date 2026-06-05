@@ -61,23 +61,23 @@
 
 > `24 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `9 ▶️` ∙ **[sea soft](https://www.last.fm/music/Colin+McSherry/sea+soft)** - [Colin McSherry](https://www.last.fm/music/Colin+McSherry)<br/>
-> `8 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `7 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `5 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `7 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `6 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `4 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `4 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `4 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `4 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `12 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `11 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `9 ▶️` ∙ **[Colin McSherry](https://www.last.fm/music/Colin+McSherry)**<br/>
-> `8 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `8 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `7 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `6 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `5 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `2 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `2 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
