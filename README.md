@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
-> ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
-> ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
-> ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
-> ∙ **[Baby Shea](https://www.last.fm/music/Ovlov/_/Baby+Shea)** - Ovlov<br/>
-> ∙ **[Baby Shea](https://www.last.fm/music/Ovlov/_/Baby+Shea)** - Ovlov<br/>
-> ∙ **[Baby Shea](https://www.last.fm/music/Ovlov/_/Baby+Shea)** - Ovlov<br/>
-> ∙ **[Spaceboy](https://www.last.fm/music/The+Smashing+Pumpkins/_/Spaceboy)** - The Smashing Pumpkins<br/>
+> ∙ **[i](https://www.last.fm/music/Warmachine/_/i)** - Warmachine<br/>
+> ∙ **[At Home](https://www.last.fm/music/Slow+Pulp/_/At+Home)** - Slow Pulp<br/>
+> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
+> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
+> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
+> ∙ **[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)** - Radiohead<br/>
+> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
+> ∙ **[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)** - Radiohead<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `7 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `4 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `4 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `4 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `4 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
-> `4 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
-> `3 ▶️` ∙ **[Buds](https://www.last.fm/music/Ovlov/Buds)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `2 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `12 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `10 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `7 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
+> `7 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `5 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
+> `5 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
+> `5 ▶️` ∙ **[Buds](https://www.last.fm/music/Ovlov/Buds)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `19 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `10 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `8 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
-> `7 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `2 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `2 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `2 ▶️` ∙ **[Swirlies](https://www.last.fm/music/Swirlies)**<br/>
-> `1 ▶️` ∙ **[Bruce Hornsby & the Range](https://www.last.fm/music/Bruce+Hornsby+&+the+Range)**<br/>
+> `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `5 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
