@@ -77,7 +77,7 @@
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `10 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `9 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `8 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `5 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
