@@ -59,9 +59,9 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `12 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `10 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `8 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `7 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `7 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `5 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
@@ -72,7 +72,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `19 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `15 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
