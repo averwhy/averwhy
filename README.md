@@ -59,7 +59,7 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `10 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `8 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `8 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `7 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
@@ -76,8 +76,8 @@
 > `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `10 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `8 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `8 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `5 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
+> `5 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 <!--END_LASTFM_ARTISTS-->
