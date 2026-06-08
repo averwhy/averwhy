@@ -62,11 +62,11 @@
 > `8 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `5 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
-> `5 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `5 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `5 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[Space Heavy](https://www.last.fm/music/King+Krule/Space+Heavy)** - [King Krule](https://www.last.fm/music/King+Krule)<br/>
+> `4 ▶️` ∙ **[Floral Green](https://www.last.fm/music/Title+Fight/Floral+Green)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,6 +78,6 @@
 > `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `6 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `5 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
-> `5 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `5 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `4 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 <!--END_LASTFM_ARTISTS-->
