@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[An Ordinary Day](https://www.last.fm/music/Kumi+Tanioka/_/An+Ordinary+Day)** - Kumi Tanioka<br/>
-> ∙ **[An Ordinary Day](https://www.last.fm/music/Kumi+Tanioka/_/An+Ordinary+Day)** - Kumi Tanioka<br/>
-> ∙ **[Aria Math](https://www.last.fm/music/C418/_/Aria+Math)** - C418<br/>
-> ∙ **[Sideria](https://www.last.fm/music/Duster/_/Sideria)** - Duster<br/>
-> ∙ **[The Twins / Romantica](https://www.last.fm/music/Duster/_/The+Twins+%2F+Romantica)** - Duster<br/>
-> ∙ **[Earth Moon Transit](https://www.last.fm/music/Duster/_/Earth+Moon+Transit)** - Duster<br/>
-> ∙ **[Shadows of Planes](https://www.last.fm/music/Duster/_/Shadows+of+Planes)** - Duster<br/>
-> ∙ **[Reed to Hillsborough](https://www.last.fm/music/Duster/_/Reed+to+Hillsborough)** - Duster<br/>
+> ∙ **[Between the Breaths](https://www.last.fm/music/Simon+Wester/_/Between+the+Breaths)** - Simon Wester<br/>
+> ∙ **[Where It Begins](https://www.last.fm/music/Simon+Wester/_/Where+It+Begins)** - Simon Wester<br/>
+> ∙ **[High Above](https://www.last.fm/music/Music+Within/_/High+Above)** - Music Within<br/>
+> ∙ **[Shores](https://www.last.fm/music/Raphah/_/Shores)** - Raphah<br/>
+> ∙ **[Weightless](https://www.last.fm/music/Brett+Anthony+Shaw/_/Weightless)** - Brett Anthony Shaw<br/>
+> ∙ **[we are different flowers](https://www.last.fm/music/CENTER+OF+ATTENTION/_/we+are+different+flowers)** - CENTER OF ATTENTION<br/>
+> ∙ **[In a Whisper](https://www.last.fm/music/Salt+Of+The+Sound/_/In+a+Whisper)** - Salt Of The Sound<br/>
+> ∙ **[Sacred Space](https://www.last.fm/music/Memories+of+the+Forgotten/_/Sacred+Space)** - Memories of the Forgotten<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -66,7 +66,7 @@
 > `7 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `6 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 > `5 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `4 ▶️` ∙ **[The collective weight of small things](https://www.last.fm/music/Brett+Anthony+Shaw/The+collective+weight+of+small+things)** - [Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -77,7 +77,7 @@
 > `13 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `9 ▶️` ∙ **[Warmachine](https://www.last.fm/music/Warmachine)**<br/>
+> `7 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
 > `7 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `6 ▶️` ∙ **[Coldplay](https://www.last.fm/music/Coldplay)**<br/>
-> `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `7 ▶️` ∙ **[Within the Light](https://www.last.fm/music/Within+the+Light)**<br/>
 <!--END_LASTFM_ARTISTS-->
