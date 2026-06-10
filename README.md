@@ -60,13 +60,13 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `21 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `9 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `9 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `8 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `7 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `6 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
-> `5 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `4 ▶️` ∙ **[The collective weight of small things](https://www.last.fm/music/Brett+Anthony+Shaw/The+collective+weight+of+small+things)** - [Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)<br/>
+> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -74,7 +74,7 @@
 
 > `21 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `14 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `13 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `12 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `9 ▶️` ∙ **[Warmachine](https://www.last.fm/music/Warmachine)**<br/>
 > `7 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
