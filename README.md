@@ -46,14 +46,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
+> ∙ **[Theology](https://www.last.fm/music/Benjamin+Drewitz/_/Theology)** - Benjamin Drewitz<br/>
 > ∙ **[Between the Breaths](https://www.last.fm/music/Simon+Wester/_/Between+the+Breaths)** - Simon Wester<br/>
 > ∙ **[Where It Begins](https://www.last.fm/music/Simon+Wester/_/Where+It+Begins)** - Simon Wester<br/>
 > ∙ **[High Above](https://www.last.fm/music/Music+Within/_/High+Above)** - Music Within<br/>
 > ∙ **[Shores](https://www.last.fm/music/Raphah/_/Shores)** - Raphah<br/>
 > ∙ **[Weightless](https://www.last.fm/music/Brett+Anthony+Shaw/_/Weightless)** - Brett Anthony Shaw<br/>
 > ∙ **[we are different flowers](https://www.last.fm/music/CENTER+OF+ATTENTION/_/we+are+different+flowers)** - CENTER OF ATTENTION<br/>
-> ∙ **[In a Whisper](https://www.last.fm/music/Salt+Of+The+Sound/_/In+a+Whisper)** - Salt Of The Sound<br/>
-> ∙ **[Sacred Space](https://www.last.fm/music/Memories+of+the+Forgotten/_/Sacred+Space)** - Memories of the Forgotten<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -77,7 +77,7 @@
 > `12 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `9 ▶️` ∙ **[Warmachine](https://www.last.fm/music/Warmachine)**<br/>
-> `7 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
+> `8 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
 > `7 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `7 ▶️` ∙ **[Within the Light](https://www.last.fm/music/Within+the+Light)**<br/>
 <!--END_LASTFM_ARTISTS-->
