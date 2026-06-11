@@ -62,11 +62,11 @@
 > `34 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `7 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `6 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
 > `6 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 > `4 ▶️` ∙ **[The collective weight of small things](https://www.last.fm/music/Brett+Anthony+Shaw/The+collective+weight+of+small+things)** - [Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)<br/>
 > `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `4 ▶️` ∙ **[Space Heavy](https://www.last.fm/music/King+Krule/Space+Heavy)** - [King Krule](https://www.last.fm/music/King+Krule)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,6 +78,6 @@
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `9 ▶️` ∙ **[Warmachine](https://www.last.fm/music/Warmachine)**<br/>
 > `8 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
-> `7 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `7 ▶️` ∙ **[Within the Light](https://www.last.fm/music/Within+the+Light)**<br/>
+> `6 ▶️` ∙ **[Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)**<br/>
 <!--END_LASTFM_ARTISTS-->
