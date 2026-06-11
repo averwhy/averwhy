@@ -61,23 +61,23 @@
 
 > `34 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
-> `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `6 ▶️` ∙ **[Parachutes](https://www.last.fm/music/Coldplay/Parachutes)** - [Coldplay](https://www.last.fm/music/Coldplay)<br/>
-> `6 ▶️` ∙ **[Mellon Collie And The Infinite Sadness (2012 Remastered)](https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+And+The+Infinite+Sadness+(2012+Remastered))** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `4 ▶️` ∙ **[The collective weight of small things](https://www.last.fm/music/Brett+Anthony+Shaw/The+collective+weight+of+small+things)** - [Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)<br/>
-> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[Space Heavy](https://www.last.fm/music/King+Krule/Space+Heavy)** - [King Krule](https://www.last.fm/music/King+Krule)<br/>
+> `4 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `4 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
+> `4 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `14 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `10 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
-> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `9 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `9 ▶️` ∙ **[Warmachine](https://www.last.fm/music/Warmachine)**<br/>
 > `8 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
 > `7 ▶️` ∙ **[Within the Light](https://www.last.fm/music/Within+the+Light)**<br/>
 > `6 ▶️` ∙ **[Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)**<br/>
+> `5 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `5 ▶️` ∙ **[Khamir Music](https://www.last.fm/music/Khamir+Music)**<br/>
 <!--END_LASTFM_ARTISTS-->
