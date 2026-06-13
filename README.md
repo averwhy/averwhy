@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[The Eyes of Ibad_R>O>T](https://www.last.fm/music/Panchiko/_/The+Eyes+of+Ibad_R%3EO%3ET)** - Panchiko<br/>
-> ∙ **[Laputa_R>O>T](https://www.last.fm/music/Panchiko/_/Laputa_R%3EO%3ET)** - Panchiko<br/>
-> ∙ **[Stabilisers For Big Boys_R>O>T](https://www.last.fm/music/Panchiko/_/Stabilisers+For+Big+Boys_R%3EO%3ET)** - Panchiko<br/>
-> ∙ **[D>E>A>T>H>M>E>T>A>L_R>O>T](https://www.last.fm/music/Panchiko/_/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL_R%3EO%3ET)** - Panchiko<br/>
-> ∙ **[Kicking Cars](https://www.last.fm/music/Panchiko/_/Kicking+Cars)** - Panchiko<br/>
-> ∙ **[Sodium Chloride](https://www.last.fm/music/Panchiko/_/Sodium+Chloride)** - Panchiko<br/>
-> ∙ **[CUT](https://www.last.fm/music/Panchiko/_/CUT)** - Panchiko<br/>
-> ∙ **[The Eyes of Ibad](https://www.last.fm/music/Panchiko/_/The+Eyes+of+Ibad)** - Panchiko<br/>
+> 🎶 **[Axolotl](https://www.last.fm/music/C418/_/Axolotl)** - C418<br/>
+> ∙ **[Wet Hands](https://www.last.fm/music/C418/_/Wet+Hands)** - C418<br/>
+> ∙ **[Haunt Muskie](https://www.last.fm/music/C418/_/Haunt+Muskie)** - C418<br/>
+> ∙ **[Intro](https://www.last.fm/music/C418/_/Intro)** - C418<br/>
+> ∙ **[So Below](https://www.last.fm/music/Lena+Raine/_/So+Below)** - Lena Raine<br/>
+> ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - C418<br/>
+> ∙ **[Droopy Likes Your Face](https://www.last.fm/music/C418/_/Droopy+Likes+Your+Face)** - C418<br/>
+> ∙ **[Left to Bloom](https://www.last.fm/music/Lena+Raine/_/Left+to+Bloom)** - Lena Raine<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `34 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `13 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `12 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
+> `8 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `6 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine](https://www.last.fm/music/Lena+Raine)<br/>
 > `4 ▶️` ∙ **[The collective weight of small things](https://www.last.fm/music/Brett+Anthony+Shaw/The+collective+weight+of+small+things)** - [Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)<br/>
-> `4 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
-> `3 ▶️` ∙ **[Pearlty](https://www.last.fm/music/Knifeplay/Pearlty)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `3 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `3 ▶️` ∙ **[gestures been](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/gestures+been)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `3 ▶️` ∙ **[Forever Near](https://www.last.fm/music/Within+the+Light/Forever+Near)** - [Within the Light](https://www.last.fm/music/Within+the+Light)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `22 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `12 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
 > `8 ▶️` ∙ **[Simon Wester](https://www.last.fm/music/Simon+Wester)**<br/>
 > `7 ▶️` ∙ **[Within the Light](https://www.last.fm/music/Within+the+Light)**<br/>
 > `6 ▶️` ∙ **[Brett Anthony Shaw](https://www.last.fm/music/Brett+Anthony+Shaw)**<br/>
 > `5 ▶️` ∙ **[Khamir Music](https://www.last.fm/music/Khamir+Music)**<br/>
-> `4 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `4 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `4 ▶️` ∙ **[Lena Raine](https://www.last.fm/music/Lena+Raine)**<br/>
 <!--END_LASTFM_ARTISTS-->
