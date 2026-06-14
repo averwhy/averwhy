@@ -46,7 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[Haunt Muskie](https://www.last.fm/music/C418/_/Haunt+Muskie)** - C418<br/>
+> ∙ **[Haunt Muskie](https://www.last.fm/music/C418/_/Haunt+Muskie)** - C418<br/>
 > ∙ **[Key](https://www.last.fm/music/C418/_/Key)** - C418<br/>
 > ∙ **[Axolotl](https://www.last.fm/music/C418/_/Axolotl)** - C418<br/>
 > ∙ **[Living Mice](https://www.last.fm/music/C418/_/Living+Mice)** - C418<br/>
@@ -60,7 +60,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `36 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `25 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `26 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `24 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `15 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `14 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
@@ -72,7 +72,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `55 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `56 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `36 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `15 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `15 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
