@@ -79,5 +79,5 @@
 > `14 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
 > `12 ▶️` ∙ **[ID](https://www.last.fm/music/ID)**<br/>
 > `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `11 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
+> `9 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
 <!--END_LASTFM_ARTISTS-->
