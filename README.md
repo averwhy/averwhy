@@ -46,22 +46,22 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Memories Portrayed Through Photographs](https://www.last.fm/music/the+apology+club/_/Memories+Portrayed+Through+Photographs)** - the apology club<br/>
-> ∙ **[Baking Tapes](https://www.last.fm/music/Duster/_/Baking+Tapes)** - Duster<br/>
-> ∙ **[Silence , I'm Dying.](https://www.last.fm/music/WilliX/_/Silence+,+I%27m+Dying.)** - WilliX<br/>
-> ∙ **[sleepwalking](https://www.last.fm/music/Voi/_/sleepwalking)** - Voi<br/>
-> ∙ **[Imprinted Patterns](https://www.last.fm/music/fortaliax/_/Imprinted+Patterns)** - fortaliax<br/>
-> ∙ **[Elvik](https://www.last.fm/music/Alvedon/_/Elvik)** - Alvedon<br/>
-> ∙ **[fading light](https://www.last.fm/music/friendly+to+crows/_/fading+light)** - friendly to crows<br/>
-> ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
+> ∙ **[No Borders](https://www.last.fm/music/Pia+Fraus/_/No+Borders)** - Pia Fraus<br/>
+> ∙ **[dusty weather](https://www.last.fm/music/Stove/_/dusty+weather)** - Stove<br/>
+> ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
+> ∙ **[Eclipse](https://www.last.fm/music/Half+String/_/Eclipse)** - Half String<br/>
+> ∙ **[in another life](https://www.last.fm/music/LochHaven/_/in+another+life)** - LochHaven<br/>
+> ∙ **[oh the places i would take you if we werent so close to hell](https://www.last.fm/music/drezzdon/_/oh+the+places+i+would+take+you+if+we+werent+so+close+to+hell)** - drezzdon<br/>
+> ∙ **[the morning after](https://www.last.fm/music/WilliX/_/the+morning+after)** - WilliX<br/>
+> ∙ **[ending](https://www.last.fm/music/Voi/_/ending)** - Voi<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `36 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `26 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `25 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `24 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `20 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `15 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `14 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
 > `12 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/ID/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [ID](https://www.last.fm/music/ID)<br/>
@@ -72,8 +72,8 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `57 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `37 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `55 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `21 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `16 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `15 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `14 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
