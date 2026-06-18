@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Sideria](https://www.last.fm/music/Duster/_/Sideria)** - Duster<br/>
-> ∙ **[The Twins / Romantica](https://www.last.fm/music/Duster/_/The+Twins+%2F+Romantica)** - Duster<br/>
-> ∙ **[Earth Moon Transit](https://www.last.fm/music/Duster/_/Earth+Moon+Transit)** - Duster<br/>
-> ∙ **[Shadows of Planes](https://www.last.fm/music/Duster/_/Shadows+of+Planes)** - Duster<br/>
-> ∙ **[Reed to Hillsborough](https://www.last.fm/music/Duster/_/Reed+to+Hillsborough)** - Duster<br/>
-> ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
-> ∙ **[Inside Out](https://www.last.fm/music/Duster/_/Inside+Out)** - Duster<br/>
-> ∙ **[The Queen of Hearts](https://www.last.fm/music/Duster/_/The+Queen+of+Hearts)** - Duster<br/>
+> ∙ **[Alone with You](https://www.last.fm/music/deadmau5/_/Alone+with+You)** - deadmau5<br/>
+> ∙ **[Polaris](https://www.last.fm/music/deadmau5/_/Polaris)** - deadmau5<br/>
+> ∙ **[Moving Out](https://www.last.fm/music/First+Day+Back/_/Moving+Out)** - First Day Back<br/>
+> ∙ **[Western Haikus](https://www.last.fm/music/Title+Fight/_/Western+Haikus)** - Title Fight<br/>
+> ∙ **[Neck Deep](https://www.last.fm/music/Title+Fight/_/Neck+Deep)** - Title Fight<br/>
+> ∙ **[Western Haikus](https://www.last.fm/music/Title+Fight/_/Western+Haikus)** - Title Fight<br/>
+> ∙ **[Western Haikus](https://www.last.fm/music/Title+Fight/_/Western+Haikus)** - Title Fight<br/>
+> ∙ **[Goldwaite](https://www.last.fm/music/Title+Fight/_/Goldwaite)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `50 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `66 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `25 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `24 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `18 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `18 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/ID/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [ID](https://www.last.fm/music/ID)<br/>
 > `15 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `14 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
+> `15 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
 > `12 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/Sam+Gellaitry/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `69 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `55 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `53 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `19 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `18 ▶️` ∙ **[ID](https://www.last.fm/music/ID)**<br/>
 > `15 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `14 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
-> `13 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
-> `10 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `15 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
+> `14 ▶️` ∙ **[Sam Gellaitry](https://www.last.fm/music/Sam+Gellaitry)**<br/>
+> `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
