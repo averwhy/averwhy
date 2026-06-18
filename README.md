@@ -60,9 +60,9 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `50 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `34 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `25 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `24 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `18 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `18 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/ID/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [ID](https://www.last.fm/music/ID)<br/>
 > `15 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `14 ▶️` ∙ **[D>E>A>T>H>M>E>T>A>L](https://www.last.fm/music/Panchiko/D%3EE%3EA%3ET%3EH%3EM%3EE%3ET%3EA%3EL)** - [Panchiko](https://www.last.fm/music/Panchiko)<br/>
@@ -74,7 +74,7 @@
 
 > `55 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `53 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `35 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `19 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `18 ▶️` ∙ **[ID](https://www.last.fm/music/ID)**<br/>
 > `15 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `14 ▶️` ∙ **[Panchiko](https://www.last.fm/music/Panchiko)**<br/>
