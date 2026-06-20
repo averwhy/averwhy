@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[All I Need](https://www.last.fm/music/Radiohead/_/All+I+Need)** - Radiohead<br/>
-> ∙ **[100](https://www.last.fm/music/Dean+Blunt/_/100)** - Dean Blunt<br/>
-> ∙ **[At Home](https://www.last.fm/music/Slow+Pulp/_/At+Home)** - Slow Pulp<br/>
-> ∙ **[Sodium Chloride](https://www.last.fm/music/Panchiko/_/Sodium+Chloride)** - Panchiko<br/>
-> ∙ **[I Hate It Too](https://www.last.fm/music/Hum/_/I+Hate+It+Too)** - Hum<br/>
-> ∙ **[Trapdoors That Open](https://www.last.fm/music/bl4ck+m4rket+c4rt/_/Trapdoors+That+Open)** - bl4ck m4rket c4rt<br/>
-> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
-> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
+> ∙ **[Josie](https://www.last.fm/music/Steely+Dan/_/Josie)** - Steely Dan<br/>
+> ∙ **[Upside Down](https://www.last.fm/music/Jack+Johnson/_/Upside+Down)** - Jack Johnson<br/>
+> ∙ **[Saturday in the Park (2022 Remaster)](https://www.last.fm/music/Chicago/_/Saturday+in+the+Park+(2022+Remaster))** - Chicago<br/>
+> ∙ **[Midnight Rider](https://www.last.fm/music/The+Allman+Brothers+Band/_/Midnight+Rider)** - The Allman Brothers Band<br/>
+> ∙ **[Supersonic Rocket Ship](https://www.last.fm/music/The+Kinks/_/Supersonic+Rocket+Ship)** - The Kinks<br/>
+> ∙ **[Teenage Wildlife](https://www.last.fm/music/David+Bowie/_/Teenage+Wildlife)** - David Bowie<br/>
+> ∙ **[Try and Love Again](https://www.last.fm/music/Eagles/_/Try+and+Love+Again)** - Eagles<br/>
+> ∙ **[Linger](https://www.last.fm/music/The+Cranberries/_/Linger)** - The Cranberries<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `70 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `72 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `25 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
 > `24 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `18 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `15 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
 > `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `7 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
-> `7 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `9 ▶️` ∙ **[Sketches for My Sweetheart The Drunk (Expanded Edition)](https://www.last.fm/music/Jeff+Buckley/Sketches+for+My+Sweetheart+The+Drunk+(Expanded+Edition))** - [Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)<br/>
+> `7 ▶️` ∙ **[Space Heavy](https://www.last.fm/music/King+Krule/Space+Heavy)** - [King Krule](https://www.last.fm/music/King+Krule)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `77 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `80 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `55 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `19 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `15 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
-> `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `9 ▶️` ∙ **[Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)**<br/>
 > `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `7 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
+> `8 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 <!--END_LASTFM_ARTISTS-->
