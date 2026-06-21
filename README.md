@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
+> ∙ **[Intro](https://www.last.fm/music/C418/_/Intro)** - C418<br/>
+> ∙ **[noita](https://www.last.fm/music/Warmachine/_/noita)** - Warmachine<br/>
+> ∙ **[infection model](https://www.last.fm/music/Warmachine/_/infection+model)** - Warmachine<br/>
+> ∙ **[hello spring](https://www.last.fm/music/Warmachine/_/hello+spring)** - Warmachine<br/>
+> ∙ **[hypnagogia](https://www.last.fm/music/Warmachine/_/hypnagogia)** - Warmachine<br/>
 > ∙ **[Girl Like Me](https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me)** - PinkPantheress<br/>
 > ∙ **[Picture In My Mind](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/_/Picture+In+My+Mind)** - PinkPantheress & Sam Gellaitry<br/>
-> ∙ **[Still Sleepless](https://www.last.fm/music/D.O.D+&+Carla+Monroe/_/Still+Sleepless)** - D.O.D & Carla Monroe<br/>
-> ∙ **[Just The Way You Are](https://www.last.fm/music/Milky/_/Just+The+Way+You+Are)** - Milky<br/>
-> ∙ **[Linger](https://www.last.fm/music/The+Cranberries/_/Linger)** - The Cranberries<br/>
-> ∙ **[One of These Nights](https://www.last.fm/music/Eagles/_/One+of+These+Nights)** - Eagles<br/>
-> ∙ **[Just You n' Me](https://www.last.fm/music/Chicago/_/Just+You+n%27+Me)** - Chicago<br/>
-> ∙ **[25 Or 6 To 4](https://www.last.fm/music/Chicago/_/25+Or+6+To+4)** - Chicago<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `70 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `20 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `68 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `24 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `9 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `9 ▶️` ∙ **[Sketches for My Sweetheart The Drunk (Expanded Edition)](https://www.last.fm/music/Jeff+Buckley/Sketches+for+My+Sweetheart+The+Drunk+(Expanded+Edition))** - [Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)<br/>
-> `8 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `7 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `6 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/ID/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [ID](https://www.last.fm/music/ID)<br/>
+> `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `80 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `21 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `11 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `78 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `25 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `10 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `9 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
 > `9 ▶️` ∙ **[Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)**<br/>
+> `9 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `9 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
