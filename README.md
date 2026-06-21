@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Ki](https://www.last.fm/music/C418/_/Ki)** - C418<br/>
 > ∙ **[Stratosphere](https://www.last.fm/music/Duster/_/Stratosphere)** - Duster<br/>
 > ∙ **[Intro](https://www.last.fm/music/C418/_/Intro)** - C418<br/>
 > ∙ **[noita](https://www.last.fm/music/Warmachine/_/noita)** - Warmachine<br/>
@@ -53,14 +54,13 @@
 > ∙ **[hello spring](https://www.last.fm/music/Warmachine/_/hello+spring)** - Warmachine<br/>
 > ∙ **[hypnagogia](https://www.last.fm/music/Warmachine/_/hypnagogia)** - Warmachine<br/>
 > ∙ **[Girl Like Me](https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me)** - PinkPantheress<br/>
-> ∙ **[Picture In My Mind](https://www.last.fm/music/PinkPantheress+&+Sam+Gellaitry/_/Picture+In+My+Mind)** - PinkPantheress & Sam Gellaitry<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `68 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `24 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `25 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `9 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `9 ▶️` ∙ **[Sketches for My Sweetheart The Drunk (Expanded Edition)](https://www.last.fm/music/Jeff+Buckley/Sketches+for+My+Sweetheart+The+Drunk+(Expanded+Edition))** - [Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)<br/>
@@ -73,7 +73,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `78 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `25 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `26 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `10 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `9 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
