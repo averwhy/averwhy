@@ -79,5 +79,5 @@
 > `10 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
 > `9 ▶️` ∙ **[Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)**<br/>
 > `9 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `9 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `8 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 <!--END_LASTFM_ARTISTS-->
