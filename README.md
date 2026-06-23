@@ -65,14 +65,14 @@
 > `10 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `9 ▶️` ∙ **[Sketches for My Sweetheart The Drunk (Expanded Edition)](https://www.last.fm/music/Jeff+Buckley/Sketches+for+My+Sweetheart+The+Drunk+(Expanded+Edition))** - [Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)<br/>
 > `8 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
-> `7 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `6 ▶️` ∙ **[heds carRADIO: Sam Gellaitry (DJ Mix)](https://www.last.fm/music/ID/heds+carRADIO:+Sam+Gellaitry+(DJ+Mix))** - [ID](https://www.last.fm/music/ID)<br/>
+> `6 ▶️` ∙ **[Space Heavy](https://www.last.fm/music/King+Krule/Space+Heavy)** - [King Krule](https://www.last.fm/music/King+Krule)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `73 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `72 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `26 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `12 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `11 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
