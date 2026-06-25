@@ -59,8 +59,8 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `25 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `25 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `13 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `9 ▶️` ∙ **[Sketches for My Sweetheart The Drunk (Expanded Edition)](https://www.last.fm/music/Jeff+Buckley/Sketches+for+My+Sweetheart+The+Drunk+(Expanded+Edition))** - [Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)<br/>
 > `7 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
@@ -73,11 +73,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `34 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `25 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `13 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `11 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `9 ▶️` ∙ **[Jeff Buckley](https://www.last.fm/music/Jeff+Buckley)**<br/>
-> `8 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `7 ▶️` ∙ **[Chicago](https://www.last.fm/music/Chicago)**<br/>
+> `7 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `7 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 <!--END_LASTFM_ARTISTS-->
