@@ -75,9 +75,9 @@
 > `19 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `17 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `14 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `13 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `9 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
-> `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `8 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
