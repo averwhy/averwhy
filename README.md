@@ -46,20 +46,20 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[The Opposite](https://www.last.fm/music/The+Smile/_/The+Opposite)** - The Smile<br/>
+> ∙ **[Be Quiet and Drive (Far Away)](https://www.last.fm/music/Deftones/_/Be+Quiet+and+Drive+(Far+Away))** - Deftones<br/>
+> ∙ **[Here](https://www.last.fm/music/Animal+Ghosts/_/Here)** - Animal Ghosts<br/>
+> ∙ **[Vulnerable](https://www.last.fm/music/Bedroom+Eyes/_/Vulnerable)** - Bedroom Eyes<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[I-80](https://www.last.fm/music/Euphoria+Again/_/I-80)** - Euphoria Again<br/>
+> ∙ **[Spaceboy - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Spaceboy+-+2011+Remaster)** - The Smashing Pumpkins<br/>
 > ∙ **[A Hairdryer](https://www.last.fm/music/The+Smile/_/A+Hairdryer)** - The Smile<br/>
-> ∙ **[trainers](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/trainers)** - They Are Gutting a Body of Water<br/>
-> ∙ **[trainers](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/trainers)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Chore](https://www.last.fm/music/Heavytrip/_/Chore)** - Heavytrip<br/>
-> ∙ **[Worm](https://www.last.fm/music/Slow+Pulp/_/Worm)** - Slow Pulp<br/>
-> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
-> ∙ **[Iris](https://www.last.fm/music/Bedroom+Eyes/_/Iris)** - Bedroom Eyes<br/>
-> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `27 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `28 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `17 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `17 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 > `13 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
@@ -72,8 +72,8 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `34 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `34 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `33 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `24 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `20 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `13 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
