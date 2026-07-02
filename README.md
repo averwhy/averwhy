@@ -46,25 +46,25 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Every Shining Time You Arrive](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Every+Shining+Time+You+Arrive)** - Sunny Day Real Estate<br/>
-> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[There Is No Such Thing As Black Orchids](https://www.last.fm/music/Lilys/_/There+Is+No+Such+Thing+As+Black+Orchids)** - Lilys<br/>
-> ∙ **[Hymn (2020 Mix)](https://www.last.fm/music/Lilys/_/Hymn+(2020+Mix))** - Lilys<br/>
-> ∙ **[Coby (2020 Mix)](https://www.last.fm/music/Lilys/_/Coby+(2020+Mix))** - Lilys<br/>
-> ∙ **[G. Cobalt Franklin](https://www.last.fm/music/Lilys/_/G.+Cobalt+Franklin)** - Lilys<br/>
-> ∙ **[trainers](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/trainers)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
+> ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Rising+Tide)** - Sunny Day Real Estate<br/>
+> ∙ **[Tearing In My Heart](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Tearing+In+My+Heart)** - Sunny Day Real Estate<br/>
+> ∙ **[Days Were Golden](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Days+Were+Golden)** - Sunny Day Real Estate<br/>
+> ∙ **[The Shark's Own Private F**k](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Shark%27s+Own+Private+F**k)** - Sunny Day Real Estate<br/>
+> ∙ **[Guitar and Video Games](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Guitar+and+Video+Games)** - Sunny Day Real Estate<br/>
+> ∙ **[The Prophet](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Prophet)** - Sunny Day Real Estate<br/>
+> ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/_/How+It+Feels+to+Be+Something+On)** - Sunny Day Real Estate<br/>
+> ∙ **[100 Million](https://www.last.fm/music/Sunny+Day+Real+Estate/_/100+Million)** - Sunny Day Real Estate<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `33 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `28 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `18 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
-> `17 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `13 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `11 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `10 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
+> `13 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `11 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `10 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `9 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -72,12 +72,12 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `47 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `38 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `36 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `24 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `17 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `16 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `13 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `12 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `12 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `11 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 <!--END_LASTFM_ARTISTS-->
