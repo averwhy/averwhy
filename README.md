@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[I-80](https://www.last.fm/music/Euphoria+Again/_/I-80)** - Euphoria Again<br/>
-> ∙ **[Duk Koo Kim](https://www.last.fm/music/Sun+Kil+Moon/_/Duk+Koo+Kim)** - Sun Kil Moon<br/>
+> 🎶 **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
 > ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
 > ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
-> ∙ **[Vulnerable](https://www.last.fm/music/Bedroom+Eyes/_/Vulnerable)** - Bedroom Eyes<br/>
-> ∙ **[Cycle](https://www.last.fm/music/Animal+Ghosts/_/Cycle)** - Animal Ghosts<br/>
-> ∙ **[Lover, You Should've Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)** - Jeff Buckley<br/>
+> ∙ **[Afraid To Feel](https://www.last.fm/music/LF+System/_/Afraid+To+Feel)** - LF System<br/>
+> ∙ **[I Need You](https://www.last.fm/music/TWOFACED+&+Nikita+W/_/I+Need+You)** - TWOFACED & Nikita W<br/>
+> ∙ **[Himalaya](https://www.last.fm/music/camoufly/_/Himalaya)** - camoufly<br/>
+> ∙ **[Still Sleepless](https://www.last.fm/music/D.O.D+&+Carla+Monroe/_/Still+Sleepless)** - D.O.D & Carla Monroe<br/>
+> ∙ **[ROUND & ROUND](https://www.last.fm/music/Sam+Gellaitry/_/ROUND+&+ROUND)** - Sam Gellaitry<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `29 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `17 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
-> `14 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `8 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `8 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `7 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `7 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `33 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `22 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
+> `17 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `13 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `13 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `12 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `10 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
+> `9 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `34 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `26 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `21 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `38 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `37 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `28 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `17 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `16 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `11 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `7 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+> `13 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `13 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
