@@ -59,8 +59,8 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `28 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `22 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `14 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `13 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `9 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 > `8 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
@@ -72,8 +72,8 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `31 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `30 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `17 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `16 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `12 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
