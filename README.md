@@ -64,9 +64,9 @@
 > `6 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
 > `6 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `5 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `4 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 > `4 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 > `3 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `2 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -75,9 +75,9 @@
 > `23 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `16 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `8 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `6 ▶️` ∙ **[deadmau5](https://www.last.fm/music/deadmau5)**<br/>
 > `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `5 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `5 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `5 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `4 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `3 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
