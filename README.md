@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[2slimey Cypher Verse](https://www.last.fm/music/2slimey/_/2slimey+Cypher+Verse)** - 2slimey<br/>
-> ∙ **[Empire State Of Mind](https://www.last.fm/music/Ja%C3%BF-Z/_/Empire+State+Of+Mind)** - Jaÿ-Z<br/>
-> ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Rising+Tide)** - Sunny Day Real Estate<br/>
-> ∙ **[Tearing In My Heart](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Tearing+In+My+Heart)** - Sunny Day Real Estate<br/>
-> ∙ **[Days Were Golden](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Days+Were+Golden)** - Sunny Day Real Estate<br/>
-> ∙ **[The Shark's Own Private F**k](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Shark%27s+Own+Private+F**k)** - Sunny Day Real Estate<br/>
-> ∙ **[Guitar and Video Games](https://www.last.fm/music/Sunny+Day+Real+Estate/_/Guitar+and+Video+Games)** - Sunny Day Real Estate<br/>
-> ∙ **[The Prophet](https://www.last.fm/music/Sunny+Day+Real+Estate/_/The+Prophet)** - Sunny Day Real Estate<br/>
+> ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
+> ∙ **[RL STINE](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/RL+STINE)** - They Are Gutting a Body of Water<br/>
+> ∙ **[63 Skies](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/63+Skies)** - They Are Gutting a Body of Water<br/>
+> ∙ **[RL STINE](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/RL+STINE)** - They Are Gutting a Body of Water<br/>
+> ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
+> ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
+> ∙ **[12 Strings](https://www.last.fm/music/Knifeplay/_/12+Strings)** - Knifeplay<br/>
+> ∙ **[Echo, Bravo](https://www.last.fm/music/Duster/_/Echo,+Bravo)** - Duster<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `17 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `13 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
-> `6 ▶️` ∙ **[A Brief History of Amazing Letdowns](https://www.last.fm/music/Lilys/A+Brief+History+of+Amazing+Letdowns)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `4 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `2 ▶️` ∙ **[Koi No Yokan](https://www.last.fm/music/Deftones/Koi+No+Yokan)** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `2 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
-> `2 ▶️` ∙ **[Death Dreams - EP](https://www.last.fm/music/Heavytrip/Death+Dreams+-+EP)** - [Heavytrip](https://www.last.fm/music/Heavytrip)<br/>
+> `29 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `29 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `14 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `13 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
+> `10 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `10 ▶️` ∙ **[Exile On Main Street (2010 remaster)](https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+(2010+remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
+> `10 ▶️` ∙ **[Tattoo You (2021 Remaster)](https://www.last.fm/music/The+Rolling+Stones/Tattoo+You+(2021+Remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
+> `9 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `20 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `16 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `7 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `5 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `4 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `2 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `2 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
-> `2 ▶️` ∙ **[Heavytrip](https://www.last.fm/music/Heavytrip)**<br/>
+> `45 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
+> `43 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `29 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `24 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
+> `15 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `12 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `12 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `11 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 <!--END_LASTFM_ARTISTS-->
