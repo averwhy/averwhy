@@ -59,10 +59,10 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `26 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
-> `24 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `15 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `15 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `14 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `13 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
+> `13 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `10 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `10 ▶️` ∙ **[Exile On Main Street (2010 remaster)](https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+(2010+remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
 > `10 ▶️` ∙ **[Tattoo You (2021 Remaster)](https://www.last.fm/music/The+Rolling+Stones/Tattoo+You+(2021+Remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
@@ -72,9 +72,9 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `43 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `37 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `31 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `30 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `26 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `24 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 > `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `11 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
