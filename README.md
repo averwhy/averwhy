@@ -59,8 +59,8 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `27 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `26 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `23 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `14 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `13 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
 > `10 ▶️` ∙ **[Exile On Main Street (2010 remaster)](https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+(2010+remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
@@ -73,7 +73,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `42 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `39 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `35 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `29 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `24 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 > `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
