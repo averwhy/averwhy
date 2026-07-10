@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Pump It Up](https://www.last.fm/music/Endor/_/Pump+It+Up)** - Endor<br/>
 > ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
 > ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
 > ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
@@ -53,7 +54,6 @@
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
 > ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
 > ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[No One Stays At The Top Forever](https://www.last.fm/music/Title+Fight/_/No+One+Stays+At+The+Top+Forever)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -74,10 +74,10 @@
 
 > `30 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `26 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `26 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `25 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `20 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 > `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `11 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `10 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `9 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `9 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
