@@ -46,6 +46,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)** - Bakar<br/>
 > ∙ **[Self Aware](https://www.last.fm/music/Temper+City/_/Self+Aware)** - Temper City<br/>
 > ∙ **[Pump It Up](https://www.last.fm/music/Endor/_/Pump+It+Up)** - Endor<br/>
 > ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
@@ -53,7 +54,6 @@
 > ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
 > ∙ **[who sees you](https://www.last.fm/music/my+bloody+valentine/_/who+sees+you)** - my bloody valentine<br/>
 > ∙ **[Open the Floodgates](https://www.last.fm/music/The+Smile/_/Open+the+Floodgates)** - The Smile<br/>
-> ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
