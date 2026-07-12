@@ -63,17 +63,17 @@
 > `13 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `13 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `9 ▶️` ∙ **[Hotel California](https://www.last.fm/music/Eagles/Hotel+California)** - [Eagles](https://www.last.fm/music/Eagles)<br/>
-> `9 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
 > `9 ▶️` ∙ **[Find Yourself Along the Way](https://www.last.fm/music/The+Meeting+Places/Find+Yourself+Along+the+Way)** - [The Meeting Places](https://www.last.fm/music/The+Meeting+Places)<br/>
 > `9 ▶️` ∙ **[Tattoo You (2021 Remaster)](https://www.last.fm/music/The+Rolling+Stones/Tattoo+You+(2021+Remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
 > `8 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `8 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `28 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `26 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `25 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `20 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 > `18 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
