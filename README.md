@@ -64,9 +64,9 @@
 > `13 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 > `9 ▶️` ∙ **[Find Yourself Along the Way](https://www.last.fm/music/The+Meeting+Places/Find+Yourself+Along+the+Way)** - [The Meeting Places](https://www.last.fm/music/The+Meeting+Places)<br/>
 > `8 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `7 ▶️` ∙ **[Hotel California](https://www.last.fm/music/Eagles/Hotel+California)** - [Eagles](https://www.last.fm/music/Eagles)<br/>
-> `7 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `7 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `5 ▶️` ∙ **[Night Songs](https://www.last.fm/music/Joyer/Night+Songs)** - [Joyer](https://www.last.fm/music/Joyer)<br/>
+> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -74,10 +74,10 @@
 
 > `28 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `18 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `17 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `11 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
+> `10 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `9 ▶️` ∙ **[The Meeting Places](https://www.last.fm/music/The+Meeting+Places)**<br/>
-> `7 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `7 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `7 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 <!--END_LASTFM_ARTISTS-->
