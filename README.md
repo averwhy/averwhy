@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[My Old Ways](https://www.last.fm/music/Tame+Impala/_/My+Old+Ways)** - Tame Impala<br/>
-> ∙ **[Would That I](https://www.last.fm/music/Hozier/_/Would+That+I)** - Hozier<br/>
-> ∙ **[Hell N Back](https://www.last.fm/music/Bakar/_/Hell+N+Back)** - Bakar<br/>
-> ∙ **[Self Aware](https://www.last.fm/music/Temper+City/_/Self+Aware)** - Temper City<br/>
-> ∙ **[Pump It Up](https://www.last.fm/music/Endor/_/Pump+It+Up)** - Endor<br/>
-> ∙ **[Surge](https://www.last.fm/music/Should/_/Surge)** - Should<br/>
-> ∙ **[Stars](https://www.last.fm/music/Hum/_/Stars)** - Hum<br/>
-> ∙ **[Reckoner](https://www.last.fm/music/Radiohead/_/Reckoner)** - Radiohead<br/>
+> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
+> ∙ **[Receiving Line](https://www.last.fm/music/Title+Fight/_/Receiving+Line)** - Title Fight<br/>
+> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
+> ∙ **[Receiving Line](https://www.last.fm/music/Title+Fight/_/Receiving+Line)** - Title Fight<br/>
+> ∙ **[new you](https://www.last.fm/music/my+bloody+valentine/_/new+you)** - my bloody valentine<br/>
+> ∙ **[House of Cards](https://www.last.fm/music/Radiohead/_/House+of+Cards)** - Radiohead<br/>
+> ∙ **[new you](https://www.last.fm/music/my+bloody+valentine/_/new+you)** - my bloody valentine<br/>
+> ∙ **[i](https://www.last.fm/music/Warmachine/_/i)** - Warmachine<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `15 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
-> `13 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
-> `13 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `9 ▶️` ∙ **[Find Yourself Along the Way](https://www.last.fm/music/The+Meeting+Places/Find+Yourself+Along+the+Way)** - [The Meeting Places](https://www.last.fm/music/The+Meeting+Places)<br/>
-> `8 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `5 ▶️` ∙ **[Night Songs](https://www.last.fm/music/Joyer/Night+Songs)** - [Joyer](https://www.last.fm/music/Joyer)<br/>
-> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `18 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `18 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `17 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `17 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
+> `12 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `11 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `11 ▶️` ∙ **[Find Yourself Along the Way](https://www.last.fm/music/The+Meeting+Places/Find+Yourself+Along+the+Way)** - [The Meeting Places](https://www.last.fm/music/The+Meeting+Places)<br/>
+> `9 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `28 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `18 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `14 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `11 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
-> `10 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `9 ▶️` ∙ **[The Meeting Places](https://www.last.fm/music/The+Meeting+Places)**<br/>
-> `7 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `6 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
+> `35 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
+> `33 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `23 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `22 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `19 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
+> `16 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
+> `16 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `11 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 <!--END_LASTFM_ARTISTS-->
