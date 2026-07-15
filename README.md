@@ -74,7 +74,7 @@
 
 > `20 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `14 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `12 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `9 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `9 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `9 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
