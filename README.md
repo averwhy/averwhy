@@ -64,20 +64,20 @@
 > `17 ▶️` ∙ **[The Rising Tide](https://www.last.fm/music/Sunny+Day+Real+Estate/The+Rising+Tide)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `9 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
 > `9 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `9 ▶️` ∙ **[Exile On Main Street (2010 remaster)](https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+(2010+remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
 > `9 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `8 ▶️` ∙ **[The Mouse Rides On - EP](https://www.last.fm/music/Euphoria+Again/The+Mouse+Rides+On+-+EP)** - [Euphoria Again](https://www.last.fm/music/Euphoria+Again)<br/>
+> `7 ▶️` ∙ **[Diamond Eyes (Deluxe)](https://www.last.fm/music/Deftones/Diamond+Eyes+(Deluxe))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `35 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `23 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `21 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `19 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 > `17 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `14 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `13 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `13 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `9 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 <!--END_LASTFM_ARTISTS-->
