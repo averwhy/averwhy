@@ -46,38 +46,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[Receiving Line](https://www.last.fm/music/Title+Fight/_/Receiving+Line)** - Title Fight<br/>
-> ∙ **[See You Later](https://www.last.fm/music/Heatmiser/_/See+You+Later)** - Heatmiser<br/>
-> ∙ **[Receiving Line](https://www.last.fm/music/Title+Fight/_/Receiving+Line)** - Title Fight<br/>
-> ∙ **[new you](https://www.last.fm/music/my+bloody+valentine/_/new+you)** - my bloody valentine<br/>
+> ∙ **[Sextape](https://www.last.fm/music/Deftones/_/Sextape)** - Deftones<br/>
+> ∙ **[GMT (Greenwich Mean Time)](https://www.last.fm/music/Title+Fight/_/GMT+(Greenwich+Mean+Time))** - Title Fight<br/>
+> ∙ **[Sextape](https://www.last.fm/music/Deftones/_/Sextape)** - Deftones<br/>
 > ∙ **[House of Cards](https://www.last.fm/music/Radiohead/_/House+of+Cards)** - Radiohead<br/>
-> ∙ **[new you](https://www.last.fm/music/my+bloody+valentine/_/new+you)** - my bloody valentine<br/>
-> ∙ **[i](https://www.last.fm/music/Warmachine/_/i)** - Warmachine<br/>
+> ∙ **[I-80](https://www.last.fm/music/Euphoria+Again/_/I-80)** - Euphoria Again<br/>
+> ∙ **[House of Cards](https://www.last.fm/music/Radiohead/_/House+of+Cards)** - Radiohead<br/>
+> ∙ **[Tone Bender](https://www.last.fm/music/Lilys/_/Tone+Bender)** - Lilys<br/>
+> ∙ **[Memorial Field](https://www.last.fm/music/Title+Fight/_/Memorial+Field)** - Title Fight<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `17 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
-> `8 ▶️` ∙ **[The Mouse Rides On - EP](https://www.last.fm/music/Euphoria+Again/The+Mouse+Rides+On+-+EP)** - [Euphoria Again](https://www.last.fm/music/Euphoria+Again)<br/>
-> `7 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
-> `7 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
-> `7 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `6 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `6 ▶️` ∙ **[In the Presence of Nothing](https://www.last.fm/music/Lilys/In+the+Presence+of+Nothing)** - [Lilys](https://www.last.fm/music/Lilys)<br/>
-> `6 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `38 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `17 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
+> `15 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
+> `10 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `10 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `10 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `10 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `10 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `20 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `15 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `12 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `9 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
-> `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `8 ▶️` ∙ **[Euphoria Again](https://www.last.fm/music/Euphoria+Again)**<br/>
-> `8 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
-> `8 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
+> `42 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `33 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
+> `25 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `14 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `13 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
+> `13 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `11 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 <!--END_LASTFM_ARTISTS-->
