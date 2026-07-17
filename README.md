@@ -1,11 +1,13 @@
 <h1 align="center">hi, i'm avery</h1>
-<h3 align="center">I'm an aspiring software engineer from NH</h3>
+<h3 align="center">I'm a software engineer from NH</h3>
 
 [![Github profile views](https://komarev.com/ghpvc/?username=averwhy&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/averwhy)
 [![GitHub followers](https://img.shields.io/github/followers/averwhy?style=flat-square)](https://github.com/averwhy?tab=followers)
 [![GitHub User's stars](https://img.shields.io/github/stars/averwhy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=flat-square)](https://github.com/averwhy?tab=stars)
 
-- 🎓 studying Computer Science at Southern New Hampshire University *(on campus)*
+- 💼 Software Engineer I @ BAE Systems, Inc.
+
+- 🎓 studied Computer Science at Southern New Hampshire University *(on campus)*
 
 - 🔭 currently working on [Penpoint](https://github.com/averwhy/penpoint), [Courseflow](https://github.com/c-a-r-technologies/courseflow) and [Fluxus](https://github.com/averwhy/Fluxus)
 
