@@ -77,9 +77,9 @@
 > `42 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `33 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `25 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `14 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `13 ▶️` ∙ **[The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)**<br/>
 > `12 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `11 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
+> `10 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 <!--END_LASTFM_ARTISTS-->
