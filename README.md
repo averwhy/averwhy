@@ -48,6 +48,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Vulnerable](https://www.last.fm/music/Bedroom+Eyes/_/Vulnerable)** - Bedroom Eyes<br/>
 > ∙ **[Here](https://www.last.fm/music/Animal+Ghosts/_/Here)** - Animal Ghosts<br/>
 > ∙ **[trainers](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/trainers)** - They Are Gutting a Body of Water<br/>
 > ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
@@ -55,7 +56,6 @@
 > ∙ **[Elizabeth Colour Wheel](https://www.last.fm/music/Lilys/_/Elizabeth+Colour+Wheel)** - Lilys<br/>
 > ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
 > ∙ **[Periscope](https://www.last.fm/music/Lilys/_/Periscope)** - Lilys<br/>
-> ∙ **[Faded](https://www.last.fm/music/Should/_/Faded)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
