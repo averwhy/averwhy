@@ -48,14 +48,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[who sees you](https://www.last.fm/music/my+bloody+valentine/_/who+sees+you)** - my bloody valentine<br/>
-> ∙ **[fake twenty](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/fake+twenty)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
-> ∙ **[G. Cobalt Franklin](https://www.last.fm/music/Lilys/_/G.+Cobalt+Franklin)** - Lilys<br/>
-> ∙ **[Snowblinder](https://www.last.fm/music/Lilys/_/Snowblinder)** - Lilys<br/>
-> ∙ **[Wrong Tube](https://www.last.fm/music/Swirlies/_/Wrong+Tube)** - Swirlies<br/>
-> ∙ **[Collider](https://www.last.fm/music/Lilys/_/Collider)** - Lilys<br/>
-> ∙ **[SOUR DIESEL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/SOUR+DIESEL)** - They Are Gutting a Body of Water<br/>
+> ∙ **[One Last Breath](https://www.last.fm/music/Creed/_/One+Last+Breath)** - Creed<br/>
+> ∙ **[So Far So Fake](https://www.last.fm/music/Pierce+the+Veil/_/So+Far+So+Fake)** - Pierce the Veil<br/>
+> ∙ **[Broadview](https://www.last.fm/music/Slow+Pulp/_/Broadview)** - Slow Pulp<br/>
+> ∙ **[Pool House](https://www.last.fm/music/The+Backseat+Lovers/_/Pool+House)** - The Backseat Lovers<br/>
+> ∙ **[Mud](https://www.last.fm/music/Slow+Pulp/_/Mud)** - Slow Pulp<br/>
+> ∙ **[Willing and Able](https://www.last.fm/music/Noah+Kahan/_/Willing+and+Able)** - Noah Kahan<br/>
+> ∙ **[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))** - Gorillaz<br/>
+> ∙ **[Cold](https://www.last.fm/music/Chris+Stapleton/_/Cold)** - Chris Stapleton<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -76,10 +76,10 @@
 
 > `41 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `33 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `18 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `19 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `16 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `16 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `15 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `15 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `13 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 <!--END_LASTFM_ARTISTS-->
