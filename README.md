@@ -77,9 +77,9 @@
 > `22 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `20 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 > `20 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `18 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `18 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `17 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `16 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
 > `16 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `15 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
