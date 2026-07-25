@@ -67,8 +67,8 @@
 > `9 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `8 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
 > `8 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `7 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `7 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
+> `7 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
