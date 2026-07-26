@@ -76,8 +76,8 @@
 
 > `22 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `17 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `17 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `15 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `14 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `14 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `13 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `13 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
