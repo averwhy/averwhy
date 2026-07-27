@@ -63,23 +63,23 @@
 
 > `17 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `15 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
-> `10 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `9 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `6 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `5 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `8 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `5 ▶️` ∙ **[One of These Nights (Deluxe Edition)](https://www.last.fm/music/Eagles/One+of+These+Nights+(Deluxe+Edition))** - [Eagles](https://www.last.fm/music/Eagles)<br/>
-> `5 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `4 ▶️` ∙ **[Hotel California](https://www.last.fm/music/Eagles/Hotel+California)** - [Eagles](https://www.last.fm/music/Eagles)<br/>
+> `4 ▶️` ∙ **[Exile On Main Street (2010 remaster)](https://www.last.fm/music/The+Rolling+Stones/Exile+On+Main+Street+(2010+remaster))** - [The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)<br/>
+> `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `2 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `22 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `17 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `17 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 > `11 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `11 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `11 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `10 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `10 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `9 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `8 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
+> `6 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `6 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `2 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 <!--END_LASTFM_ARTISTS-->
