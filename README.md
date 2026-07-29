@@ -48,35 +48,35 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Four Hours](https://www.last.fm/music/Duster/_/Four+Hours)** - Duster<br/>
-> ∙ **[Want No Light to Shine](https://www.last.fm/music/Duster/_/Want+No+Light+to+Shine)** - Duster<br/>
-> ∙ **[That Is My Life, That Is Yours](https://www.last.fm/music/King+Krule/_/That+Is+My+Life,+That+Is+Yours)** - King Krule<br/>
-> ∙ **[That Is My Life, That Is Yours](https://www.last.fm/music/King+Krule/_/That+Is+My+Life,+That+Is+Yours)** - King Krule<br/>
-> ∙ **[That Is My Life, That Is Yours](https://www.last.fm/music/King+Krule/_/That+Is+My+Life,+That+Is+Yours)** - King Krule<br/>
-> ∙ **[That Is My Life, That Is Yours](https://www.last.fm/music/King+Krule/_/That+Is+My+Life,+That+Is+Yours)** - King Krule<br/>
-> ∙ **[i](https://www.last.fm/music/Warmachine/_/i)** - Warmachine<br/>
-> ∙ **[twice stabbed](https://www.last.fm/music/Warmachine/_/twice+stabbed)** - Warmachine<br/>
+> ∙ **[Vulnerable](https://www.last.fm/music/Bedroom+Eyes/_/Vulnerable)** - Bedroom Eyes<br/>
+> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
+> ∙ **[Hymn (2020 Mix)](https://www.last.fm/music/Lilys/_/Hymn+(2020+Mix))** - Lilys<br/>
+> ∙ **[sarah missing](https://www.last.fm/music/Should/_/sarah+missing)** - Should<br/>
+> ∙ **[Turned Over](https://www.last.fm/music/The+Meeting+Places/_/Turned+Over)** - The Meeting Places<br/>
+> ∙ **[To Here Knows When](https://www.last.fm/music/my+bloody+valentine/_/To+Here+Knows+When)** - my bloody valentine<br/>
+> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
+> ∙ **[sarah missing](https://www.last.fm/music/Should/_/sarah+missing)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `64 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `46 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `49 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `20 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `20 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `19 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `15 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `15 ▶️` ∙ **[Fusion in Rupture](https://www.last.fm/music/slow+quit/Fusion+in+Rupture)** - [slow quit](https://www.last.fm/music/slow+quit)<br/>
 > `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `11 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `12 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `83 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `57 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `35 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `85 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `61 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `36 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `28 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `19 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `17 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
