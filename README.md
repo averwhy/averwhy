@@ -63,12 +63,12 @@
 
 > `35 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `14 ▶️` ∙ **[Fusion in Rupture](https://www.last.fm/music/slow+quit/Fusion+in+Rupture)** - [slow quit](https://www.last.fm/music/slow+quit)<br/>
-> `12 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `11 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
 > `10 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
-> `10 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `10 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `9 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `9 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
+> `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `8 ▶️` ∙ **[Find Yourself Along the Way](https://www.last.fm/music/The+Meeting+Places/Find+Yourself+Along+the+Way)** - [The Meeting Places](https://www.last.fm/music/The+Meeting+Places)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -77,9 +77,9 @@
 > `36 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `28 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `21 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `19 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `15 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `14 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `16 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `14 ▶️` ∙ **[slow quit](https://www.last.fm/music/slow+quit)**<br/>
+> `13 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `10 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
