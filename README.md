@@ -68,7 +68,7 @@
 > `10 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `10 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `9 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `9 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `9 ▶️` ∙ **[Yard](https://www.last.fm/music/Slow+Pulp/Yard)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,8 +78,8 @@
 > `28 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `21 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `19 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `18 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `16 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `15 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `14 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `14 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `14 ▶️` ∙ **[slow quit](https://www.last.fm/music/slow+quit)**<br/>
 <!--END_LASTFM_ARTISTS-->
