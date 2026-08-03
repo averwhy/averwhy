@@ -75,11 +75,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `15 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `10 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `8 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `8 ▶️` ∙ **[slow quit](https://www.last.fm/music/slow+quit)**<br/>
 > `7 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
-> `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `6 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
 <!--END_LASTFM_ARTISTS-->
