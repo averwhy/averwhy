@@ -48,21 +48,21 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Margaritaville](https://www.last.fm/music/Jimmy+Buffett/_/Margaritaville)** - Jimmy Buffett<br/>
+> ∙ **[Rain](https://www.last.fm/music/Sleep+Token/_/Rain)** - Sleep Token<br/>
 > ∙ **[Vulnerable](https://www.last.fm/music/Bedroom+Eyes/_/Vulnerable)** - Bedroom Eyes<br/>
 > ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
 > ∙ **[Hymn (2020 Mix)](https://www.last.fm/music/Lilys/_/Hymn+(2020+Mix))** - Lilys<br/>
 > ∙ **[sarah missing](https://www.last.fm/music/Should/_/sarah+missing)** - Should<br/>
-> ∙ **[To Here Knows When](https://www.last.fm/music/my+bloody+valentine/_/To+Here+Knows+When)** - my bloody valentine<br/>
 > ∙ **[Turned Over](https://www.last.fm/music/The+Meeting+Places/_/Turned+Over)** - The Meeting Places<br/>
 > ∙ **[To Here Knows When](https://www.last.fm/music/my+bloody+valentine/_/To+Here+Knows+When)** - my bloody valentine<br/>
-> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `23 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `11 ▶️` ∙ **[Fusion in Rupture](https://www.last.fm/music/slow+quit/Fusion+in+Rupture)** - [slow quit](https://www.last.fm/music/slow+quit)<br/>
+> `8 ▶️` ∙ **[Fusion in Rupture](https://www.last.fm/music/slow+quit/Fusion+in+Rupture)** - [slow quit](https://www.last.fm/music/slow+quit)<br/>
 > `7 ▶️` ∙ **[Either/Or](https://www.last.fm/music/Elliott+Smith/Either%2FOr)** - [Elliott Smith](https://www.last.fm/music/Elliott+Smith)<br/>
 > `6 ▶️` ∙ **[How It Feels to Be Something On](https://www.last.fm/music/Sunny+Day+Real+Estate/How+It+Feels+to+Be+Something+On)** - [Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)<br/>
 > `6 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
@@ -76,10 +76,10 @@
 
 > `24 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `15 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `12 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `11 ▶️` ∙ **[slow quit](https://www.last.fm/music/slow+quit)**<br/>
+> `10 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
 > `10 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `8 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `8 ▶️` ∙ **[slow quit](https://www.last.fm/music/slow+quit)**<br/>
 > `7 ▶️` ∙ **[Elliott Smith](https://www.last.fm/music/Elliott+Smith)**<br/>
 > `6 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
 <!--END_LASTFM_ARTISTS-->
