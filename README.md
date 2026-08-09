@@ -48,38 +48,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> 🎶 **[I Don't Love](https://www.last.fm/music/Have+a+Nice+Life/_/I+Don%27t+Love)** - Have a Nice Life<br/>
-> ∙ **[keeping up](https://www.last.fm/music/Microwave/_/keeping+up)** - Microwave<br/>
-> ∙ **[Soon](https://www.last.fm/music/my+bloody+valentine/_/Soon)** - my bloody valentine<br/>
-> ∙ **[doll](https://www.last.fm/music/Shrimp/_/doll)** - Shrimp<br/>
-> ∙ **[SOUR DIESEL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/SOUR+DIESEL)** - They Are Gutting a Body of Water<br/>
-> ∙ **[London](https://www.last.fm/music/Badflower/_/London)** - Badflower<br/>
-> ∙ **[Earthmover](https://www.last.fm/music/Have+a+Nice+Life/_/Earthmover)** - Have a Nice Life<br/>
-> ∙ **[Cherry Thrill](https://www.last.fm/music/Movements/_/Cherry+Thrill)** - Movements<br/>
+> ∙ **[Portraits](https://www.last.fm/music/Bedroom+Eyes/_/Portraits)** - Bedroom Eyes<br/>
+> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
+> ∙ **[Staircase](https://www.last.fm/music/Radiohead/_/Staircase)** - Radiohead<br/>
+> ∙ **[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)** - Elliott Smith<br/>
+> ∙ **[Chlorine](https://www.last.fm/music/Title+Fight/_/Chlorine)** - Title Fight<br/>
+> ∙ **[Miss You - Remastered](https://www.last.fm/music/The+Rolling+Stones/_/Miss+You+-+Remastered)** - The Rolling Stones<br/>
+> ∙ **[Seagirl](https://www.last.fm/music/King+Krule/_/Seagirl)** - King Krule<br/>
+> ∙ **[Let It Melt](https://www.last.fm/music/Danxia/_/Let+It+Melt)** - Danxia<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `6 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `6 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `4 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `4 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `4 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `4 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
-> `3 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
+> `11 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `10 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
-> `8 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `7 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `7 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `6 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `5 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `4 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `4 ▶️` ∙ **[EKKSTACY](https://www.last.fm/music/EKKSTACY)**<br/>
 <!--END_LASTFM_ARTISTS-->
