@@ -48,14 +48,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pop Apology](https://www.last.fm/music/Should/_/Pop+Apology)** - Should<br/>
-> ∙ **[Jiffy Squid](https://www.last.fm/music/Difference+Engine/_/Jiffy+Squid)** - Difference Engine<br/>
-> ∙ **[Broadview](https://www.last.fm/music/Slow+Pulp/_/Broadview)** - Slow Pulp<br/>
-> ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[More and More and More (Instrumental)](https://www.last.fm/music/Sanullim/_/More+and+More+and+More+(Instrumental))** - Sanullim<br/>
+> 🎶 **[I Don't Love](https://www.last.fm/music/Have+a+Nice+Life/_/I+Don%27t+Love)** - Have a Nice Life<br/>
+> ∙ **[keeping up](https://www.last.fm/music/Microwave/_/keeping+up)** - Microwave<br/>
+> ∙ **[Soon](https://www.last.fm/music/my+bloody+valentine/_/Soon)** - my bloody valentine<br/>
+> ∙ **[doll](https://www.last.fm/music/Shrimp/_/doll)** - Shrimp<br/>
 > ∙ **[SOUR DIESEL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/SOUR+DIESEL)** - They Are Gutting a Body of Water<br/>
-> ∙ **[We Don't Know What Tomorrow Brings](https://www.last.fm/music/The+Smile/_/We+Don%27t+Know+What+Tomorrow+Brings)** - The Smile<br/>
-> ∙ **[Iris](https://www.last.fm/music/Bedroom+Eyes/_/Iris)** - Bedroom Eyes<br/>
+> ∙ **[London](https://www.last.fm/music/Badflower/_/London)** - Badflower<br/>
+> ∙ **[Earthmover](https://www.last.fm/music/Have+a+Nice+Life/_/Earthmover)** - Have a Nice Life<br/>
+> ∙ **[Cherry Thrill](https://www.last.fm/music/Movements/_/Cherry+Thrill)** - Movements<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -63,23 +63,23 @@
 
 > `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `6 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `4 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `4 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `3 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `3 ▶️` ∙ **[Infinity](https://www.last.fm/music/Journey/Infinity)** - [Journey](https://www.last.fm/music/Journey)<br/>
-> `3 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `3 ▶️` ∙ **[Siamese Dream](https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream)** - [The Smashing Pumpkins](https://www.last.fm/music/The+Smashing+Pumpkins)<br/>
+> `4 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `3 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `9 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
-> `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `6 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `8 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `7 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
 > `6 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `4 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `3 ▶️` ∙ **[Journey](https://www.last.fm/music/Journey)**<br/>
-> `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `5 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `4 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `4 ▶️` ∙ **[EKKSTACY](https://www.last.fm/music/EKKSTACY)**<br/>
 <!--END_LASTFM_ARTISTS-->
