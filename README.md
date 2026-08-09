@@ -48,14 +48,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Portraits](https://www.last.fm/music/Bedroom+Eyes/_/Portraits)** - Bedroom Eyes<br/>
-> ∙ **[Tears](https://www.last.fm/music/Knifeplay/_/Tears)** - Knifeplay<br/>
-> ∙ **[Staircase](https://www.last.fm/music/Radiohead/_/Staircase)** - Radiohead<br/>
-> ∙ **[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)** - Elliott Smith<br/>
-> ∙ **[Chlorine](https://www.last.fm/music/Title+Fight/_/Chlorine)** - Title Fight<br/>
-> ∙ **[Miss You - Remastered](https://www.last.fm/music/The+Rolling+Stones/_/Miss+You+-+Remastered)** - The Rolling Stones<br/>
-> ∙ **[Seagirl](https://www.last.fm/music/King+Krule/_/Seagirl)** - King Krule<br/>
-> ∙ **[Let It Melt](https://www.last.fm/music/Danxia/_/Let+It+Melt)** - Danxia<br/>
+> ∙ **[Imma Be](https://www.last.fm/music/Black+Eyed+Peas/_/Imma+Be)** - Black Eyed Peas<br/>
+> ∙ **[Wind It Up](https://www.last.fm/music/Gwen+Stefani/_/Wind+It+Up)** - Gwen Stefani<br/>
+> ∙ **[Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)** - Kanye West<br/>
+> ∙ **[The Way I Are](https://www.last.fm/music/Timbaland/_/The+Way+I+Are)** - Timbaland<br/>
+> ∙ **[SOS](https://www.last.fm/music/Rihanna/_/SOS)** - Rihanna<br/>
+> ∙ **[Who's That Chick? (feat. Rihanna)](https://www.last.fm/music/David+Guetta/_/Who%27s+That+Chick%3F+(feat.+Rihanna))** - David Guetta<br/>
+> ∙ **[Good Girls Go Bad (feat. Leighton Meester)](https://www.last.fm/music/Cobra+Starship/_/Good+Girls+Go+Bad+(feat.+Leighton+Meester))** - Cobra Starship<br/>
+> ∙ **[You Make Me Feel... (feat. Sabi)](https://www.last.fm/music/Cobra+Starship/_/You+Make+Me+Feel...+(feat.+Sabi))** - Cobra Starship<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -67,8 +67,8 @@
 > `4 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `4 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `4 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
-> `4 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -79,7 +79,7 @@
 > `9 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `7 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `7 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `6 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `7 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
 > `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `5 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `5 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
