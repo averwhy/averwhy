@@ -48,14 +48,14 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Imma Be](https://www.last.fm/music/Black+Eyed+Peas/_/Imma+Be)** - Black Eyed Peas<br/>
-> ∙ **[Wind It Up](https://www.last.fm/music/Gwen+Stefani/_/Wind+It+Up)** - Gwen Stefani<br/>
-> ∙ **[Gold Digger](https://www.last.fm/music/Kanye+West/_/Gold+Digger)** - Kanye West<br/>
-> ∙ **[The Way I Are](https://www.last.fm/music/Timbaland/_/The+Way+I+Are)** - Timbaland<br/>
-> ∙ **[SOS](https://www.last.fm/music/Rihanna/_/SOS)** - Rihanna<br/>
-> ∙ **[Who's That Chick? (feat. Rihanna)](https://www.last.fm/music/David+Guetta/_/Who%27s+That+Chick%3F+(feat.+Rihanna))** - David Guetta<br/>
-> ∙ **[Good Girls Go Bad (feat. Leighton Meester)](https://www.last.fm/music/Cobra+Starship/_/Good+Girls+Go+Bad+(feat.+Leighton+Meester))** - Cobra Starship<br/>
-> ∙ **[You Make Me Feel... (feat. Sabi)](https://www.last.fm/music/Cobra+Starship/_/You+Make+Me+Feel...+(feat.+Sabi))** - Cobra Starship<br/>
+> ∙ **[Your Love Is My Drug](https://www.last.fm/music/Ke$ha/_/Your+Love+Is+My+Drug)** - Ke$ha<br/>
+> ∙ **[S&M](https://www.last.fm/music/Rihanna/_/S&M)** - Rihanna<br/>
+> ∙ **[Hot Wings (I Wanna Party)](https://www.last.fm/music/will.i.am/_/Hot+Wings+(I+Wanna+Party))** - will.i.am<br/>
+> ∙ **[Superstar](https://www.last.fm/music/Jamelia/_/Superstar)** - Jamelia<br/>
+> ∙ **[Dangerous](https://www.last.fm/music/Kardinal+Offishall/_/Dangerous)** - Kardinal Offishall<br/>
+> ∙ **[4 Minutes](https://www.last.fm/music/Madonna/_/4+Minutes)** - Madonna<br/>
+> ∙ **[Me Against the Music (feat. Madonna) - LP Version / Video Mix](https://www.last.fm/music/Britney+Spears/_/Me+Against+the+Music+(feat.+Madonna)+-+LP+Version+%2F+Video+Mix)** - Britney Spears<br/>
+> ∙ **[I'm a Slave 4 U](https://www.last.fm/music/Britney+Spears/_/I%27m+a+Slave+4+U)** - Britney Spears<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
@@ -80,6 +80,6 @@
 > `7 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `7 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `7 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `6 ▶️` ∙ **[Britney Spears](https://www.last.fm/music/Britney+Spears)**<br/>
 > `6 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `5 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
 <!--END_LASTFM_ARTISTS-->
