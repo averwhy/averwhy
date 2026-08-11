@@ -48,38 +48,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Your Love Is My Drug](https://www.last.fm/music/Ke$ha/_/Your+Love+Is+My+Drug)** - Ke$ha<br/>
-> ∙ **[S&M](https://www.last.fm/music/Rihanna/_/S&M)** - Rihanna<br/>
-> ∙ **[Hot Wings (I Wanna Party)](https://www.last.fm/music/will.i.am/_/Hot+Wings+(I+Wanna+Party))** - will.i.am<br/>
-> ∙ **[Superstar](https://www.last.fm/music/Jamelia/_/Superstar)** - Jamelia<br/>
-> ∙ **[Dangerous](https://www.last.fm/music/Kardinal+Offishall/_/Dangerous)** - Kardinal Offishall<br/>
-> ∙ **[4 Minutes](https://www.last.fm/music/Madonna/_/4+Minutes)** - Madonna<br/>
-> ∙ **[Me Against the Music (feat. Madonna) - LP Version / Video Mix](https://www.last.fm/music/Britney+Spears/_/Me+Against+the+Music+(feat.+Madonna)+-+LP+Version+%2F+Video+Mix)** - Britney Spears<br/>
-> ∙ **[I'm a Slave 4 U](https://www.last.fm/music/Britney+Spears/_/I%27m+a+Slave+4+U)** - Britney Spears<br/>
+> ∙ **[Pennybox](https://www.last.fm/music/racecourse/_/Pennybox)** - racecourse<br/>
+> ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
+> ∙ **[Gone On](https://www.last.fm/music/First+Day+Back/_/Gone+On)** - First Day Back<br/>
+> ∙ **[lullen](https://www.last.fm/music/Should/_/lullen)** - Should<br/>
+> ∙ **[Hearts](https://www.last.fm/music/Knifeplay/_/Hearts)** - Knifeplay<br/>
+> ∙ **[Short Morgan](https://www.last.fm/music/Ovlov/_/Short+Morgan)** - Ovlov<br/>
+> ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
+> ∙ **[Around](https://www.last.fm/music/Bedroom+Eyes/_/Around)** - Bedroom Eyes<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `5 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `4 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `3 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `3 ▶️` ∙ **[Blackout](https://www.last.fm/music/Britney+Spears/Blackout)** - [Britney Spears](https://www.last.fm/music/Britney+Spears)<br/>
-> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `3 ▶️` ∙ **[SOS Deluxe: LANA](https://www.last.fm/music/SZA/SOS+Deluxe:+LANA)** - [SZA](https://www.last.fm/music/SZA)<br/>
-> `3 ▶️` ∙ **[Hyperview](https://www.last.fm/music/Title+Fight/Hyperview)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
-> `3 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `13 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `11 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `11 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `6 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `6 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
+> `6 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `6 ▶️` ∙ **[Shed](https://www.last.fm/music/Title+Fight/Shed)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `7 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `6 ▶️` ∙ **[Britney Spears](https://www.last.fm/music/Britney+Spears)**<br/>
-> `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `5 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
-> `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[EKKSTACY](https://www.last.fm/music/EKKSTACY)**<br/>
-> `4 ▶️` ∙ **[Ke$ha](https://www.last.fm/music/Ke$ha)**<br/>
+> `18 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `17 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
+> `17 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `11 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `11 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `10 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `8 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 <!--END_LASTFM_ARTISTS-->
