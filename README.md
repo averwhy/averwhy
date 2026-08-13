@@ -68,7 +68,7 @@
 > `5 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `5 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `5 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `4 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `4 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,8 +78,8 @@
 > `14 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `13 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `10 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `9 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `9 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `8 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `8 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `6 ▶️` ∙ **[Britney Spears](https://www.last.fm/music/Britney+Spears)**<br/>
 <!--END_LASTFM_ARTISTS-->
