@@ -64,22 +64,22 @@
 > `6 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `6 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 > `4 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `4 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
-> `3 ▶️` ∙ **[Blackout](https://www.last.fm/music/Britney+Spears/Blackout)** - [Britney Spears](https://www.last.fm/music/Britney+Spears)<br/>
 > `3 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `3 ▶️` ∙ **[In Rainbows](https://www.last.fm/music/Radiohead/In+Rainbows)** - [Radiohead](https://www.last.fm/music/Radiohead)<br/>
 > `3 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `3 ▶️` ∙ **[SOS Deluxe: LANA](https://www.last.fm/music/SZA/SOS+Deluxe:+LANA)** - [SZA](https://www.last.fm/music/SZA)<br/>
+> `2 ▶️` ∙ **[Alexis Jordan](https://www.last.fm/music/Alexis+Jordan/Alexis+Jordan)** - [Alexis Jordan](https://www.last.fm/music/Alexis+Jordan)<br/>
+> `2 ▶️` ∙ **[Blackout](https://www.last.fm/music/Britney+Spears/Blackout)** - [Britney Spears](https://www.last.fm/music/Britney+Spears)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `6 ▶️` ∙ **[Britney Spears](https://www.last.fm/music/Britney+Spears)**<br/>
 > `6 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `6 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `5 ▶️` ∙ **[Black Eyed Peas](https://www.last.fm/music/Black+Eyed+Peas)**<br/>
-> `5 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
-> `4 ▶️` ∙ **[Ke$ha](https://www.last.fm/music/Ke$ha)**<br/>
+> `5 ▶️` ∙ **[Britney Spears](https://www.last.fm/music/Britney+Spears)**<br/>
 > `4 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `4 ▶️` ∙ **[Radiohead](https://www.last.fm/music/Radiohead)**<br/>
+> `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `3 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 <!--END_LASTFM_ARTISTS-->
