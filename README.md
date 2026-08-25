@@ -48,24 +48,26 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/_/Choosin%27+Texas)** - Ella Langley<br/>
+> ∙ **[BAESIDE K](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/BAESIDE+K)** - They Are Gutting a Body of Water<br/>
 > ∙ **[Twelve Mile Train Tracks](https://www.last.fm/music/First+Day+Back/_/Twelve+Mile+Train+Tracks)** - First Day Back<br/>
 > ∙ **[Pennybox](https://www.last.fm/music/racecourse/_/Pennybox)** - racecourse<br/>
 > ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
 > ∙ **[Gone On](https://www.last.fm/music/First+Day+Back/_/Gone+On)** - First Day Back<br/>
 > ∙ **[lullen](https://www.last.fm/music/Should/_/lullen)** - Should<br/>
 > ∙ **[Hearts](https://www.last.fm/music/Knifeplay/_/Hearts)** - Knifeplay<br/>
-> ∙ **[Short Morgan](https://www.last.fm/music/Ovlov/_/Short+Morgan)** - Ovlov<br/>
-> ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-No listening data found for the selected time period.
+> `1 ▶️` ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/Choosin%27+Texas)** - [Ella Langley](https://www.last.fm/music/Ella+Langley)<br/>
+> `1 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-No listening data found for the selected time period.
+> `1 ▶️` ∙ **[Ella Langley](https://www.last.fm/music/Ella+Langley)**<br/>
+> `1 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
