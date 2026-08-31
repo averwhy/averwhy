@@ -62,7 +62,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `10 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
-> `9 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
+> `8 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 > `7 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `5 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
@@ -74,7 +74,7 @@
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `16 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
+> `14 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
 > `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `10 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `10 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
