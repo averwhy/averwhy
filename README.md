@@ -48,28 +48,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/_/Sweet+Boy)** - Malcolm Todd<br/>
-> ∙ **[One of Them Girls](https://www.last.fm/music/Lee+Brice/_/One+of+Them+Girls)** - Lee Brice<br/>
-> ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/_/Choosin%27+Texas)** - Ella Langley<br/>
-> ∙ **[BAESIDE K](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/BAESIDE+K)** - They Are Gutting a Body of Water<br/>
-> ∙ **[Twelve Mile Train Tracks](https://www.last.fm/music/First+Day+Back/_/Twelve+Mile+Train+Tracks)** - First Day Back<br/>
-> ∙ **[Pennybox](https://www.last.fm/music/racecourse/_/Pennybox)** - racecourse<br/>
-> ∙ **[Where Am I?](https://www.last.fm/music/Title+Fight/_/Where+Am+I%3F)** - Title Fight<br/>
-> ∙ **[Gone On](https://www.last.fm/music/First+Day+Back/_/Gone+On)** - First Day Back<br/>
+> ∙ **[Cramps](https://www.last.fm/music/Slow+Pulp/_/Cramps)** - Slow Pulp<br/>
+> ∙ **[SOUR DIESEL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/SOUR+DIESEL)** - They Are Gutting a Body of Water<br/>
+> ∙ **[Swallowtail (Live)](https://www.last.fm/music/The+Brian+Jonestown+Massacre/_/Swallowtail+(Live))** - The Brian Jonestown Massacre<br/>
+> ∙ **[Frown](https://www.last.fm/music/Title+Fight/_/Frown)** - Title Fight<br/>
+> ∙ **[27](https://www.last.fm/music/Title+Fight/_/27)** - Title Fight<br/>
+> ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
+> ∙ **[Moving Out](https://www.last.fm/music/First+Day+Back/_/Moving+Out)** - First Day Back<br/>
+> ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/_/Flex+Lavender)** - Difference Engine<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `1 ▶️` ∙ **[Choosin' Texas](https://www.last.fm/music/Ella+Langley/Choosin%27+Texas)** - [Ella Langley](https://www.last.fm/music/Ella+Langley)<br/>
-> `1 ▶️` ∙ **[Hey World](https://www.last.fm/music/Lee+Brice/Hey+World)** - [Lee Brice](https://www.last.fm/music/Lee+Brice)<br/>
-> `1 ▶️` ∙ **[Sweet Boy](https://www.last.fm/music/Malcolm+Todd/Sweet+Boy)** - [Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)<br/>
+> `10 ▶️` ∙ **[One Wayne G](https://www.last.fm/music/Mac+DeMarco/One+Wayne+G)** - [Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)<br/>
+> `9 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
+> `7 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `5 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
+> `5 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `4 ▶️` ∙ **[8 Candy EP](https://www.last.fm/music/Astrobrite/8+Candy+EP)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
+> `4 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `1 ▶️` ∙ **[Ella Langley](https://www.last.fm/music/Ella+Langley)**<br/>
-> `1 ▶️` ∙ **[Lee Brice](https://www.last.fm/music/Lee+Brice)**<br/>
-> `1 ▶️` ∙ **[Malcolm Todd](https://www.last.fm/music/Malcolm+Todd)**<br/>
+> `16 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
+> `12 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `10 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
+> `10 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
+> `9 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `8 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `7 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `7 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 <!--END_LASTFM_ARTISTS-->
