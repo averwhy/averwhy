@@ -66,9 +66,9 @@
 > `6 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `5 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `5 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `5 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `4 ▶️` ∙ **[8 Candy EP](https://www.last.fm/music/Astrobrite/8+Candy+EP)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 > `4 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `4 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
