@@ -68,7 +68,7 @@
 > `3 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
 > `3 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `2 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `2 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `2 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,10 +76,10 @@
 
 > `10 ▶️` ∙ **[Mac DeMarco](https://www.last.fm/music/Mac+DeMarco)**<br/>
 > `8 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
-> `7 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `6 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `5 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `4 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `4 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `4 ▶️` ∙ **[The Rolling Stones](https://www.last.fm/music/The+Rolling+Stones)**<br/>
 <!--END_LASTFM_ARTISTS-->
