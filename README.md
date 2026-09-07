@@ -61,25 +61,11 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `1 ▶️` ∙ **[Diamond Eyes (Deluxe)](https://www.last.fm/music/Deftones/Diamond+Eyes+(Deluxe))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `1 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `1 ▶️` ∙ **[Cramps - Single](https://www.last.fm/music/Slow+Pulp/Cramps+-+Single)** - [Slow Pulp](https://www.last.fm/music/Slow+Pulp)<br/>
-> `1 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `1 ▶️` ∙ **[Tepid Peppermint Wonderland - A Retrospective](https://www.last.fm/music/The+Brian+Jonestown+Massacre/Tepid+Peppermint+Wonderland+-+A+Retrospective)** - [The Brian Jonestown Massacre](https://www.last.fm/music/The+Brian+Jonestown+Massacre)<br/>
-> `1 ▶️` ∙ **[A Light for Attracting Attention](https://www.last.fm/music/The+Smile/A+Light+for+Attracting+Attention)** - [The Smile](https://www.last.fm/music/The+Smile)<br/>
-> `1 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `2 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
-> `1 ▶️` ∙ **[Slow Pulp](https://www.last.fm/music/Slow+Pulp)**<br/>
-> `1 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
-> `1 ▶️` ∙ **[The Brian Jonestown Massacre](https://www.last.fm/music/The+Brian+Jonestown+Massacre)**<br/>
-> `1 ▶️` ∙ **[The Smile](https://www.last.fm/music/The+Smile)**<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ARTISTS-->
