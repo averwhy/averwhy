@@ -62,24 +62,24 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `2 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 > `2 ▶️` ∙ **[LOTTO](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/LOTTO)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 > `1 ▶️` ∙ **[Will](https://www.last.fm/music/Animal+Ghosts/Will)** - [Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)<br/>
-> `1 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `1 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 > `1 ▶️` ∙ **[Diamond Eyes (Deluxe)](https://www.last.fm/music/Deftones/Diamond+Eyes+(Deluxe))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
 > `1 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `1 ▶️` ∙ **[Capsule Losing Contact](https://www.last.fm/music/Duster/Capsule+Losing+Contact)** - [Duster](https://www.last.fm/music/Duster)<br/>
+> `1 ▶️` ∙ **[You'd Prefer an Astronaut](https://www.last.fm/music/Hum/You%27d+Prefer+an+Astronaut)** - [Hum](https://www.last.fm/music/Hum)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `3 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `2 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
 > `2 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `2 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 > `1 ▶️` ∙ **[Animal Ghosts](https://www.last.fm/music/Animal+Ghosts)**<br/>
-> `1 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `1 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
 > `1 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
 > `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
+> `1 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 <!--END_LASTFM_ARTISTS-->
