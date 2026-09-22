@@ -79,7 +79,7 @@
 > `7 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `7 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `5 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
-> `4 ▶️` ∙ **[Astrobrite](https://www.last.fm/music/Astrobrite)**<br/>
 > `4 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `4 ▶️` ∙ **[Pia Fraus](https://www.last.fm/music/Pia+Fraus)**<br/>
+> `4 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
