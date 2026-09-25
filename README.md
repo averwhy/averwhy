@@ -65,10 +65,10 @@
 > `20 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `4 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
 > `2 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
-> `2 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `2 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `1 ▶️` ∙ **[Shuniji - Single](https://www.last.fm/music/C418/Shuniji+-+Single)** - [C418](https://www.last.fm/music/C418)<br/>
-> `1 ▶️` ∙ **[Ameonna - Single](https://www.last.fm/music/deadmau5/Ameonna+-+Single)** - [deadmau5](https://www.last.fm/music/deadmau5)<br/>
+> `1 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `1 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -78,8 +78,8 @@
 > `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `3 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
 > `2 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `2 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
-> `2 ▶️` ∙ **[Hum](https://www.last.fm/music/Hum)**<br/>
 > `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `2 ▶️` ∙ **[Pia Fraus](https://www.last.fm/music/Pia+Fraus)**<br/>
+> `2 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 <!--END_LASTFM_ARTISTS-->
