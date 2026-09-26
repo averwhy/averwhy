@@ -65,10 +65,10 @@
 > `20 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
 > `4 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
 > `1 ▶️` ∙ **[Shuniji - Single](https://www.last.fm/music/C418/Shuniji+-+Single)** - [C418](https://www.last.fm/music/C418)<br/>
-> `1 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
 > `1 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `1 ▶️` ∙ **[Over Mode - Single](https://www.last.fm/music/Industrialyzer/Over+Mode+-+Single)** - [Industrialyzer](https://www.last.fm/music/Industrialyzer)<br/>
-> `1 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `1 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
+> `1 ▶️` ∙ **[destiny XL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/destiny+XL)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
+> `1 ▶️` ∙ **[Split X3 - EP](https://www.last.fm/music/trust+blinks.,+Hiding+Places+&+Tombstone+Poetry/Split+X3+-+EP)** - [trust blinks., Hiding Places & Tombstone Poetry](https://www.last.fm/music/trust+blinks.,+Hiding+Places+&+Tombstone+Poetry)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,10 +76,9 @@
 
 > `42 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
 > `3 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
-> `2 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `2 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
-> `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `1 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
 > `1 ▶️` ∙ **[Hiding Places](https://www.last.fm/music/Hiding+Places)**<br/>
-> `1 ▶️` ∙ **[Industrialyzer](https://www.last.fm/music/Industrialyzer)**<br/>
+> `1 ▶️` ∙ **[Kumi Tanioka & Minecraft](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft)**<br/>
+> `1 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `1 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 <!--END_LASTFM_ARTISTS-->
