@@ -61,16 +61,11 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `21 ▶️` ∙ **[Minecraft - Volume Alpha](https://www.last.fm/music/C418/Minecraft+-+Volume+Alpha)** - [C418](https://www.last.fm/music/C418)<br/>
-> `20 ▶️` ∙ **[Minecraft - Volume Beta](https://www.last.fm/music/C418/Minecraft+-+Volume+Beta)** - [C418](https://www.last.fm/music/C418)<br/>
-> `4 ▶️` ∙ **[Minecraft: Caves & Cliffs (Original Game Soundtrack)](https://www.last.fm/music/Lena+Raine+&+Minecraft/Minecraft:+Caves+&+Cliffs+(Original+Game+Soundtrack))** - [Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)<br/>
-> `1 ▶️` ∙ **[Shuniji - Single](https://www.last.fm/music/C418/Shuniji+-+Single)** - [C418](https://www.last.fm/music/C418)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `42 ▶️` ∙ **[C418](https://www.last.fm/music/C418)**<br/>
-> `3 ▶️` ∙ **[Lena Raine & Minecraft](https://www.last.fm/music/Lena+Raine+&+Minecraft)**<br/>
-> `1 ▶️` ∙ **[Kumi Tanioka & Minecraft](https://www.last.fm/music/Kumi+Tanioka+&+Minecraft)**<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ARTISTS-->
