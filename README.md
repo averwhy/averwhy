@@ -67,19 +67,19 @@
 > `3 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[m b v](https://www.last.fm/music/my+bloody+valentine/m+b+v)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
-> `3 ▶️` ∙ **[Folding Sieve](https://www.last.fm/music/Should/Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
 > `3 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `3 ▶️` ∙ **[destiny XL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/destiny+XL)** - [They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `6 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
+> `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `6 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `5 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `5 ▶️` ∙ **[Sunny Day Real Estate](https://www.last.fm/music/Sunny+Day+Real+Estate)**<br/>
-> `4 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `4 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `4 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `3 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 <!--END_LASTFM_ARTISTS-->
