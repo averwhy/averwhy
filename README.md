@@ -61,25 +61,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `8 ▶️` ∙ **[sea soft](https://www.last.fm/music/Colin+McSherry/sea+soft)** - [Colin McSherry](https://www.last.fm/music/Colin+McSherry)<br/>
 > `7 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `5 ▶️` ∙ **[Deadbeat](https://www.last.fm/music/Tame+Impala/Deadbeat)** - [Tame Impala](https://www.last.fm/music/Tame+Impala)<br/>
-> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `3 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `3 ▶️` ∙ **[Birds Without Feathers - EP](https://www.last.fm/music/Birds+Without+Feathers/Birds+Without+Feathers+-+EP)** - [Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)<br/>
-> `3 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
-> `3 ▶️` ∙ **[The Last Thing You Forget](https://www.last.fm/music/Title+Fight/The+Last+Thing+You+Forget)** - [Title Fight](https://www.last.fm/music/Title+Fight)<br/>
+> `3 ▶️` ∙ **[Deadbeat](https://www.last.fm/music/Tame+Impala/Deadbeat)** - [Tame Impala](https://www.last.fm/music/Tame+Impala)<br/>
+> `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `2 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `1 ▶️` ∙ **[a fanatic socialist looked up at the stars... - EP](https://www.last.fm/music/a+picture+of+her/a+fanatic+socialist+looked+up+at+the+stars...+-+EP)** - [a picture of her](https://www.last.fm/music/a+picture+of+her)<br/>
+> `1 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `1 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `8 ▶️` ∙ **[Colin McSherry](https://www.last.fm/music/Colin+McSherry)**<br/>
 > `7 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
-> `6 ▶️` ∙ **[Tame Impala](https://www.last.fm/music/Tame+Impala)**<br/>
-> `4 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
-> `4 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `4 ▶️` ∙ **[Tame Impala](https://www.last.fm/music/Tame+Impala)**<br/>
 > `3 ▶️` ∙ **[Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)**<br/>
-> `3 ▶️` ∙ **[Deftones](https://www.last.fm/music/Deftones)**<br/>
-> `3 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `2 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `2 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `2 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `1 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `1 ▶️` ∙ **[Colin McSherry](https://www.last.fm/music/Colin+McSherry)**<br/>
 <!--END_LASTFM_ARTISTS-->
