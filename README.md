@@ -64,11 +64,11 @@
 > `7 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
 > `3 ▶️` ∙ **[Birds Without Feathers - EP](https://www.last.fm/music/Birds+Without+Feathers/Birds+Without+Feathers+-+EP)** - [Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)<br/>
 > `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `2 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
 > `2 ▶️` ∙ **[Deadbeat](https://www.last.fm/music/Tame+Impala/Deadbeat)** - [Tame Impala](https://www.last.fm/music/Tame+Impala)<br/>
 > `1 ▶️` ∙ **[a fanatic socialist looked up at the stars... - EP](https://www.last.fm/music/a+picture+of+her/a+fanatic+socialist+looked+up+at+the+stars...+-+EP)** - [a picture of her](https://www.last.fm/music/a+picture+of+her)<br/>
-> `1 ▶️` ∙ **[Nerves](https://www.last.fm/music/Bedroom+Eyes/Nerves)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `1 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
+> `1 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `1 ▶️` ∙ **[Between the Richness](https://www.last.fm/music/Fiddlehead/Between+the+Richness)** - [Fiddlehead](https://www.last.fm/music/Fiddlehead)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,10 +76,10 @@
 
 > `7 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `3 ▶️` ∙ **[Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)**<br/>
-> `3 ▶️` ∙ **[Tame Impala](https://www.last.fm/music/Tame+Impala)**<br/>
-> `2 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 > `2 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `2 ▶️` ∙ **[Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)**<br/>
+> `2 ▶️` ∙ **[Tame Impala](https://www.last.fm/music/Tame+Impala)**<br/>
 > `1 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
-> `1 ▶️` ∙ **[Colin McSherry](https://www.last.fm/music/Colin+McSherry)**<br/>
+> `1 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
+> `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
+> `1 ▶️` ∙ **[Fiddlehead](https://www.last.fm/music/Fiddlehead)**<br/>
 <!--END_LASTFM_ARTISTS-->
