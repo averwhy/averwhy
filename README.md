@@ -66,9 +66,9 @@
 > `8 ▶️` ∙ **[Near Miss](https://www.last.fm/music/Air+Formation/Near+Miss)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[Birds Without Feathers - EP](https://www.last.fm/music/Birds+Without+Feathers/Birds+Without+Feathers+-+EP)** - [Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)<br/>
-> `3 ▶️` ∙ **[Am](https://www.last.fm/music/Ovlov/Am)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `3 ▶️` ∙ **[Tru](https://www.last.fm/music/Ovlov/Tru)** - [Ovlov](https://www.last.fm/music/Ovlov)<br/>
 > `3 ▶️` ∙ **[Ghosts of the Great Highway](https://www.last.fm/music/Sun+Kil+Moon/Ghosts+of+the+Great+Highway)** - [Sun Kil Moon](https://www.last.fm/music/Sun+Kil+Moon)<br/>
+> `2 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
@@ -76,7 +76,7 @@
 
 > `18 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `9 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
-> `6 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
+> `5 ▶️` ∙ **[Ovlov](https://www.last.fm/music/Ovlov)**<br/>
 > `4 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `4 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `4 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
