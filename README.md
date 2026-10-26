@@ -48,6 +48,7 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
+> ∙ **[July, December](https://www.last.fm/music/racecourse/_/July,+December)** - racecourse<br/>
 > ∙ **[Iowa Swarm](https://www.last.fm/music/Knifeplay/_/Iowa+Swarm)** - Knifeplay<br/>
 > ∙ **[calorie (use)](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/calorie+(use))** - They Are Gutting a Body of Water<br/>
 > ∙ **[Bruce Lee](https://www.last.fm/music/racecourse/_/Bruce+Lee)** - racecourse<br/>
@@ -55,14 +56,13 @@
 > ∙ **[July, December](https://www.last.fm/music/racecourse/_/July,+December)** - racecourse<br/>
 > ∙ **[Upstairs (212)](https://www.last.fm/music/First+Day+Back/_/Upstairs+(212))** - First Day Back<br/>
 > ∙ **[memdrive](https://www.last.fm/music/Should/_/memdrive)** - Should<br/>
-> ∙ **[SOUR DIESEL](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water/_/SOUR+DIESEL)** - They Are Gutting a Body of Water<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `15 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
-> `11 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
+> `12 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
 > `9 ▶️` ∙ **[Near Miss](https://www.last.fm/music/Air+Formation/Near+Miss)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `7 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
@@ -75,11 +75,11 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
 > `24 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
-> `11 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
+> `12 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `9 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `9 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `8 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
 > `7 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
-> `7 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `6 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `6 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `5 ▶️` ∙ **[leod](https://www.last.fm/music/leod)**<br/>
 <!--END_LASTFM_ARTISTS-->
