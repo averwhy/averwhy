@@ -61,25 +61,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `6 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
-> `3 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `1 ▶️` ∙ **[a fanatic socialist looked up at the stars... - EP](https://www.last.fm/music/a+picture+of+her/a+fanatic+socialist+looked+up+at+the+stars...+-+EP)** - [a picture of her](https://www.last.fm/music/a+picture+of+her)<br/>
-> `1 ▶️` ∙ **[Birds Without Feathers - EP](https://www.last.fm/music/Birds+Without+Feathers/Birds+Without+Feathers+-+EP)** - [Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)<br/>
-> `1 ▶️` ∙ **[Diamond Eyes (Deluxe)](https://www.last.fm/music/Deftones/Diamond+Eyes+(Deluxe))** - [Deftones](https://www.last.fm/music/Deftones)<br/>
-> `1 ▶️` ∙ **[Flex Lavender](https://www.last.fm/music/Difference+Engine/Flex+Lavender)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `5 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
+> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `1 ▶️` ∙ **[The Mouse Rides On - EP](https://www.last.fm/music/Euphoria+Again/The+Mouse+Rides+On+-+EP)** - [Euphoria Again](https://www.last.fm/music/Euphoria+Again)<br/>
+> `1 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `1 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `1 ▶️` ∙ **[What Is Truth?](https://www.last.fm/music/Knifeplay/What+Is+Truth%3F)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `1 ▶️` ∙ **[Untitled 01 - Single](https://www.last.fm/music/leod/Untitled+01+-+Single)** - [leod](https://www.last.fm/music/leod)<br/>
+> `1 ▶️` ∙ **[Untitled 04 - Single](https://www.last.fm/music/leod/Untitled+04+-+Single)** - [leod](https://www.last.fm/music/leod)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `6 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `5 ▶️` ∙ **[leod](https://www.last.fm/music/leod)**<br/>
-> `4 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
-> `4 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `5 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
+> `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
-> `3 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
-> `2 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `1 ▶️` ∙ **[a picture of her](https://www.last.fm/music/a+picture+of+her)**<br/>
+> `2 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
+> `1 ▶️` ∙ **[Euphoria Again](https://www.last.fm/music/Euphoria+Again)**<br/>
+> `1 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
+> `1 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 <!--END_LASTFM_ARTISTS-->
