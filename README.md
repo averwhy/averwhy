@@ -62,7 +62,7 @@
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
 > `5 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `2 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `1 ▶️` ∙ **[The Mouse Rides On - EP](https://www.last.fm/music/Euphoria+Again/The+Mouse+Rides+On+-+EP)** - [Euphoria Again](https://www.last.fm/music/Euphoria+Again)<br/>
 > `1 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
 > `1 ▶️` ∙ **[B-Sides & Rarities (2015-2020)](https://www.last.fm/music/Knifeplay/B-Sides+&+Rarities+(2015-2020))** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
@@ -76,8 +76,8 @@
 
 > `5 ▶️` ∙ **[leod](https://www.last.fm/music/leod)**<br/>
 > `5 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
-> `3 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `3 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `2 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `2 ▶️` ∙ **[They Are Gutting a Body of Water](https://www.last.fm/music/They+Are+Gutting+a+Body+of+Water)**<br/>
 > `1 ▶️` ∙ **[Euphoria Again](https://www.last.fm/music/Euphoria+Again)**<br/>
 > `1 ▶️` ∙ **[Lilys](https://www.last.fm/music/Lilys)**<br/>
