@@ -63,18 +63,18 @@
 
 > `7 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
 > `7 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `6 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `6 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `5 ▶️` ∙ **[Learn to Swim - EP](https://www.last.fm/music/Danxia/Learn+to+Swim+-+EP)** - [Danxia](https://www.last.fm/music/Danxia)<br/>
+> `5 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `4 ▶️` ∙ **[Near Miss](https://www.last.fm/music/Air+Formation/Near+Miss)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `4 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
+> `4 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `10 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
+> `9 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `8 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `8 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 > `7 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
