@@ -61,25 +61,25 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `7 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
 > `6 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
-> `4 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
+> `6 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
 > `4 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `4 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[Turned Away](https://www.last.fm/music/Bedroom+Eyes/Turned+Away)** - [Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)<br/>
 > `3 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
+> `3 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `3 ▶️` ∙ **[A Folding Sieve](https://www.last.fm/music/Should/A+Folding+Sieve)** - [Should](https://www.last.fm/music/Should)<br/>
+> `3 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `7 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `6 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `6 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `6 ▶️` ∙ **[Mineral](https://www.last.fm/music/Mineral)**<br/>
+> `6 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `5 ▶️` ∙ **[Duster](https://www.last.fm/music/Duster)**<br/>
-> `4 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `4 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `3 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
+> `3 ▶️` ∙ **[Bedroom Eyes](https://www.last.fm/music/Bedroom+Eyes)**<br/>
 <!--END_LASTFM_ARTISTS-->
