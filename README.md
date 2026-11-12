@@ -61,25 +61,11 @@
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-> `3 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `2 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
-> `2 ▶️` ∙ **[Feed Like Fishes](https://www.last.fm/music/Should/Feed+Like+Fishes)** - [Should](https://www.last.fm/music/Should)<br/>
-> `1 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
-> `1 ▶️` ∙ **[Near Miss](https://www.last.fm/music/Air+Formation/Near+Miss)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
-> `1 ▶️` ∙ **[Birds Without Feathers - EP](https://www.last.fm/music/Birds+Without+Feathers/Birds+Without+Feathers+-+EP)** - [Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)<br/>
-> `1 ▶️` ∙ **[Breadmaker](https://www.last.fm/music/Difference+Engine/Breadmaker)** - [Difference Engine](https://www.last.fm/music/Difference+Engine)<br/>
-> `1 ▶️` ∙ **[1975 - EP](https://www.last.fm/music/Duster/1975+-+EP)** - [Duster](https://www.last.fm/music/Duster)<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-> `3 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
-> `3 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
-> `2 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
-> `2 ▶️` ∙ **[Mineral](https://www.last.fm/music/Mineral)**<br/>
-> `2 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `2 ▶️` ∙ **[Pia Fraus](https://www.last.fm/music/Pia+Fraus)**<br/>
-> `1 ▶️` ∙ **[Birds Without Feathers](https://www.last.fm/music/Birds+Without+Feathers)**<br/>
-> `1 ▶️` ∙ **[Difference Engine](https://www.last.fm/music/Difference+Engine)**<br/>
+No listening data found for the selected time period.
 <!--END_LASTFM_ARTISTS-->
