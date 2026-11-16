@@ -65,8 +65,8 @@
 > `10 ▶️` ∙ **[The Power of Failing](https://www.last.fm/music/Mineral/The+Power+of+Failing)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
 > `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `8 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
-> `7 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `7 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
+> `6 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `5 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
 > `4 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 <!--END_LASTFM_ALBUMS-->
@@ -76,10 +76,10 @@
 
 > `17 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `17 ▶️` ∙ **[Mineral](https://www.last.fm/music/Mineral)**<br/>
-> `10 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
+> `9 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `9 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
 > `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `8 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
 > `7 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
+> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
 <!--END_LASTFM_ARTISTS-->
