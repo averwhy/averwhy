@@ -48,24 +48,38 @@
 <!--START_LASTFM_RECENT-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Recent Tracks**
 
-> ∙ **[Pennybox](https://www.last.fm/music/racecourse/_/Pennybox)** - racecourse<br/>
-> ∙ **[Unfinished](https://www.last.fm/music/Mineral/_/Unfinished)** - Mineral<br/>
-> ∙ **[Merger](https://www.last.fm/music/Should/_/Merger)** - Should<br/>
-> ∙ **[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)** - my bloody valentine<br/>
-> ∙ **[July, December](https://www.last.fm/music/racecourse/_/July,+December)** - racecourse<br/>
-> ∙ **[Breathe Salt](https://www.last.fm/music/Should/_/Breathe+Salt)** - Should<br/>
-> ∙ **[Caledonia](https://www.last.fm/music/racecourse/_/Caledonia)** - racecourse<br/>
-> ∙ **[Agonizing Mountain (Live)](https://www.last.fm/music/Knifeplay/_/Agonizing+Mountain+(Live))** - Knifeplay<br/>
+> ∙ **[What You Want](https://www.last.fm/music/my+bloody+valentine/_/What+You+Want)** - my bloody valentine<br/>
+> ∙ **[A Letter](https://www.last.fm/music/Mineral/_/A+Letter)** - Mineral<br/>
+> ∙ **[Waking To Winter](https://www.last.fm/music/Mineral/_/Waking+To+Winter)** - Mineral<br/>
+> ∙ **[For Ivadell](https://www.last.fm/music/Mineral/_/For+Ivadell)** - Mineral<br/>
+> ∙ **[Palisade](https://www.last.fm/music/Mineral/_/Palisade)** - Mineral<br/>
+> ∙ **[Love Letter Typewriter](https://www.last.fm/music/Mineral/_/Love+Letter+Typewriter)** - Mineral<br/>
+> ∙ **[twins](https://www.last.fm/music/Astrobrite/_/twins)** - Astrobrite<br/>
+> ∙ **[Sometimes](https://www.last.fm/music/my+bloody+valentine/_/Sometimes)** - my bloody valentine<br/>
 <!--END_LASTFM_RECENT-->
 
 <!--START_LASTFM_ALBUMS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Albums - Past Week**
 
-No listening data found for the selected time period.
+> `10 ▶️` ∙ **[Animal Drowning](https://www.last.fm/music/Knifeplay/Animal+Drowning)** - [Knifeplay](https://www.last.fm/music/Knifeplay)<br/>
+> `10 ▶️` ∙ **[The Power of Failing](https://www.last.fm/music/Mineral/The+Power+of+Failing)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
+> `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
+> `8 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
+> `7 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
+> `7 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
+> `5 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
+> `4 ▶️` ∙ **[Crush](https://www.last.fm/music/Astrobrite/Crush)** - [Astrobrite](https://www.last.fm/music/Astrobrite)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
 <a href="https://last.fm" target="_blank"><img src="https://user-images.githubusercontent.com/17434202/215290617-e793598d-d7c9-428f-9975-156db1ba89cc.svg" alt="Last.fm Logo" width="18" height="13"/></a> **Top Artists - Past Week**
 
-No listening data found for the selected time period.
+> `17 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
+> `17 ▶️` ∙ **[Mineral](https://www.last.fm/music/Mineral)**<br/>
+> `10 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
+> `9 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
+> `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
+> `8 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
+> `7 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
+> `7 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
