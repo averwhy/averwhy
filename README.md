@@ -66,8 +66,8 @@
 > `8 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `8 ▶️` ∙ **[July, December](https://www.last.fm/music/racecourse/July,+December)** - [racecourse](https://www.last.fm/music/racecourse)<br/>
 > `6 ▶️` ∙ **[Endserenading](https://www.last.fm/music/Mineral/Endserenading)** - [Mineral](https://www.last.fm/music/Mineral)<br/>
-> `5 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `5 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
+> `4 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
 > `4 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
 <!--END_LASTFM_ALBUMS-->
 
@@ -77,9 +77,9 @@
 > `16 ▶️` ∙ **[Knifeplay](https://www.last.fm/music/Knifeplay)**<br/>
 > `16 ▶️` ∙ **[Mineral](https://www.last.fm/music/Mineral)**<br/>
 > `9 ▶️` ∙ **[my bloody valentine](https://www.last.fm/music/my+bloody+valentine)**<br/>
-> `8 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `8 ▶️` ∙ **[First Day Back](https://www.last.fm/music/First+Day+Back)**<br/>
 > `8 ▶️` ∙ **[racecourse](https://www.last.fm/music/racecourse)**<br/>
+> `7 ▶️` ∙ **[Air Formation](https://www.last.fm/music/Air+Formation)**<br/>
 > `7 ▶️` ∙ **[Eagles](https://www.last.fm/music/Eagles)**<br/>
-> `7 ▶️` ∙ **[Title Fight](https://www.last.fm/music/Title+Fight)**<br/>
+> `6 ▶️` ∙ **[Should](https://www.last.fm/music/Should)**<br/>
 <!--END_LASTFM_ARTISTS-->
