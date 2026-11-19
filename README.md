@@ -68,7 +68,7 @@
 > `5 ▶️` ∙ **[Forward](https://www.last.fm/music/First+Day+Back/Forward)** - [First Day Back](https://www.last.fm/music/First+Day+Back)<br/>
 > `5 ▶️` ∙ **[HELLPHONE 3D](https://www.last.fm/music/Warmachine/HELLPHONE+3D)** - [Warmachine](https://www.last.fm/music/Warmachine)<br/>
 > `4 ▶️` ∙ **[Stratosphere](https://www.last.fm/music/Duster/Stratosphere)** - [Duster](https://www.last.fm/music/Duster)<br/>
-> `3 ▶️` ∙ **[Daylight Storms](https://www.last.fm/music/Air+Formation/Daylight+Storms)** - [Air Formation](https://www.last.fm/music/Air+Formation)<br/>
+> `3 ▶️` ∙ **[Loveless](https://www.last.fm/music/my+bloody+valentine/Loveless)** - [my bloody valentine](https://www.last.fm/music/my+bloody+valentine)<br/>
 <!--END_LASTFM_ALBUMS-->
 
 <!--START_LASTFM_ARTISTS-->
